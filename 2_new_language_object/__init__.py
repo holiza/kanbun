@@ -1,42 +1,67 @@
-import spacy
-from spacy.language import Language
-from spacy.lang.tokenizer_exceptions import URL_MATCH
-from .stop_words import STOP_WORDS
-from .tokenizer_exceptions import TOKENIZER_EXCEPTIONS
-from .punctuation import TOKENIZER_PREFIXES, TOKENIZER_SUFFIXES, TOKENIZER_INFIXES
-from .tag_map import TAG_MAP
+from importlib.resources import files, open_text
 
-# https://nightly.spacy.io/api/language#defaults
+from spacy.lang.zh import ChineseTokenizer, Segmenter
+from spacy.language import Language
+from spacy.util import load_config, registry
+
+from .lex_attrs import LEX_ATTRS
+from .stop_words import STOP_WORDS
+
+
+# For now, just extend the default Chinese tokenizer
+class KanbunTokenizer(ChineseTokenizer):
+    pass
+
+
+# Without a model, just segment by character
+# https://spacy.io/api/tokenizer
+@registry.tokenizers("spacy.och.OldChineseTokenizer")
+def create_kanbun_tokenizer():
+    def kanbun_tokenizer_factory(nlp: Language):
+        return KanbunTokenizer(nlp, segmenter=Segmenter.char)
+
+    return kanbun_tokenizer_factory
+
+
+# TODO: implement UD-Kanbun's tokenizer
+# class UDKanbunTokenizer:
+#     def __init__(self, vocab, udpipe_model):
+#         self.vocab = vocab
+#         self.model = ufal.udpipe.Model.load(udpipe_model)
+#         self.pipe = ufal.udpipe.Pipeline(
+#             self.model,
+#             "tokenizer=joint_with_parsing",
+#             "tagger=none",
+#             "parser=none",
+#             "sentencizer=none",
+#         )
+#
+#     def __call__(self, text):
+#         words = []
+#         spaces = [False] * len(words)
+#         return Doc(self.vocab, words=words, spaces=spaces)
+
+
+# https://spacy.io/api/language#defaults
 class KanbunDefaults(Language.Defaults):
+    config = load_config(open_text(__name__, "config.cfg"))
+    lex_attr_getters = LEX_ATTRS
     stop_words = STOP_WORDS
-    tokenizer_exceptions = TOKENIZER_EXCEPTIONS
-    prefixes = TOKENIZER_PREFIXES
-    suffixes = TOKENIZER_SUFFIXES
-    infixes = TOKENIZER_INFIXES
-    token_match = None
-    url_match = URL_MATCH
-    tag_map = TAG_MAP
     writing_system = {"direction": "ltr", "has_case": False, "has_letters": False}
 
 
-@spacy.registry.languages("lzh")  # https://nightly.spacy.io/api/top-level#registry
+# https://spacy.io/api/language#class-attributes
+@registry.languages("lzh")
 class Kanbun(Language):
     lang = "lzh"
     Defaults = KanbunDefaults
 
 
-# Add locations of lookups data to the registry
-@spacy.registry.lookups("lzh")
-def do_registration():
-    from pathlib import Path
-
-    cadet_path = Path.cwd()
-    lookups_path = cadet_path / "new_lang" / "kanbun" / "lookups"
-    result = {}
-    for lookup in lookups_path.iterdir():
-        key = lookup.stem[lookup.stem.find("_") + 1 :]
-        result[key] = str(lookup)
-    return result
+# Add lookups to the registry
+# https://spacy.io/api/lookups
+@registry.lookups("och")
+def find_lookups():
+    return {file.stem[4:]: str(file) for file in files("och.lookups").glob("*.json")}
 
 
 __all__ = ["Kanbun"]
