@@ -1,9 +1,62 @@
-
-# coding: utf8
-from __future__ import unicode_literals
-
+"""
+Stop words for Kanbun. Inspired by:
+https://github.com/explosion/spaCy/blob/master/spacy/lang/zh/stop_words.py
+"""
 
 STOP_WORDS = set(
     """
- 。 ， 之 不 而 為 以 其 ： 人 、 」  也""".split()
+!
+"
+#
+$
+%
+&
+'
+(
+)
+*
++
+,
+-
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+、
+。
+：
+；
+〈
+〉
+《
+》
+『
+』
+【
+】
+〔
+〕
+！
+＃
+＄
+％
+＆
+|
+。
+，
+之
+不
+而
+為
+以
+其
+人
+也
+""".split()
 )
