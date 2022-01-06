@@ -1,4 +1,4 @@
-from importlib.resources import files, read_text
+from importlib.resources import read_text
 
 from spacy.lang.zh import ChineseTokenizer, Segmenter
 from spacy.language import Language
@@ -55,13 +55,6 @@ class KanbunDefaults(Language.Defaults):
 class Kanbun(Language):
     lang = "lzh"
     Defaults = KanbunDefaults
-
-
-# Add lookups to the registry
-# https://spacy.io/api/lookups
-@registry.lookups("och")
-def find_lookups():
-    return {file.stem[4:]: str(file) for file in files("och.lookups").glob("*.json")}
 
 
 __all__ = ["Kanbun"]
