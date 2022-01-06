@@ -1,2 +1,0 @@
-
-SYNTAX_ITERATORS = {}

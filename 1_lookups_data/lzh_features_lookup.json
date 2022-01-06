@@ -1,1 +1,23 @@
-{"伊 勢": "LOCATION", "三 代 實 錄": "TITLE", "藤 原": "PERSON", "北 條": "PERSON", "東 鑑": "TITLE", "楠 正 成": "PERSON", "河 海 鈔": "TITLE", "義 朝": "RANK", "高 橋": "NAME", "小 野": "PERSON", "伊 勢 大 輔": "LOCATION", "十 訓 抄": "TITLE", "皇 后": "RANK", "中 古 歌 仙 傳": "TITLE", "紫 式 部 日 記": "TITLE", "紫 式 部": "PERSON", "公 卿": "RANK", "中 納 言": "RANK", "大 納 言": "RANK", "拾 遺 集": "TITLE", "袋 草 子": "TITLE", "伊 勢": "LOCATION", "三 代 實 錄": "TITLE", "藤 原": "PERSON", "北 條": "PERSON", "東 鑑": "TITLE", "楠 正 成": "PERSON", "河 海 鈔": "TITLE", "義 朝": "RANK", "高 橋": "NAME", "小 野": "PERSON", "伊 勢 大 輔": "LOCATION", "十 訓 抄": "TITLE", "皇 后": "RANK", "中 古 歌 仙 傳": "TITLE", "紫 式 部 日 記": "TITLE", "紫 式 部": "PERSON", "公 卿": "RANK", "中 納 言": "RANK", "大 納 言": "RANK", "拾 遺 集": "TITLE", "袋 草 子": "TITLE"}
+{
+    "伊勢": "LOCATION",
+    "三代實錄": "TITLE",
+    "藤原": "PERSON",
+    "北條": "PERSON",
+    "東鑑": "TITLE",
+    "楠正成": "PERSON",
+    "河海鈔": "TITLE",
+    "義朝": "RANK",
+    "高橋": "NAME",
+    "小野": "PERSON",
+    "伊勢大輔": "LOCATION",
+    "十訓抄": "TITLE",
+    "皇后": "RANK",
+    "中古歌仙傳": "TITLE",
+    "紫式部日記": "TITLE",
+    "紫式部": "PERSON",
+    "公卿": "RANK",
+    "中納言": "RANK",
+    "大納言": "RANK",
+    "拾遺集": "TITLE",
+    "袋草子": "TITLE"
+}
