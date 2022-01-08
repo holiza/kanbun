@@ -1,4824 +1,4824 @@
-1	【	【	s,記号,括弧開,*	O	10	advmod
-2	朱	朱	n,名詞,描写,形質	O	3	nmod
-3	雀	雀	n,名詞,主体,動物	O	10	nsubj
-4	天	天	n,名詞,制度,場	PER	5	nmod
-5	皇	皇	v,動詞,描写,態度	PER	3	conj
-6	】	】	s,記号,括弧閉,*	O	8	cc
-7	朱	朱	n,名詞,描写,形質	O	8	nmod
-8	雀	雀	n,名詞,主体,動物	O	3	conj
-9	女	女	n,名詞,人,人	O	3	conj
-10	御	御	v,動詞,行為,交流	O	0	root
-11	熙	熙	n,名詞,人,名	O	12	nmod
-12	子	子	n,名詞,人,関係	O	10	obj
-13	女	女	n,名詞,人,関係	PER	12	flat
-14	王	王	n,名詞,人,役割	PER	12	flat
-15	，	，	s,記号,読点,*	O	10	punct
-
-1	文	文	n,名詞,人,その他の人名	O	2	nmod
-2	獻	獻	n,名詞,人,その他の人名	O	4	nmod
-3	太	太	n,名詞,人,その他の人名	PER	4	amod
-4	子	子	n,名詞,人,関係	PER	0	root
-5	女	女	n,名詞,人,関係	O	4	flat
-6	也	也	p,助詞,句末,*	O	_	_
-7	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	12	csubj
-5	、	、	s,記号,読点,*	O	8	nmod
-6	中	中	n,名詞,固定物,関係	OTH	_	_
-7	右	右	n,名詞,固定物,関係	OTH	_	_
-8	記	記	v,動詞,行為,動作	OTH	4	conj
-9	大	大	v,動詞,描写,量	O	10	advmod
-10	治	治	v,動詞,行為,動作	O	_	_
-11	五	五	n,数詞,数字,*	O	12	nummod
-12	年	年	n,名詞,時,*	O	0	root
-13	。	。	s,記号,句点,*	O	12	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	投	投	v,動詞,行為,動作	O	0	root
-3	正	正	v,動詞,描写,形質	O	2	iobj
-4	四	四	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	2	obj
-6	下	下	n,名詞,固定物,関係	O	2	parataxis
-7	。	。	s,記号,句点,*	O	2	punct
-8	【	【	s,記号,括弧開,*	O	11	cc
-9	一	一	n,数詞,数字,*	OTH	10	nummod
-10	代	代	n,名詞,時,*	OTH	_	_
-11	要	要	v,動詞,行為,動作	OTH	2	obj
-12	記	記	p,助詞,句末,*	OTH	_	_
-13	。	。	s,記号,句点,*	O	11	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	承	承	v,動詞,行為,伝達	O	4	csubj
-3	平	平	v,動詞,描写,形質	O	2	obj
-4	七	七	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,前置詞,源泉,*	O	2	case
-2	女	女	n,名詞,人,関係	O	3	obl
-3	御	御	v,動詞,行為,交流	O	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	0	root
-4	記	記	p,助詞,句末,*	OTH	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	曆	曆	n,名詞,天象,天文	O	6	nmod
-4	四	四	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	_	_
-7	生	生	v,動詞,変化,生物	O	0	root
-8	昌	昌	v,動詞,描写,量	O	9	amod
-9	子	子	n,名詞,人,人	O	12	nmod
-10	內	內	n,名詞,固定物,関係	O	12	nmod
-11	親	親	v,動詞,行為,態度	O	12	amod
-12	王	王	n,名詞,人,役割	O	7	obj
-13	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	0	root
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	、	、	s,記号,読点,*	O	5	punct
-
-1	中	中	n,名詞,固定物,関係	OTH	3	nmod
-2	右	右	n,名詞,固定物,関係	OTH	_	_
-3	記	記	v,動詞,行為,動作	OTH	7	csubj
-4	大	大	v,動詞,描写,量	O	5	advmod
-5	治	治	v,動詞,行為,動作	O	_	_
-6	五	五	n,数詞,数字,*	O	7	nummod
-7	年	年	n,名詞,時,*	O	0	root
-8	。	。	s,記号,句点,*	O	7	punct
-
-1	天	天	n,名詞,制度,場	O	2	compound
-2	曆	曆	n,名詞,天象,天文	O	5	nsubj
-3	四	四	n,数詞,数字,*	O	5	nummod
-4	年	年	n,名詞,時,*	O	3	clf
-5	據	據	v,動詞,行為,姿勢	O	0	root
-6	類	類	n,名詞,描写,形質	OTH	5	obj
-7	聚	聚	v,動詞,行為,動作	OTH	_	_
-8	符	符	n,名詞,可搬,道具	OTH	7	obj
-9	宣	宣	v,動詞,行為,動作	OTH	10	compound
-10	抄	抄	n,名詞,*,*	OTH	5	obj
-11	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	敘	敘	v,動詞,行為,設置	O	3	advmod
-3	從	從	v,動詞,行為,動作	O	0	root
-4	三	三	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	3	obj
-6	。	。	s,記号,句点,*	O	3	punct
-7	【	【	s,記号,括弧開,*	O	11	cc
-8	一	一	n,数詞,数字,*	OTH	9	nummod
-9	代	代	n,名詞,時,*	OTH	_	_
-10	要	要	v,動詞,行為,動作	OTH	11	advmod
-11	記	記	p,助詞,句末,*	OTH	3	conj
-12	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	尋	尋	n,名詞,人,名	O	3	nsubj
-3	薨	薨	v,動詞,変化,生物	O	0	root
-4	，	，	s,記号,読点,*	O	3	punct
-
-1	稱	稱	v,動詞,行為,動作	O	0	root
-2	王	王	v,動詞,行為,役割	PER	3	nmod
-3	女	女	n,名詞,人,人	PER	4	nsubj
-4	御	御	v,動詞,行為,交流	O	1	ccomp
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	7	advmod
-2	榮	榮	v,動詞,描写,形質	OTH	7	nsubj
-3	華	華	n,名詞,固定物,樹木	OTH	_	_
-4	物	物	n,名詞,可搬,道具	OTH	5	nsubj
-5	語	語	v,動詞,行為,伝達	OTH	2	parataxis
-6	。	。	s,記号,句点,*	O	2	punct
-7	○	○	s,記号,一般,*	O	0	root
-
-1	熙	熙	n,名詞,人,名	O	2	nmod
-2	子	子	n,名詞,人,関係	O	3	nsubj
-3	薨	薨	v,動詞,変化,生物	O	0	root
-4	年	年	n,名詞,時,*	O	3	obj
-5	不	不	v,副詞,否定,無界	O	6	advmod
-6	詳	詳	v,動詞,描写,形質	O	3	parataxis
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	按	按	v,動詞,行為,動作	O	0	root
-2	昌	昌	v,動詞,描写,量	O	3	amod
-3	子	子	n,名詞,人,人	O	1	obj
-
-1	內	內	n,名詞,固定物,関係	O	3	nmod
-2	親	親	v,動詞,行為,態度	O	3	amod
-3	王	王	n,名詞,人,役割	O	5	nsubj
-4	長	長	v,動詞,描写,量	O	5	advmod
-5	保	保	v,動詞,行為,交流	O	0	root
-6	元	元	n,名詞,描写,形質	O	7	nmod
-7	年	年	n,名詞,時,*	O	_	_
-8	卒	卒	v,動詞,変化,生物	O	5	parataxis
-9	，	，	s,記号,読点,*	O	5	punct
-
-1	年	年	n,名詞,時,*	O	2	nsubj
-2	五十	五十	n,数詞,数,*	O	3	nummod
-3	，	，	s,記号,読点,*	O	0	root
-
-1	則	則	v,副詞,時相,緊接	O	2	advmod
-2	以	以	v,動詞,行為,動作	O	0	root
-3	天	天	n,名詞,制度,場	O	4	compound
-4	曆	曆	n,名詞,天象,天文	O	7	nmod
-5	四	四	n,数詞,数字,*	O	7	nummod
-6	年	年	n,名詞,時,*	O	5	clf
-7	生	生	v,動詞,変化,生物	O	2	ccomp
-8	。	。	s,記号,句点,*	O	2	punct
-
-1	而	而	p,助詞,接続,並列	O	3	advmod
-2	本	本	v,動詞,行為,動作	O	3	amod
-3	書	書	n,名詞,主体,書物	O	4	nsubj
-4	云	云	v,動詞,行為,伝達	O	0	root
-
-1	昌	昌	n,名詞,人,名	O	2	nmod
-2	子	子	n,名詞,人,関係	O	3	nsubj
-3	三	三	n,数詞,数字,*	O	0	root
-4	歲	歲	n,名詞,時,*	O	3	clf
-5	而	而	p,助詞,接続,並列	O	8	cc
-6	熙	熙	v,動詞,描写,形質	O	7	amod
-7	子	子	n,名詞,人,関係	O	8	nsubj
-8	薨	薨	v,動詞,変化,生物	O	3	conj
-9	。	。	s,記号,句点,*	O	3	punct
-
-1	據	據	v,動詞,行為,姿勢	O	0	root
-2	此	此	n,代名詞,指示,*	O	1	obj
-3	推	推	v,動詞,行為,動作	O	1	parataxis
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	熙	熙	n,名詞,人,名	O	2	nmod
-2	子	子	n,名詞,人,関係	O	3	nmod
-3	蓋	蓋	p,助詞,句頭,*	O	9	nsubj
-4	以	以	v,動詞,行為,動作	O	9	advcl
-5	天	天	n,名詞,制度,場	O	6	compound
-6	曆	曆	n,名詞,天象,天文	O	8	nmod
-7	六	六	n,数詞,数字,*	O	8	nummod
-8	年	年	n,名詞,時,*	O	4	obj
-9	薨	薨	v,動詞,変化,生物	O	0	root
-10	也	也	p,助詞,句末,*	O	_	_
-11	。	。	s,記号,句点,*	O	9	punct
-
-1	然	然	v,動詞,描写,態度	O	3	advmod
-2	他	他	n,代名詞,指示,*	O	3	nsubj
-3	無	無	v,動詞,存在,存在	O	0	root
-4	明	明	n,名詞,描写,形質	O	5	nmod
-5	文	文	n,名詞,可搬,伝達	O	3	obj
-
-1	，	，	s,記号,読点,*	O	4	advmod
-2	故	故	v,副詞,判断,確定	O	4	advmod
-3	不	不	v,副詞,否定,無界	O	4	advmod
-4	取	取	v,動詞,行為,得失	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-6	】	】	s,記号,括弧閉,*	O	7	nmod
-7	女	女	n,名詞,人,人	O	4	obj
-8	御	御	v,動詞,行為,交流	O	9	amod
-9	藤	藤	n,名詞,*,*	PER	10	nmod
-10	原	原	n,名詞,人,姓氏	PER	12	nmod
-11	慶	慶	n,名詞,人,名	PER	10	flat
-12	子	子	n,名詞,人,関係	PER	4	obj
-13	，	，	s,記号,読点,*	O	4	punct
-
-1	太	太	v,動詞,描写,量	PER	2	amod
-2	政	政	n,名詞,制度,儀礼	PER	4	nmod
-3	大	大	v,動詞,描写,量	PER	4	amod
-4	臣	臣	n,名詞,人,役割	PER	6	nsubj
-5	實	實	v,副詞,程度,極度	O	6	advmod
-6	賴	賴	v,動詞,描写,態度	O	0	root
-7	女	女	n,名詞,人,人	O	6	obj
-8	也	也	p,助詞,句末,*	O	_	_
-9	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	大	大	v,動詞,描写,量	OTH	2	amod
-2	鏡	鏡	n,名詞,可搬,道具	OTH	5	nmod
-3	裏	裡	n,名詞,固定物,関係	OTH	4	nmod
-4	書	書	n,名詞,主体,書物	OTH	2	conj
-5	、	、	s,記号,読点,*	O	_	_
-6	一	一	n,数詞,数字,*	OTH	7	nummod
-7	代	代	n,名詞,時,*	OTH	_	_
-8	要	要	v,動詞,行為,動作	OTH	9	advmod
-9	記	記	p,助詞,句末,*	OTH	12	discourse
-10	。	。	s,記号,句点,*	O	9	punct
-11	】	】	s,記号,括弧閉,*	O	12	nsubj
-12	授	授	v,動詞,行為,得失	O	0	root
-13	正	正	v,動詞,描写,形質	O	12	iobj
-14	五	五	n,数詞,数字,*	O	15	nummod
-15	位	位	n,名詞,制度,場	O	16	nmod
-16	下	下	n,名詞,固定物,関係	O	12	obj
-17	。	。	s,記号,句点,*	O	12	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	一	一	n,数詞,数字,*	OTH	3	nummod
-3	代	代	n,名詞,時,*	OTH	_	_
-4	要	要	v,動詞,行為,動作	OTH	0	root
-5	記	記	p,助詞,句末,*	OTH	_	_
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	9	cc
-8	天	天	n,名詞,制度,場	O	9	nsubj
-9	慶	慶	v,動詞,描写,態度	O	4	conj
-
-1	四	四	n,数詞,数字,*	O	2	nummod
-2	年	年	n,名詞,時,*	O	_	_
-3	，	，	s,記号,読点,*	O	6	advmod
-4	為	爲	v,前置詞,源泉,*	O	5	case
-5	女	女	n,名詞,人,関係	O	6	obl
-6	御	御	v,動詞,行為,交流	O	0	root
-7	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	p,助詞,句末,*	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-6	】	】	s,記号,括弧閉,*	O	13	conj
-7	天	天	n,名詞,制度,場	O	8	compound
-8	曆	曆	n,名詞,天象,天文	O	13	nsubj
-9	五	五	n,数詞,数字,*	O	13	nummod
-10	年	年	n,名詞,時,*	O	9	clf
-11	十	十	n,数詞,数字,*	O	13	nummod
-12	月	月	n,名詞,時,*	O	11	clf
-13	，	，	s,記号,読点,*	O	4	punct
-
-1	卒	卒	v,動詞,変化,生物	O	0	root
-2	。	。	s,記号,句点,*	O	1	punct
-3	【	【	s,記号,括弧開,*	O	7	cc
-4	一	一	n,数詞,数字,*	OTH	5	nummod
-5	代	代	n,名詞,時,*	OTH	_	_
-6	要	要	v,動詞,行為,動作	OTH	7	advmod
-7	記	記	v,動詞,行為,動作	OTH	1	conj
-8	、	、	s,記号,読点,*	O	1	punct
-
-1	李	李	n,名詞,人,姓氏	OTH	3	nsubj
-2	部	部	n,名詞,主体,集団	OTH	3	nmod
-3	王	王	n,名詞,人,役割	OTH	0	root
-4	記	記	p,助詞,句末,*	OTH	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	【	【	s,記号,括弧開,*	O	3	advmod
-3	村	村	n,名詞,制度,場	O	0	root
-
-1	上	上	n,名詞,固定物,関係	O	2	nmod
-2	天	天	n,名詞,制度,場	PER	12	nsubj
-3	皇	皇	v,動詞,描写,態度	PER	2	flat
-4	】	】	s,記号,括弧閉,*	O	12	advmod
-5	村	村	n,名詞,制度,場	O	6	nmod
-6	上	上	n,名詞,固定物,関係	O	10	nmod
-7	藤	藤	n,名詞,*,*	PER	8	nmod
-8	原	原	n,名詞,固定物,関係	PER	10	nmod
-9	皇	皇	n,名詞,人,役割	PER	10	amod
-10	后	后	n,名詞,人,役割	PER	12	nsubj
-11	，	，	s,記号,読点,*	O	12	advmod
-12	諱	諱	v,動詞,行為,態度	O	0	root
-13	安	安	v,動詞,行為,態度	O	14	amod
-14	子	子	n,名詞,人,関係	O	12	obj
-15	。	。	s,記号,句点,*	O	12	punct
-
-1	右	右	n,名詞,固定物,関係	PER	3	nmod
-2	大	大	v,動詞,描写,量	PER	3	amod
-3	臣	臣	n,名詞,人,役割	PER	4	nmod
-4	師	師	n,名詞,人,役割	O	5	nsubj
-5	輔	輔	v,動詞,行為,交流	O	0	root
-6	女	女	n,名詞,人,人	O	5	obj
-7	也	也	p,助詞,句末,*	O	_	_
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-6	大	大	v,動詞,描写,量	OTH	7	amod
-7	鏡	鏡	n,名詞,可搬,道具	OTH	4	obj
-8	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	amod
-2	帝	帝	n,名詞,人,役割	O	5	nsubj
-3	為	爲	v,動詞,存在,存在	O	5	cop
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	6	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	納	納	v,動詞,行為,動作	O	0	root
-2	之	之	n,代名詞,人称,止格	O	1	obj
-3	。	。	s,記号,句点,*	O	1	punct
-4	及	及	v,動詞,行為,移動	O	5	cc
-5	居	居	v,動詞,行為,動作	O	1	conj
-6	儲	儲	v,動詞,行為,動作	O	7	amod
-7	宮	宮	n,名詞,固定物,建造物	O	5	obj
-8	，	，	s,記号,読点,*	O	9	cc
-9	以	以	v,動詞,行為,動作	O	1	conj
-10	皇	皇	v,動詞,描写,態度	O	12	amod
-11	太	太	v,動詞,描写,量	O	12	amod
-12	弟	弟	n,名詞,人,関係	O	13	nmod
-13	妃	妃	n,名詞,人,関係	O	9	flat
-14	，	，	s,記号,読点,*	O	1	punct
-
-1	授	授	v,動詞,行為,得失	O	0	root
-2	從	從	v,動詞,行為,動作	O	1	iobj
-3	五	五	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	2	obj
-5	上	上	n,名詞,固定物,関係	O	1	obj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	登	登	v,動詞,行為,移動	O	0	root
-2	祚	祚	n,名詞,制度,儀礼	O	1	obj
-3	，	，	s,記号,読点,*	O	1	punct
-
-1	為	爲	v,前置詞,源泉,*	O	2	case
-2	女	女	n,名詞,人,関係	O	3	obl
-3	御	御	v,動詞,行為,交流	O	4	nsubj
-4	，	，	s,記号,読点,*	O	0	root
-
-1	授	授	v,動詞,行為,得失	O	0	root
-2	從	從	v,動詞,行為,動作	O	1	iobj
-3	四	四	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	2	obj
-5	下	下	n,名詞,固定物,関係	O	1	obj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	累	累	v,動詞,行為,動作	O	2	advmod
-2	遷	遷	v,動詞,行為,移動	O	0	root
-3	從	從	v,動詞,行為,動作	O	_	_
-4	三	三	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	2	obj
-6	。	。	s,記号,句点,*	O	2	punct
-
-1	天	天	n,名詞,制度,場	O	2	compound
-2	曆	曆	n,名詞,天象,天文	O	7	nsubj
-3	四	四	n,数詞,数字,*	O	4	nummod
-4	年	年	n,名詞,時,*	O	5	clf
-5	，	，	s,記号,読点,*	O	7	advmod
-6	進	進	v,動詞,行為,移動	O	7	advmod
-7	從	從	v,動詞,行為,動作	O	0	root
-8	二	二	n,数詞,数字,*	O	9	nummod
-9	位	位	n,名詞,制度,場	O	7	obj
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	5	advmod
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	5	obl
-4	裏	裡	n,名詞,固定物,関係	OTH	3	flat
-5	書	書	v,動詞,行為,動作	OTH	0	root
-6	引	引	v,動詞,行為,動作	O	_	_
-7	村	村	n,名詞,制度,場	OTH	9	nmod
-8	上	上	n,名詞,固定物,関係	OTH	9	nmod
-9	御	御	v,動詞,行為,交流	OTH	5	conj
-10	記	記	p,助詞,句末,*	OTH	_	_
-11	。	。	s,記号,句点,*	O	9	punct
-
-1	】	】	s,記号,括弧閉,*	O	8	nmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	德	德	n,名詞,描写,態度	O	5	nmod
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	_	_
-6	四	四	n,数詞,数字,*	O	8	nummod
-7	月	月	n,名詞,時,*	O	6	clf
-8	，	，	s,記号,読点,*	O	0	root
-
-1	置	置	v,動詞,行為,設置	O	6	amod
-2	酒	酒	n,名詞,可搬,糧食	O	1	obj
-3	飛	飛	v,動詞,行為,動作	O	4	amod
-4	香	香	n,名詞,描写,形質	O	1	conj
-5	舍	舍	n,名詞,固定物,建造物	O	4	conj
-6	，	，	s,記号,読点,*	O	8	conj
-7	賀	賀	v,動詞,行為,交流	O	8	nsubj
-8	帥	帥	v,動詞,行為,交流	O	0	root
-9	輔	輔	v,動詞,行為,交流	O	_	_
-10	壽	壽	v,動詞,描写,形質	O	11	amod
-11	五十	五十	n,数詞,数,*	O	8	obj
-12	。	。	s,記号,句点,*	O	8	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	臨	臨	v,動詞,行為,動作	O	0	root
-3	御	御	v,動詞,行為,交流	O	2	obj
-4	宴	宴	v,動詞,行為,交流	O	2	parataxis
-5	樂	樂	n,名詞,制度,儀礼	O	_	_
-6	，	，	s,記号,読点,*	O	2	obj
-
-1	賜	賜	v,動詞,行為,交流	O	0	root
-2	物	物	n,名詞,可搬,道具	O	1	obj
-3	有	有	v,動詞,存在,存在	O	1	parataxis
-4	差	差	v,動詞,描写,形質	O	3	obj
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	nmod
-2	二	二	n,数詞,数字,*	O	6	nummod
-3	年	年	n,名詞,時,*	O	2	clf
-4	十	十	n,数詞,数字,*	O	6	nummod
-5	月	月	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,動詞,存在,存在	O	3	cop
-2	皇	皇	v,動詞,描写,態度	PER	3	amod
-3	后	后	n,名詞,人,役割	PER	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	大	大	v,動詞,描写,量	OTH	2	amod
-2	鏡	鏡	n,名詞,可搬,道具	OTH	4	nmod
-3	裏	裡	n,名詞,固定物,関係	OTH	2	flat
-4	書	書	v,動詞,行為,動作	OTH	5	nsubj
-5	引	引	v,動詞,行為,動作	O	0	root
-6	村	村	n,名詞,制度,場	OTH	8	nmod
-7	上	上	n,名詞,固定物,関係	OTH	8	nmod
-8	御	御	v,動詞,行為,交流	OTH	_	_
-9	記	記	p,助詞,句末,*	OTH	_	_
-10	。	。	s,記号,句点,*	O	8	punct
-
-1	】	】	s,記号,括弧閉,*	O	9	advmod
-2	四	四	n,数詞,数字,*	O	4	nummod
-3	年	年	n,名詞,時,*	O	2	clf
-4	，	，	s,記号,読点,*	O	_	_
-5	以	以	v,動詞,行為,動作	O	9	advcl
-6	父	父	n,名詞,人,関係	O	7	nmod
-7	喪	喪	n,名詞,制度,儀礼	O	5	obj
-8	‧	‧	n,記号,一般,*	O	9	obj
-9	出	出	v,動詞,行為,移動	O	0	root
-10	居	居	v,動詞,行為,動作	O	_	_
-11	兄	兄	n,名詞,人,関係	O	14	nmod
-12	伊	伊	n,名詞,人,姓氏	O	11	flat
-13	尹	尹	n,名詞,人,名	O	11	flat
-14	第	第	n,名詞,数量,*	O	9	obj
-15	。	。	s,記号,句点,*	O	9	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	nmod
-2	康	康	v,動詞,描写,態度	O	5	nsubj
-3	保	保	v,動詞,行為,交流	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	_	_
-6	四	四	n,数詞,数字,*	O	5	nummod
-7	月	月	n,名詞,時,*	O	6	clf
-8	，	，	s,記号,読点,*	O	9	nmod
-9	產	產	n,名詞,可搬,成果物	O	10	nsubj
-10	選	選	v,動詞,行為,動作	O	0	root
-11	子	子	n,名詞,人,関係	O	10	obj
-12	於	於	v,前置詞,基盤,*	O	15	case
-13	主	主	n,名詞,人,役割	O	14	nmod
-14	殿	殿	n,名詞,固定物,関係	O	15	nmod
-15	寮	寮	n,名詞,人,名	O	10	obl
-16	。	。	s,記号,句点,*	O	10	punct
-
-1	數	數	n,名詞,数量,*	O	2	nmod
-2	日	日	n,名詞,時,*	O	_	_
-3	崩	崩	v,動詞,変化,制度	O	0	root
-4	，	，	s,記号,読点,*	O	6	cc
-5	年	年	n,名詞,時,*	O	6	nsubj
-6	三十八	三十八	n,数詞,数,*	O	3	conj
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	2	amod
-2	日	日	n,名詞,時,*	OTHpart	0	root
-
-1	本	本	v,動詞,行為,動作	OTHpart	6	acl
-2	紀	紀	v,動詞,行為,動作	OTHpart	3	amod
-3	略	略	n,名詞,可搬,伝達	OTHpart	1	obj
-4	、	、	s,記号,読点,*	O	1	punct
-5	大	大	v,動詞,描写,量	OTH	6	amod
-6	鏡	鏡	n,名詞,可搬,道具	OTH	8	conj
-7	裏	裡	n,名詞,固定物,関係	OTH	6	flat
-8	書	書	v,動詞,行為,動作	OTH	0	root
-9	引	引	v,動詞,行為,動作	O	_	_
-10	村	村	n,名詞,制度,場	OTH	12	nmod
-11	上	上	n,名詞,固定物,関係	OTH	12	nmod
-12	御	御	v,動詞,行為,交流	OTH	8	conj
-13	記	記	p,助詞,句末,*	OTH	_	_
-14	。	。	s,記号,句点,*	O	12	punct
-
-1	○	○	s,記号,一般,*	O	3	nsubj
-2	按	按	v,動詞,行為,動作	O	1	conj
-3	扶	扶	v,動詞,行為,動作	OTHpart	0	root
-4	桑	桑	n,名詞,固定物,樹木	OTHpart	3	obj
-
-1	略	略	n,名詞,可搬,伝達	OTHpart	2	advmod
-2	記	記	v,動詞,行為,動作	OTHpart	4	nsubj
-3	作	作	v,動詞,行為,生産	O	_	_
-4	三十五	三十五	n,数詞,数,*	O	5	nummod
-5	，	，	s,記号,読点,*	O	6	conj
-6	誤	誤	v,動詞,行為,態度	O	0	root
-7	。	。	s,記号,句点,*	O	6	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	葬	葬	v,動詞,行為,儀礼	O	0	root
-3	愛	愛	v,動詞,行為,交流	O	_	_
-4	宕	宕	n,名詞,固定物,地名	O	5	nmod
-5	郡	郡	n,名詞,制度,場	O	2	obj
-6	東	東	n,名詞,固定物,関係	O	8	nmod
-7	南	南	n,名詞,固定物,関係	O	6	conj
-8	野	野	n,名詞,固定物,地形	O	5	conj
-9	，	，	s,記号,読点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	○	○	s,記号,一般,*	O	4	obj
-
-1	本	本	v,動詞,行為,動作	O	2	amod
-2	書	書	n,名詞,主体,書物	O	4	nmod
-3	一	一	n,数詞,数字,*	O	4	nummod
-4	說	說	n,名詞,可搬,伝達	O	5	nsubj
-5	作	作	v,動詞,行為,生産	O	0	root
-6	神	神	n,名詞,人,役割	O	5	obj
-7	樂	樂	v,動詞,行為,態度	O	8	nmod
-8	岡	岡	n,名詞,固定物,地形	O	5	obj
-9	西	西	n,名詞,固定物,関係	O	8	conj
-10	北	北	n,名詞,固定物,関係	O	9	flat
-11	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	中	中	n,名詞,固定物,関係	O	4	nmod
-4	宇	宇	v,動詞,行為,動作	O	2	obj
-5	治	治	v,動詞,行為,動作	O	2	parataxis
-6	陵	陵	n,名詞,固定物,地形	O	5	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	置	置	v,動詞,行為,設置	O	0	root
-2	國	國	n,名詞,主体,集団	O	1	obj
-3	忌	忌	v,動詞,行為,態度	O	1	parataxis
-4	齋	齋	v,動詞,行為,儀礼	O	_	_
-5	於	於	v,前置詞,基盤,*	O	7	case
-6	西	西	n,名詞,固定物,関係	LOC	7	nmod
-7	寺	寺	n,名詞,主体,機関	LOC	_	_
-8	，	，	s,記号,読点,*	O	9	cc
-9	列	列	v,動詞,行為,設置	O	1	conj
-10	荷	荷	n,名詞,固定物,樹木	O	9	advcl
-11	前	前	n,名詞,固定物,関係	O	12	nmod
-12	幣	幣	n,名詞,可搬,道具	O	10	obj
-13	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	5	det
-2	江	江	n,名詞,固定物,地形	OTH	3	nmod
-3	家	家	n,名詞,固定物,建造物	OTH	5	nsubj
-4	次	次	n,名詞,固定物,関係	OTH	5	nmod
-5	第	第	n,名詞,数量,*	OTH	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	nmod
-2	后	后	n,名詞,時,*	O	_	_
-3	生	生	v,動詞,変化,生物	O	0	root
-4	冷	冷	n,名詞,*,*	O	6	nmod
-5	泉	泉	n,名詞,固定物,地形	O	6	nmod
-6	帝	帝	n,名詞,人,役割	O	3	obj
-7	、	、	s,記号,読点,*	O	3	punct
-
-1	圓	圓	v,動詞,描写,量	O	2	advmod
-2	融	融	v,動詞,行為,動作	O	0	root
-3	帝	帝	n,名詞,人,役割	O	2	obj
-4	、	、	s,記号,読点,*	O	2	punct
-
-1	為	爲	v,動詞,存在,存在	O	4	cop
-2	平	平	v,動詞,描写,形質	O	4	amod
-3	親	親	v,動詞,行為,態度	O	4	amod
-4	王	王	n,名詞,人,役割	O	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	承	承	v,動詞,行為,伝達	O	0	root
-2	子	子	n,名詞,人,関係	O	1	obj
-3	內	內	n,名詞,固定物,関係	O	4	nmod
-4	親	親	v,動詞,行為,態度	O	1	conj
-
-1	王	王	n,名詞,人,役割	O	3	nsubj
-2	、	、	s,記号,読点,*	O	3	advmod
-3	輔	輔	v,動詞,行為,交流	O	0	root
-4	子	子	n,名詞,人,関係	O	3	iobj
-5	內	內	n,名詞,固定物,関係	O	7	nmod
-6	親	親	v,動詞,行為,態度	O	7	amod
-7	王	王	n,名詞,人,役割	O	3	obj
-8	、	、	s,記号,読点,*	O	3	punct
-
-1	資	資	v,動詞,行為,動作	O	0	root
-2	子	子	n,名詞,人,関係	O	1	obj
-3	內	內	n,名詞,固定物,関係	O	5	nmod
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	1	conj
-6	、	、	s,記号,読点,*	O	1	punct
-
-1	選	選	v,動詞,行為,動作	O	0	root
-2	子	子	n,名詞,人,関係	O	1	iobj
-3	內	內	n,名詞,固定物,関係	O	5	nmod
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	1	obj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	0	root
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	、	、	s,記号,読点,*	O	5	punct
-8	大	大	v,動詞,描写,量	OTH	9	amod
-9	鏡	鏡	n,名詞,可搬,道具	OTH	5	obj
-10	、	、	s,記号,読点,*	O	5	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	4	nmod
-3	物	物	n,名詞,可搬,道具	OTH	4	nmod
-4	語	語	n,名詞,可搬,伝達	OTH	5	conj
-5	、	、	s,記号,読点,*	O	8	nmod
-6	中	中	n,名詞,固定物,関係	O	_	_
-7	右	右	n,名詞,固定物,関係	O	_	_
-8	記	記	v,動詞,行為,動作	O	0	root
-
-1	大	大	v,動詞,描写,量	O	2	advmod
-2	治	治	v,動詞,行為,動作	O	4	nsubj
-3	五	五	n,数詞,数字,*	O	4	nummod
-4	年	年	n,名詞,時,*	O	5	clf
-5	。	。	s,記号,句点,*	O	6	nmod
-6	】	】	s,記号,括弧閉,*	O	14	advmod
-7	初	初	n,名詞,時,*	O	_	_
-8	后	后	n,名詞,時,*	O	_	_
-9	生	生	v,動詞,変化,生物	O	11	amod
-10	皇	皇	v,動詞,描写,態度	PER	11	amod
-11	女	女	n,名詞,人,関係	PER	14	nsubj
-12	，	，	s,記号,読点,*	O	14	advmod
-13	未	未	v,副詞,否定,有界	O	14	advmod
-14	有	有	v,動詞,存在,存在	O	0	root
-15	男	男	n,名詞,人,関係	O	16	nmod
-16	子	子	n,名詞,人,関係	O	14	obj
-17	。	。	s,記号,句点,*	O	14	punct
-
-1	師	師	n,名詞,人,役割	O	3	nsubj
-2	輔	輔	v,動詞,行為,交流	O	1	conj
-3	祈	祈	v,動詞,行為,動作	O	0	root
-4	鹿	鹿	n,名詞,主体,動物	O	5	nmod
-5	島	島	n,名詞,固定物,地形	O	6	nmod
-6	神	神	n,名詞,人,役割	O	3	obj
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	未	未	v,副詞,否定,有界	O	2	advmod
-2	幾	幾	v,副詞,判断,推定	O	3	advmod
-3	，	，	s,記号,読点,*	O	0	root
-
-1	生	生	v,動詞,変化,生物	O	6	acl
-2	冷	冷	n,名詞,*,*	O	4	nmod
-3	泉	泉	n,名詞,固定物,地形	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	1	obj
-5	。	。	s,記号,句点,*	O	1	punct
-6	【	【	s,記号,括弧開,*	O	14	nsubj
-7	左	左	n,名詞,固定物,関係	OTH	8	nsubj
-8	經	經	v,動詞,行為,移動	OTH	12	csubj
-9	記	記	v,動詞,行為,動作	OTH	_	_
-10	長	長	v,動詞,描写,量	O	11	amod
-11	元	元	n,名詞,描写,形質	O	8	obj
-12	七	七	n,数詞,数字,*	O	6	nummod
-13	年	年	n,名詞,時,*	O	12	clf
-14	引	引	v,動詞,行為,動作	O	0	root
-15	九	九	n,数詞,数字,*	OTH	16	nummod
-16	條	條	n,名詞,固定物,樹木	OTH	14	obj
-17	殿	殿	n,名詞,固定物,関係	OTH	18	nmod
-18	記	記	v,動詞,行為,動作	OTH	16	conj
-19	。	。	s,記号,句点,*	O	14	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	冷	冷	n,名詞,*,*	O	3	nmod
-3	泉	泉	n,名詞,固定物,地形	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	5	nsubj
-5	踐	踐	v,動詞,行為,動作	O	0	root
-6	祚	祚	n,名詞,制度,儀礼	O	5	obj
-7	，	，	s,記号,読点,*	O	5	punct
-
-1	贈	贈	v,動詞,行為,交流	O	5	csubj
-2	后	后	n,名詞,人,役割	O	3	nmod
-3	母	母	n,名詞,人,関係	O	1	conj
-4	從	從	v,動詞,行為,動作	O	5	amod
-5	三	三	n,数詞,数字,*	O	7	conj
-6	位	位	n,名詞,制度,場	O	5	clf
-7	藤	藤	n,名詞,*,*	O	8	nmod
-8	原	原	n,名詞,人,姓氏	O	10	nmod
-9	盛	盛	n,名詞,人,名	O	10	nmod
-10	子	子	n,名詞,人,関係	O	11	nsubj
-11	正	正	v,動詞,描写,形質	O	13	nsubj
-12	一	一	n,数詞,数字,*	O	13	nummod
-13	位	位	n,名詞,制度,場	O	14	obj
-14	，	，	s,記号,読点,*	O	0	root
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	追	追	v,動詞,行為,移動	O	5	csubj
-3	尊	尊	v,動詞,行為,態度	O	4	amod
-4	后	后	n,名詞,人,役割	O	2	obj
-5	曰	曰	v,動詞,行為,伝達	O	0	root
-6	皇	皇	v,動詞,描写,態度	PER	8	amod
-7	太	太	v,動詞,描写,量	PER	8	amod
-8	后	后	n,名詞,人,役割	PER	5	obj
-9	。	。	s,記号,句点,*	O	5	punct
-
-1	圓	圓	v,動詞,描写,量	O	2	advmod
-2	融	融	v,動詞,行為,動作	O	0	root
-3	帝	帝	n,名詞,人,役割	O	2	obj
-4	受	受	v,動詞,行為,得失	O	2	parataxis
-5	禪	禪	n,名詞,制度,儀礼	O	4	obj
-6	，	，	s,記号,読点,*	O	2	punct
-
-1	贈	贈	v,動詞,行為,交流	O	0	root
-2	太	太	v,動詞,描写,量	PER	3	amod
-3	皇	皇	n,名詞,人,役割	PER	5	nmod
-4	太	太	v,動詞,描写,量	PER	5	amod
-5	后	后	n,名詞,人,役割	PER	1	obj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	nmod
-4	裏	裡	n,名詞,固定物,関係	OTH	5	nmod
-5	書	書	n,名詞,主体,書物	OTH	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	后	后	n,名詞,人,役割	O	4	nsubj
-3	最	最	v,副詞,程度,極度	O	4	advmod
-4	敦	敦	v,動詞,行為,態度	O	0	root
-5	友	友	n,名詞,人,関係	O	4	obj
-6	弟	弟	n,名詞,人,関係	O	5	flat
-7	，	，	s,記号,読点,*	O	4	punct
-
-1	能	能	v,助動詞,可能,*	O	2	aux
-2	通	通	v,動詞,行為,移動	O	0	root
-3	下	下	n,名詞,固定物,関係	O	4	nmod
-4	情	情	n,名詞,描写,態度	O	6	nmod
-5	，	，	s,記号,読点,*	O	6	nmod
-6	妃	妃	n,名詞,人,関係	O	2	obj
-7	嬪	嬪	n,名詞,人,関係	O	6	flat
-8	婢	婢	n,名詞,人,役割	O	10	nmod
-9	妾	妾	n,名詞,人,関係	O	8	conj
-10	，	，	s,記号,読点,*	O	6	conj
-11	皆	皆	v,副詞,範囲,総括	O	12	advmod
-12	得	得	v,動詞,行為,得失	O	2	parataxis
-13	歡	歡	v,動詞,行為,態度	O	14	nmod
-14	心	心	n,名詞,不可譲,身体	O	12	obj
-15	。	。	s,記号,句点,*	O	2	punct
-
-1	及	及	v,動詞,行為,移動	O	0	root
-2	崩	崩	v,動詞,変化,制度	O	1	obj
-3	，	，	s,記号,読点,*	O	1	punct
-
-1	中	中	n,名詞,固定物,関係	O	4	nsubj
-2	外	外	n,名詞,固定物,関係	O	1	flat
-3	哀	哀	v,動詞,描写,態度	O	4	advmod
-4	惜	惜	v,動詞,行為,態度	O	0	root
-5	。	。	s,記号,句点,*	O	6	nmod
-6	帝	帝	n,名詞,人,役割	O	4	obj
-7	屢	屢	v,副詞,頻度,頻繁	O	8	advmod
-8	問	問	v,動詞,行為,伝達	O	4	parataxis
-9	政	政	n,名詞,制度,儀礼	O	10	nmod
-10	事	事	n,名詞,可搬,成果物	O	8	obj
-11	，	，	s,記号,読点,*	O	4	punct
-
-1	后	后	n,名詞,人,役割	O	3	nsubj
-2	務	務	v,動詞,行為,動作	O	3	advmod
-3	匡	匡	v,動詞,行為,動作	O	0	root
-
-1	救	救	v,動詞,行為,動作	O	0	root
-2	贊	贊	v,動詞,行為,交流	O	1	obj
-3	，	，	s,記号,読点,*	O	1	punct
-
-1	除	除	v,動詞,行為,動作	O	0	root
-2	人	人	n,名詞,人,人	O	4	nsubj
-3	所	所	p,助詞,接続,体言化	O	4	mark
-4	疾	疾	v,動詞,行為,態度	O	1	ccomp
-5	苦	苦	v,動詞,描写,態度	O	_	_
-6	，	，	s,記号,読点,*	O	1	punct
-
-1	而	而	p,助詞,接続,並列	O	2	advmod
-2	慫	慫	n,名詞,*,*	O	0	root
-3	恿	恿	n,名詞,*,*	O	2	conj
-4	其	其	n,代名詞,人称,起格	O	6	nsubj
-5	所	所	p,助詞,接続,体言化	O	6	mark
-6	欲	欲	v,動詞,行為,動作	O	3	ccomp
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	亦	亦	v,副詞,頻度,重複	O	3	advmod
-3	憚	憚	v,動詞,行為,態度	O	0	root
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	無	無	v,動詞,存在,存在	O	9	advcl
-2	言	言	n,名詞,可搬,伝達	O	1	obj
-3	不	不	v,副詞,否定,無界	O	4	advmod
-4	聽	聽	v,動詞,行為,伝達	O	1	parataxis
-5	。	。	s,記号,句点,*	O	9	advmod
-6	然	然	p,接尾辞,*,*	O	9	advmod
-7	性	性	n,名詞,不可譲,属性	O	8	nmod
-8	頗	頗	n,名詞,人,名	O	9	nsubj
-9	嫉	嫉	v,動詞,行為,態度	O	0	root
-10	妒	妒	v,動詞,行為,態度	O	_	_
-11	，	，	s,記号,読点,*	O	9	punct
-
-1	時	時	n,名詞,時,*	O	2	nmod
-2	女	女	n,名詞,人,人	O	3	nsubj
-3	御	御	v,動詞,行為,交流	O	4	amod
-4	藤	藤	n,名詞,*,*	PER	7	conj
-5	原	原	n,名詞,人,姓氏	PER	4	flat
-6	芳	芳	n,名詞,人,名	PER	4	flat
-7	子	子	n,名詞,人,関係	PER	9	nsubj
-8	新	新	v,動詞,描写,形質	O	9	advmod
-9	獲	獲	v,動詞,行為,得失	O	0	root
-10	寵	寵	v,動詞,行為,態度	O	9	obj
-11	，	，	s,記号,読点,*	O	9	punct
-
-1	居	居	v,動詞,行為,動作	O	0	root
-2	飛	飛	v,動詞,行為,動作	O	3	amod
-3	香	香	n,名詞,描写,形質	O	1	obj
-4	舍	舍	n,名詞,固定物,建造物	O	3	conj
-5	，	，	s,記号,読点,*	O	13	cc
-6	與	與	v,前置詞,関係,*	O	7	case
-7	后	后	n,名詞,人,役割	O	9	obl
-8	所	所	p,助詞,接続,体言化	O	9	mark
-9	居	居	v,動詞,行為,動作	O	13	acl
-10	弘	弘	n,名詞,人,姓氏	O	13	nsubj
-11	徽	徽	n,名詞,人,名	O	10	flat
-12	殿	殿	n,名詞,固定物,関係	O	13	nmod
-13	鄰	鄰	n,名詞,固定物,関係	O	1	conj
-14	。	。	s,記号,句点,*	O	1	punct
-
-1	后	后	n,名詞,時,*	O	_	_
-2	穴	穴	n,名詞,固定物,地形	O	3	nmod
-3	壁	壁	n,名詞,固定物,建造物	O	1	conj
-4	窺	窺	v,動詞,行為,動作	O	0	root
-5	之	之	n,代名詞,人称,止格	O	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	容	容	n,名詞,不可譲,身体	O	2	nmod
-2	貌	貌	n,名詞,不可譲,身体	O	3	nsubj
-3	絕	絶	v,動詞,行為,動作	O	0	root
-4	美	美	n,名詞,描写,形質	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	妒	妒	v,動詞,行為,態度	O	2	amod
-2	心	心	n,名詞,不可譲,身体	O	4	nsubj
-3	彌	彌	v,副詞,時相,変化	O	4	advmod
-4	熾	熾	v,動詞,行為,動作	O	0	root
-5	，	，	s,記号,読点,*	O	12	advmod
-6	碎	碎	n,名詞,*,*	O	8	nmod
-7	土	土	n,名詞,固定物,地形	O	8	nmod
-8	器	器	n,名詞,可搬,道具	O	12	nsubj
-9	自	自	v,前置詞,経由,*	O	11	case
-10	穴	穴	n,名詞,固定物,地形	O	11	nmod
-11	中	中	n,名詞,固定物,関係	O	_	_
-12	擲	擲	v,動詞,行為,動作	O	4	parataxis
-13	之	之	n,代名詞,人称,止格	O	12	obj
-14	。	。	s,記号,句点,*	O	4	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	適	適	v,動詞,行為,態度	O	3	advmod
-3	見	見	v,動詞,行為,動作	O	0	root
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	大	大	v,動詞,描写,量	O	2	advmod
-2	怒	怒	v,動詞,行為,態度	O	0	root
-3	。	。	s,記号,句点,*	O	2	punct
-
-1	以	以	v,動詞,行為,動作	O	2	advmod
-2	謂	謂	v,動詞,行為,伝達	O	13	advcl
-3	是	是	n,代名詞,指示,*	O	4	nmod
-4	后	后	n,名詞,人,役割	O	5	nmod
-5	兄	兄	n,名詞,人,関係	O	7	nsubj
-6	弟	弟	n,名詞,人,関係	O	5	flat
-7	教	敎	v,動詞,行為,伝達	O	2	ccomp
-8	后	后	n,名詞,人,役割	O	7	obj
-9	為	爲	v,前置詞,源泉,*	O	10	case
-10	之	之	n,代名詞,人称,止格	O	2	obl
-11	，	，	s,記号,読点,*	O	13	nsubj
-12	因	因	v,動詞,行為,動作	O	13	advmod
-13	責	責	v,動詞,行為,交流	O	0	root
-14	伊	伊	n,名詞,人,姓氏	O	13	obj
-15	尹	尹	n,名詞,人,名	O	14	flat
-16	等	等	n,名詞,数量,*	O	14	conj
-17	還	還	v,動詞,行為,移動	O	13	parataxis
-18	家	家	n,名詞,主体,集団	O	17	obj
-19	。	。	s,記号,句点,*	O	13	punct
-
-1	后	后	n,名詞,人,役割	O	3	nsubj
-2	大	大	v,動詞,描写,量	O	3	advmod
-3	怨	怨	v,動詞,行為,態度	O	0	root
-4	怒	怒	v,動詞,行為,態度	O	_	_
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	請	請	v,動詞,行為,交流	O	0	root
-2	帝	帝	n,名詞,人,役割	O	1	obj
-3	而	而	p,助詞,接続,並列	O	4	cc
-4	詣	詣	v,動詞,行為,移動	O	1	conj
-5	宮	宮	n,名詞,固定物,建造物	O	4	obj
-6	，	，	s,記号,読点,*	O	1	punct
-
-1	乞	乞	v,動詞,行為,得失	O	0	root
-2	宥	宥	v,動詞,描写,態度	O	1	ccomp
-3	伊	伊	n,名詞,人,姓氏	O	2	conj
-4	尹	尹	n,名詞,人,名	O	3	flat
-5	等	等	n,名詞,数量,*	O	2	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	不	不	v,副詞,否定,無界	O	3	advmod
-3	許	許	v,動詞,行為,態度	O	0	root
-4	而	而	p,助詞,接続,並列	O	5	cc
-5	起	起	v,動詞,行為,動作	O	3	conj
-6	。	。	s,記号,句点,*	O	3	punct
-
-1	后	后	n,名詞,人,役割	O	2	nsubj
-2	牽	牽	v,動詞,行為,動作	O	0	root
-3	衣	衣	n,名詞,可搬,道具	O	2	obj
-4	留	留	v,動詞,行為,移動	O	2	parataxis
-5	之	之	n,代名詞,人称,止格	O	4	obj
-6	。	。	s,記号,句点,*	O	2	punct
-
-1	帝	帝	n,名詞,人,役割	O	5	nsubj
-2	不	不	v,副詞,否定,無界	O	3	advmod
-3	得	得	v,助動詞,可能,*	O	5	aux
-4	已	已	v,動詞,行為,動作	O	3	obj
-5	從	從	v,動詞,行為,動作	O	0	root
-6	之	之	n,代名詞,人称,止格	O	5	obj
-7	。	。	s,記号,句点,*	O	5	punct
-8	后	后	n,名詞,人,役割	O	5	obj
-9	崩	崩	v,動詞,変化,制度	O	5	conj
-10	後	後	n,名詞,時,*	O	9	conj
-11	，	，	s,記号,読点,*	O	5	punct
-
-1	芳	芳	n,名詞,描写,形質	O	2	nmod
-2	子	子	n,名詞,人,関係	O	3	nsubj
-3	寵	寵	v,動詞,行為,態度	O	0	root
-4	弛	弛	v,動詞,行為,動作	O	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	念	念	v,動詞,行為,動作	O	0	root
-3	后	后	n,名詞,人,役割	O	2	obj
-4	，	，	s,記号,読点,*	O	2	punct
-
-1	深	深	v,動詞,描写,量	O	2	advmod
-2	悔	悔	v,動詞,行為,態度	O	3	advmod
-3	遇	遇	v,動詞,行為,交流	O	0	root
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	薄	薄	v,動詞,描写,量	O	3	conj
-6	也	也	p,助詞,句末,*	O	_	_
-7	。	。	s,記号,句点,*	O	3	punct
-8	【	【	s,記号,括弧開,*	O	10	cc
-9	大	大	v,動詞,描写,量	OTH	10	amod
-10	鏡	鏡	n,名詞,可搬,道具	OTH	3	obj
-11	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	nmod
-2	女	女	n,名詞,人,人	O	3	nsubj
-3	御	御	v,動詞,行為,交流	O	0	root
-4	藤	藤	n,名詞,*,*	PER	5	nmod
-5	原	原	n,名詞,人,姓氏	PER	7	nmod
-6	述	述	n,名詞,人,名	PER	5	flat
-7	子	子	n,名詞,人,関係	PER	3	obj
-8	，	，	s,記号,読点,*	O	3	punct
-
-1	太	太	v,動詞,描写,量	PER	2	amod
-2	政	政	n,名詞,制度,儀礼	PER	4	nmod
-3	大	大	v,動詞,描写,量	PER	4	amod
-4	臣	臣	n,名詞,人,役割	PER	6	nsubj
-5	實	實	v,副詞,程度,極度	O	6	advmod
-6	賴	賴	v,動詞,描写,態度	O	0	root
-7	第	第	n,名詞,数量,*	O	9	nmod
-8	二	二	n,数詞,数字,*	O	9	nummod
-9	女	女	n,名詞,人,人	O	6	obj
-10	也	也	p,助詞,句末,*	O	_	_
-11	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	7	advmod
-2	尊	尊	v,動詞,行為,態度	OTH	7	nsubj
-3	卑	卑	v,動詞,描写,境遇	OTH	_	_
-4	分	分	v,動詞,行為,設置	OTH	2	parataxis
-5	脈	脈	n,名詞,不可譲,身体	OTH	4	obj
-6	。	。	s,記号,句点,*	O	2	punct
-7	○	○	s,記号,一般,*	O	0	root
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	歷	歷	v,動詞,行為,役割	OTH	5	amod
-2	代	代	n,名詞,固定物,地名	OTH	3	nmod
-3	皇	皇	n,名詞,人,役割	OTH	1	obj
-4	記	記	v,動詞,行為,動作	OTH	3	conj
-5	，	，	s,記号,読点,*	O	0	root
-6	為	爲	v,動詞,存在,存在	O	8	cop
-7	三	三	n,数詞,数字,*	O	8	nummod
-8	女	女	n,名詞,人,関係	O	5	parataxis
-9	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	在	在	v,動詞,存在,存在	O	0	root
-4	東	東	n,名詞,固定物,関係	O	5	nmod
-5	官	官	n,名詞,人,役割	O	3	obj
-6	，	，	s,記号,読点,*	O	3	punct
-
-1	納	納	v,動詞,行為,動作	O	0	root
-2	之	之	n,代名詞,人称,止格	O	1	obj
-3	。	。	s,記号,句点,*	O	1	punct
-4	及	及	v,動詞,行為,移動	O	5	cc
-5	即	即	v,動詞,行為,動作	O	1	conj
-6	位	位	n,名詞,制度,場	O	5	obj
-7	，	，	s,記号,読点,*	O	10	cc
-8	為	爲	v,前置詞,源泉,*	O	9	case
-9	女	女	n,名詞,人,関係	O	10	obl
-10	御	御	v,動詞,行為,交流	O	1	conj
-11	。	。	s,記号,句点,*	O	1	punct
-12	【	【	s,記号,括弧開,*	O	16	cc
-13	一	一	n,数詞,数字,*	OTH	14	nummod
-14	代	代	n,名詞,時,*	OTH	_	_
-15	要	要	v,動詞,行為,動作	OTH	16	advmod
-16	記	記	p,助詞,句末,*	OTH	1	conj
-17	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	曆	曆	n,名詞,天象,天文	O	5	nmod
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	_	_
-6	，	，	s,記号,読点,*	O	7	advmod
-7	有	有	v,動詞,存在,存在	O	0	root
-8	身	身	n,名詞,不可譲,身体	O	7	obj
-9	。	。	s,記号,句点,*	O	7	punct
-
-1	患	患	v,動詞,行為,態度	O	0	root
-2	疱	疱	n,名詞,*,*	O	1	obj
-3	瘡	瘡	n,名詞,*,*	O	2	conj
-4	，	，	s,記号,読点,*	O	1	punct
-
-1	墮	墮	v,動詞,行為,動作	O	0	root
-2	胎	胎	n,名詞,人,人	O	1	obj
-3	，	，	s,記号,読点,*	O	4	cc
-4	卒	卒	v,動詞,変化,生物	O	1	conj
-5	于	于	v,前置詞,基盤,*	O	8	case
-6	東	東	n,名詞,固定物,関係	O	8	nmod
-7	三	三	n,数詞,数字,*	O	8	nummod
-8	條	條	n,名詞,固定物,樹木	O	4	obl
-9	第	第	n,名詞,数量,*	O	8	flat
-10	，	，	s,記号,読点,*	O	1	punct
-
-1	年	年	n,名詞,時,*	O	2	nsubj
-2	十五	十五	n,数詞,数,*	O	0	root
-3	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	8	cc
-8	稱	稱	v,動詞,行為,動作	O	4	conj
-9	弘	弘	n,名詞,人,姓氏	O	8	obj
-10	徽	徽	n,名詞,人,名	O	9	flat
-11	殿	殿	n,名詞,固定物,関係	O	12	nmod
-12	女	女	n,名詞,人,人	O	9	conj
-13	御	御	v,動詞,行為,交流	O	_	_
-14	。	。	s,記号,句点,*	O	8	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	○	○	s,記号,一般,*	O	4	obj
-
-1	尊	尊	v,動詞,行為,態度	OTH	3	nsubj
-2	卑	卑	v,動詞,描写,境遇	OTH	_	_
-3	分	分	v,動詞,行為,設置	OTH	5	amod
-4	脈	脈	n,名詞,不可譲,身体	OTH	3	obj
-5	，	，	s,記号,読点,*	O	0	root
-
-1	作	作	v,動詞,行為,生産	O	8	acl
-2	四	四	n,数詞,数字,*	O	3	nummod
-3	條	條	n,名詞,可搬,伝達	O	1	obj
-4	御	御	v,動詞,行為,交流	O	6	amod
-5	息	息	v,動詞,行為,動作	O	_	_
-6	所	所	n,名詞,制度,場	O	1	obj
-7	。	。	s,記号,句点,*	O	1	punct
-8	】	】	s,記号,括弧閉,*	O	9	nsubj
-9	及	及	v,動詞,行為,移動	O	0	root
-10	葬	葬	v,動詞,行為,儀礼	O	9	obj
-11	，	，	s,記号,読点,*	O	9	punct
-
-1	遣	遣	v,動詞,行為,使役	O	0	root
-2	使	使	n,名詞,人,役割	O	1	obj
-3	贈	贈	v,動詞,行為,交流	O	1	xcomp
-4	從	從	v,動詞,行為,動作	O	3	iobj
-5	四	四	n,数詞,数字,*	O	6	nummod
-6	位	位	n,名詞,制度,場	O	4	obj
-7	上	上	n,名詞,固定物,関係	O	3	obj
-8	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	p,助詞,句末,*	OTH	8	discourse
-5	。	。	s,記号,句点,*	O	4	punct
-6	】	】	s,記号,括弧閉,*	O	8	advmod
-7	女	女	n,名詞,人,人	O	8	nsubj
-8	御	御	v,動詞,行為,交流	O	13	amod
-9	徽	徽	n,名詞,人,名	O	10	nmod
-10	子	子	n,名詞,人,関係	O	8	obj
-11	女	女	n,名詞,人,関係	O	12	nmod
-12	王	王	n,名詞,人,役割	O	8	obj
-13	，	，	s,記号,読点,*	O	0	root
-
-1	式	式	v,動詞,行為,動作	O	0	root
-2	部	部	n,名詞,主体,集団	O	4	nsubj
-3	卿	卿	n,名詞,人,役割	O	2	conj
-4	重	重	v,動詞,描写,量	O	1	ccomp
-5	明	明	v,動詞,描写,形質	O	_	_
-6	親	親	v,動詞,行為,態度	O	7	advmod
-7	王	王	v,動詞,行為,役割	O	4	parataxis
-8	女	女	n,名詞,人,人	O	7	obj
-9	也	也	p,助詞,句末,*	O	_	_
-10	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	7	advcl
-5	錄	錄	v,動詞,行為,動作	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	齋	齋	v,動詞,行為,儀礼	OTH	0	root
-8	宮	宮	n,名詞,固定物,建造物	OTH	9	obj
-9	記	記	p,助詞,句末,*	OTH	7	parataxis
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	承	承	v,動詞,行為,伝達	O	4	csubj
-3	平	平	v,動詞,描写,形質	O	2	obj
-4	六	六	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,動詞,存在,存在	O	0	root
-2	齋	齋	v,動詞,行為,儀礼	O	3	amod
-3	宮	宮	n,名詞,固定物,建造物	O	1	obj
-4	。	。	s,記号,句点,*	O	1	punct
-
-1	天	天	n,名詞,制度,場	O	2	nmod
-2	慶	慶	v,動詞,描写,態度	O	3	nsubj
-3	八	八	n,数詞,数字,*	O	5	nummod
-4	年	年	n,名詞,時,*	O	3	clf
-5	，	，	s,記号,読点,*	O	0	root
-
-1	遭	遭	v,動詞,行為,交流	O	0	root
-2	母	母	n,名詞,人,関係	O	3	nmod
-3	喪	喪	n,名詞,制度,儀礼	O	1	obj
-4	，	，	s,記号,読点,*	O	1	punct
-
-1	罷	罷	v,動詞,行為,動作	O	0	root
-2	歸	歸	v,動詞,行為,移動	O	1	parataxis
-3	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	曆	曆	n,名詞,天象,天文	O	5	nmod
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	_	_
-6	，	，	s,記号,読点,*	O	7	advmod
-7	納	納	v,動詞,行為,動作	O	0	root
-8	掖	掖	n,名詞,可搬,道具	O	9	nmod
-9	庭	庭	n,名詞,固定物,建造物	O	7	obj
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	5	advmod
-2	一	一	n,数詞,数字,*	OTH	3	nummod
-3	代	代	n,名詞,時,*	OTH	_	_
-4	要	要	v,動詞,行為,動作	OTH	5	advmod
-5	記	記	v,動詞,行為,動作	OTH	0	root
-6	、	、	s,記号,読点,*	O	5	punct
-7	大	大	v,動詞,描写,量	OTH	8	amod
-8	鏡	鏡	n,名詞,可搬,道具	OTH	5	obj
-9	裏	裡	n,名詞,固定物,関係	OTH	10	nmod
-10	書	書	n,名詞,主体,書物	OTH	8	conj
-11	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	三	三	n,数詞,数字,*	O	3	nummod
-3	年	年	n,名詞,時,*	O	_	_
-4	，	，	s,記号,読点,*	O	7	advmod
-5	為	爲	v,前置詞,源泉,*	O	6	case
-6	女	女	n,名詞,人,関係	O	7	obl
-7	御	御	v,動詞,行為,交流	O	16	nsubj
-8	。	。	s,記号,句点,*	O	7	punct
-9	【	【	s,記号,括弧開,*	O	11	det
-10	日	日	n,名詞,時,*	OTH	_	_
-11	本	本	v,動詞,行為,動作	OTH	7	obj
-12	紀	紀	v,動詞,行為,動作	OTH	13	amod
-13	略	略	n,名詞,可搬,伝達	OTH	11	obj
-14	、	、	s,記号,読点,*	O	7	punct
-15	一	一	n,数詞,数字,*	OTH	16	nummod
-16	代	代	n,名詞,時,*	OTH	_	_
-17	要	要	v,動詞,行為,動作	OTH	0	root
-18	記	記	p,助詞,句末,*	OTH	_	_
-19	。	。	s,記号,句点,*	O	17	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	五	五	n,数詞,数字,*	O	3	nummod
-3	年	年	n,名詞,時,*	O	_	_
-4	，	，	s,記号,読点,*	O	5	advmod
-5	授	授	v,動詞,行為,得失	O	0	root
-6	從	從	v,動詞,行為,動作	O	9	case
-7	四	四	n,数詞,数字,*	O	9	nummod
-8	位	位	n,名詞,制度,場	O	7	clf
-9	下	下	n,名詞,固定物,関係	O	5	obj
-10	。	。	s,記号,句点,*	O	5	punct
-
-1	應	應	v,動詞,行為,交流	O	3	amod
-2	和	和	v,動詞,描写,形質	O	_	_
-3	二	二	n,数詞,数字,*	O	5	nummod
-4	年	年	n,名詞,時,*	O	3	clf
-5	，	，	s,記号,読点,*	O	0	root
-
-1	進	進	v,動詞,行為,移動	O	7	csubj
-2	從	從	v,動詞,行為,動作	O	5	case
-3	四	四	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	2	obj
-5	上	上	n,名詞,固定物,関係	O	_	_
-6	。	。	s,記号,句点,*	O	1	punct
-7	【	【	s,記号,括弧開,*	O	0	root
-8	大	大	v,動詞,描写,量	OTH	9	amod
-9	鏡	鏡	n,名詞,可搬,道具	OTH	7	obj
-10	裏	裡	n,名詞,固定物,関係	OTH	_	_
-11	書	書	n,名詞,主体,書物	OTH	7	parataxis
-12	。	。	s,記号,句点,*	O	7	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	生	生	v,動詞,変化,生物	O	0	root
-3	規	規	n,名詞,人,名	O	4	nmod
-4	子	子	n,名詞,人,関係	O	2	obj
-5	內	內	n,名詞,固定物,関係	O	7	nmod
-6	親	親	v,動詞,行為,態度	O	7	amod
-7	王	王	n,名詞,人,役割	O	4	conj
-8	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	OTHpart	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	又	又	v,副詞,頻度,重複	O	3	advmod
-3	生	生	v,動詞,変化,生物	O	0	root
-4	一	一	n,数詞,数字,*	O	5	nummod
-5	皇	皇	n,名詞,人,役割	PER	6	amod
-6	子	子	n,名詞,人,関係	PER	3	obj
-7	，	，	s,記号,読点,*	O	8	cc
-8	夭	夭	v,動詞,描写,形質	O	3	conj
-9	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	13	cc
-8	寬	寬	v,動詞,描写,形質	O	13	amod
-9	和	和	v,動詞,描写,形質	O	_	_
-10	元	元	n,名詞,描写,形質	O	11	nmod
-11	年	年	n,名詞,時,*	O	_	_
-12	，	，	s,記号,読点,*	O	13	advmod
-13	卒	卒	v,動詞,変化,生物	O	4	conj
-14	，	，	s,記号,読点,*	O	13	punct
-
-1	年	年	n,名詞,時,*	O	2	nsubj
-2	五十七	五十七	n,数詞,数,*	O	0	root
-3	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	nmod
-4	裏	裡	n,名詞,固定物,関係	OTH	5	nmod
-5	書	書	n,名詞,主体,書物	OTH	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	齋	齋	v,動詞,行為,儀礼	O	_	_
-4	宮	宮	n,名詞,固定物,建造物	O	5	nmod
-5	女	女	n,名詞,人,関係	O	6	nsubj
-6	御	御	v,動詞,行為,交流	O	2	conj
-7	，	，	s,記号,読点,*	O	2	punct
-8	【	【	s,記号,括弧開,*	O	10	det
-9	大	大	v,動詞,描写,量	OTH	10	amod
-10	鏡	鏡	n,名詞,可搬,道具	OTH	2	obj
-11	、	、	s,記号,読点,*	O	2	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	4	parataxis
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	又	又	v,副詞,頻度,重複	O	3	advmod
-3	稱	稱	v,動詞,行為,動作	O	0	root
-4	承	承	v,動詞,行為,伝達	O	5	amod
-5	香	香	n,名詞,描写,形質	O	6	obj
-6	殿	殿	n,名詞,固定物,関係	O	7	nmod
-7	女	女	n,名詞,人,人	O	8	nsubj
-8	御	御	v,動詞,行為,交流	O	3	ccomp
-9	。	。	s,記号,句点,*	O	3	punct
-10	【	【	s,記号,括弧開,*	O	12	det
-11	大	大	v,動詞,描写,量	OTH	12	amod
-12	鏡	鏡	n,名詞,可搬,道具	OTH	3	obj
-13	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	女	女	n,代名詞,人称,起格	O	3	det
-3	王	王	n,名詞,人,役割	O	5	nsubj
-4	最	最	v,副詞,程度,極度	O	5	advmod
-5	善	善	v,動詞,描写,態度	O	0	root
-6	和	和	v,動詞,描写,形質	O	7	amod
-7	歌	歌	n,名詞,可搬,伝達	O	5	obj
-8	，	，	s,記号,読点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	0	root
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	嘗	嘗	v,副詞,時相,過去	O	3	advmod
-3	居	居	v,動詞,行為,動作	O	8	nsubj
-4	長	長	v,動詞,描写,量	O	5	amod
-5	岡	岡	n,名詞,固定物,地形	O	3	obj
-6	別	別	v,動詞,行為,交流	O	7	amod
-7	墅	墅	n,名詞,固定物,建造物	O	3	conj
-8	，	，	s,記号,読点,*	O	0	root
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	賜	賜	v,動詞,行為,交流	O	0	root
-3	歌	歌	v,動詞,行為,動作	O	_	_
-4	慰	慰	v,動詞,行為,交流	O	2	obj
-5	問	問	v,動詞,行為,伝達	O	_	_
-6	，	，	s,記号,読点,*	O	2	punct
-
-1	女	女	n,代名詞,人称,起格	O	2	det
-2	王	王	n,名詞,人,役割	O	3	nsubj
-3	奉	奉	v,動詞,行為,動作	O	0	root
-4	和	和	v,動詞,描写,形質	O	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	時	時	n,名詞,時,*	O	_	_
-2	人	人	n,名詞,人,人	O	3	nsubj
-3	謂	謂	v,動詞,行為,伝達	O	0	root
-4	：	：	s,記号,一般,*	O	3	obj
-
-1	「	「	s,記号,括弧開,*	O	2	advmod
-2	有	有	v,動詞,存在,存在	O	0	root
-3	欲	欲	v,助動詞,願望,*	O	4	aux
-4	居	居	v,動詞,行為,動作	O	8	acl
-5	坤	坤	n,名詞,思考,*	O	6	nmod
-6	位	位	n,名詞,制度,場	O	4	obj
-7	之	之	p,助詞,接続,属格	O	4	mark
-8	意	意	v,動詞,行為,動作	O	2	obj
-9	。	。	s,記号,句点,*	O	2	punct
-10	」	」	s,記号,括弧閉,*	O	12	nmod
-11	女	女	n,代名詞,人称,起格	O	12	det
-12	王	王	n,名詞,人,役割	O	13	nsubj
-13	恥	恥	v,動詞,行為,態度	O	2	ccomp
-14	之	之	n,代名詞,人称,止格	O	13	obj
-15	，	，	s,記号,読点,*	O	2	punct
-
-1	乃	乃	v,副詞,時相,緊接	O	2	advmod
-2	削	削	v,動詞,行為,動作	O	0	root
-3	其	其	n,代名詞,人称,起格	O	4	det
-4	稿	稿	n,名詞,*,*	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	3	case
-2	十	十	n,数詞,数字,*	OTH	3	nummod
-3	訓	訓	v,動詞,行為,交流	OTH	0	root
-4	抄	抄	n,名詞,*,*	OTH	3	conj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	女	女	n,名詞,人,人	O	3	nsubj
-3	御	御	v,動詞,行為,交流	O	0	root
-4	莊子	莊子	n,名詞,人,複合的人名	O	6	compound
-5	女	女	n,名詞,人,関係	O	4	flat
-6	王	王	n,名詞,人,役割	O	3	obj
-7	，	，	s,記号,読点,*	O	3	punct
-
-1	中	中	n,名詞,固定物,関係	O	2	nsubj
-2	務	務	v,動詞,行為,動作	O	0	root
-3	卿	卿	n,名詞,人,役割	O	4	nsubj
-4	代	代	v,動詞,変化,制度	O	2	ccomp
-5	明	明	n,名詞,描写,形質	O	4	obj
-
-1	親	親	v,動詞,行為,態度	O	2	advmod
-2	王	王	v,動詞,行為,役割	PER	12	nsubj
-3	女	女	n,名詞,人,人	PER	2	obj
-4	也	也	p,助詞,句末,*	O	_	_
-5	。	。	s,記号,句点,*	O	2	punct
-6	【	【	s,記号,括弧開,*	O	10	cc
-7	一	一	n,数詞,数字,*	OTH	8	nummod
-8	代	代	n,名詞,時,*	OTH	_	_
-9	要	要	v,動詞,行為,動作	OTH	10	advmod
-10	記	記	v,動詞,行為,動作	OTH	2	conj
-11	、	、	s,記号,読点,*	O	2	punct
-12	歷	歷	v,動詞,行為,役割	OTH	0	root
-13	代	代	n,名詞,固定物,地名	OTH	14	nmod
-14	皇	皇	n,名詞,人,役割	OTH	12	obj
-15	紀	紀	v,動詞,行為,動作	OTH	14	conj
-16	、	、	s,記号,読点,*	O	15	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	4	parataxis
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	授	授	v,動詞,行為,得失	O	0	root
-3	從	從	v,動詞,行為,動作	O	2	iobj
-4	四	四	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	3	obj
-6	上	上	n,名詞,固定物,関係	O	2	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	天	天	n,名詞,制度,場	O	2	compound
-2	曆	曆	n,名詞,天象,天文	O	8	nsubj
-3	四	四	n,数詞,数字,*	O	5	nummod
-4	年	年	n,名詞,時,*	O	3	clf
-5	。	。	s,記号,句点,*	O	_	_
-6	為	爲	v,前置詞,源泉,*	O	7	case
-7	女	女	n,名詞,人,関係	O	8	obl
-8	御	御	v,動詞,行為,交流	O	9	csubj
-9	。	。	s,記号,句点,*	O	13	conj
-10	【	【	s,記号,括弧開,*	O	13	advmod
-11	一	一	n,数詞,数字,*	OTH	12	nummod
-12	代	代	n,名詞,時,*	OTH	_	_
-13	要	要	v,動詞,行為,動作	OTH	0	root
-14	記	記	p,助詞,句末,*	OTH	_	_
-15	。	。	s,記号,句点,*	O	13	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	生	生	n,名詞,行為,*	O	3	obl
-3	具	具	v,副詞,範囲,共同	O	0	root
-4	平	平	v,動詞,描写,形質	O	3	ccomp
-5	親	親	v,動詞,行為,態度	O	6	amod
-6	王	王	n,名詞,人,役割	O	4	obj
-7	、	、	s,記号,読点,*	O	3	punct
-
-1	樂	樂	v,動詞,行為,態度	O	2	nmod
-2	子	子	n,名詞,人,関係	O	5	nsubj
-3	內	內	n,名詞,固定物,関係	O	5	nmod
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	OTHpart	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	n,名詞,可搬,伝達	OTHpart	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	11	amod
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	amod
-8	胤	胤	n,名詞,主体,国名	OTH	10	nmod
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	4	obj
-11	。	。	s,記号,句点,*	O	13	conj
-12	】	】	s,記号,括弧閉,*	O	13	advmod
-13	及	及	v,前置詞,関係,*	O	0	root
-14	帝	帝	n,名詞,人,役割	O	15	nsubj
-15	崩	崩	v,動詞,変化,制度	O	13	ccomp
-16	，	，	s,記号,読点,*	O	13	punct
-
-1	為	爲	v,動詞,存在,存在	O	2	case
-2	尼	尼	v,動詞,行為,動作	O	0	root
-3	。	。	s,記号,句点,*	O	11	cc
-4	寬	寬	v,動詞,描写,形質	O	6	advmod
-5	弘	弘	v,動詞,描写,形質	O	_	_
-6	五	五	n,数詞,数字,*	O	8	nummod
-7	年	年	n,名詞,時,*	O	6	clf
-8	七	七	n,数詞,数字,*	O	9	nummod
-9	月	月	n,名詞,時,*	O	_	_
-10	，	，	s,記号,読点,*	O	11	advmod
-11	卒	卒	v,動詞,変化,生物	O	2	conj
-12	。	。	s,記号,句点,*	O	11	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTHpart	2	nummod
-2	代	代	n,名詞,時,*	OTHpart	_	_
-3	要	要	v,動詞,行為,動作	OTHpart	0	root
-
-1	記	記	v,動詞,行為,動作	OTHpart	0	root
-2	。	。	s,記号,句点,*	O	1	punct
-3	】	】	s,記号,括弧閉,*	O	5	cc
-4	年	年	n,名詞,時,*	O	5	nsubj
-5	七十八	七十八	n,数詞,数,*	O	1	obj
-6	。	。	s,記号,句点,*	O	1	punct
-7	【	【	s,記号,括弧開,*	O	11	cc
-8	一	一	n,数詞,数字,*	OTH	9	nummod
-9	代	代	n,名詞,時,*	OTH	_	_
-10	要	要	v,動詞,行為,動作	OTH	11	advmod
-11	記	記	p,助詞,句末,*	OTH	1	conj
-12	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	麗	麗	v,動詞,行為,動作	O	2	ccomp
-4	景	景	n,名詞,人,名	O	5	compound
-5	殿	殿	n,名詞,固定物,関係	O	6	nmod
-6	女	女	n,名詞,人,人	O	7	nsubj
-7	御	御	v,動詞,行為,交流	O	3	ccomp
-8	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	女	女	n,名詞,人,人	O	3	nsubj
-3	御	御	v,動詞,行為,交流	O	11	acl
-4	藤	藤	n,名詞,*,*	PER	7	nmod
-5	原	原	n,名詞,人,姓氏	PER	4	flat
-6	芳	芳	n,名詞,人,名	PER	4	flat
-7	子	子	n,名詞,人,関係	PER	3	obj
-8	，	，	s,記号,読点,*	O	11	nmod
-9	左	左	n,名詞,固定物,関係	O	11	nmod
-10	大	大	v,動詞,描写,量	O	11	amod
-11	臣	臣	n,名詞,人,役割	O	14	nmod
-12	師	師	n,名詞,人,役割	O	13	nmod
-13	尹	尹	n,名詞,人,役割	O	11	conj
-14	女	女	n,名詞,人,関係	O	0	root
-15	也	也	p,助詞,句末,*	O	_	_
-16	。	。	s,記号,句点,*	O	14	punct
-
-1	【	【	s,記号,括弧開,*	O	7	advmod
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	7	conj
-4	、	、	s,記号,読点,*	O	5	amod
-5	日	日	n,名詞,時,*	OTH	3	conj
-6	本	本	v,動詞,行為,動作	OTH	7	advmod
-7	紀	紀	v,動詞,行為,動作	OTH	10	nsubj
-8	略	略	n,名詞,可搬,伝達	OTH	7	obj
-9	、	、	s,記号,読点,*	O	7	punct
-10	尊	尊	v,動詞,行為,態度	OTH	0	root
-11	卑	卑	v,動詞,描写,境遇	OTH	_	_
-12	分	分	v,動詞,行為,設置	OTH	10	parataxis
-13	脈	脈	n,名詞,不可譲,身体	OTH	12	obj
-14	。	。	s,記号,句点,*	O	10	punct
-
-1	】	】	s,記号,括弧閉,*	O	9	advmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	德	德	n,名詞,描写,態度	O	6	nmod
-4	二	二	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	_	_
-7	為	爲	v,前置詞,源泉,*	O	8	case
-8	女	女	n,名詞,人,関係	O	9	obl
-9	御	御	v,動詞,行為,交流	O	0	root
-10	。	。	s,記号,句点,*	O	9	punct
-
-1	生	生	v,動詞,変化,生物	O	3	nsubj
-2	昌	昌	v,動詞,描写,量	O	_	_
-3	平	平	v,動詞,描写,形質	O	0	root
-
-1	親	親	v,動詞,行為,態度	O	0	root
-2	王	王	n,名詞,人,役割	O	1	obj
-3	、	、	s,記号,読点,*	O	1	punct
-
-1	永	永	v,動詞,描写,量	O	2	advmod
-2	平	平	v,動詞,描写,形質	O	6	acl
-3	親	親	v,動詞,行為,態度	O	4	amod
-4	王	王	n,名詞,人,役割	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-6	【	【	s,記号,括弧開,*	O	7	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	nsubj
-8	胤	胤	n,名詞,主体,国名	OTH	10	nmod
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	0	root
-11	、	、	s,記号,読点,*	O	10	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	0	root
-4	記	記	p,助詞,句末,*	OTH	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	容	容	n,名詞,不可譲,身体	O	3	nmod
-3	貌	貌	n,名詞,不可譲,身体	O	4	nsubj
-4	絕	絶	v,動詞,行為,動作	O	0	root
-5	艷	艷	n,名詞,*,*	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	髮	髮	n,名詞,不可譲,身体	O	2	nsubj
-2	鬒	鬒	n,名詞,*,*	O	0	root
-3	而	而	p,助詞,接続,並列	O	4	cc
-4	長	長	v,動詞,変化,生物	O	2	conj
-5	‧	‧	n,記号,一般,*	O	2	punct
-
-1	上	上	v,動詞,行為,得失	O	0	root
-2	車	車	n,名詞,可搬,乗り物	O	1	obj
-
-1	其	其	n,代名詞,人称,起格	O	4	nsubj
-2	未	未	v,副詞,否定,有界	O	4	advmod
-3	尚	尙	v,動詞,行為,態度	O	4	advmod
-4	委	委	v,動詞,行為,動作	O	0	root
-5	柱	柱	n,名詞,固定物,建造物	O	6	nmod
-6	下	下	n,名詞,固定物,関係	O	4	obj
-7	。	。	s,記号,句点,*	O	4	punct
-8	【	【	s,記号,括弧開,*	O	4	mark
-9	大	大	v,動詞,描写,量	OTH	10	amod
-10	鏡	鏡	n,名詞,可搬,道具	OTH	4	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	nsubj
-2	初	初	n,名詞,時,*	O	_	_
-3	在	在	v,動詞,存在,存在	O	0	root
-4	家	家	n,名詞,主体,集団	O	5	nmod
-5	學	學	n,名詞,行為,*	O	3	obj
-
-1	琴	琴	n,名詞,可搬,道具	O	5	nsubj
-2	書	書	n,名詞,主体,書物	O	1	conj
-3	，	，	s,記号,読点,*	O	5	advmod
-4	諳	諳	v,動詞,行為,動作	O	5	advmod
-5	誦	誦	v,動詞,行為,伝達	O	0	root
-
-1	古	古	n,名詞,時,*	OTH	_	_
-2	今	今	n,名詞,時,*	OTH	_	_
-3	集	集	v,動詞,行為,動作	OTH	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	親	親	v,動詞,行為,態度	O	3	advmod
-3	試	試	v,動詞,行為,動作	O	0	root
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	以	以	v,動詞,行為,動作	O	4	advcl
-2	棊	棊	v,動詞,行為,動作	O	3	nmod
-3	子	子	n,名詞,人,関係	O	1	obj
-4	為	爲	v,動詞,存在,存在	O	6	cop
-5	籌	籌	n,名詞,可搬,道具	O	4	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	終	終	v,動詞,変化,生物	O	2	amod
-2	篇	篇	n,名詞,可搬,伝達	O	6	obl
-3	無	無	v,動詞,存在,存在	O	6	advmod
-4	一	一	n,数詞,数字,*	O	5	nummod
-5	錯	錯	v,動詞,行為,設置	O	6	obj
-6	誤	誤	v,動詞,行為,態度	O	0	root
-7	。	。	s,記号,句点,*	O	6	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	大	大	v,動詞,描写,量	O	3	advmod
-3	異	異	v,動詞,描写,形質	O	6	acl
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-6	【	【	s,記号,括弧開,*	O	8	nsubj
-7	大	大	v,動詞,描写,量	OTH	8	amod
-8	鏡	鏡	n,名詞,可搬,道具	OTH	9	conj
-9	，	，	s,記号,読点,*	O	0	root
-
-1	參	參	n,名詞,人,名	O	2	nsubj
-2	取	取	v,動詞,行為,得失	O	0	root
-3	枕	枕	n,名詞,可搬,道具	OTH	2	iobj
-4	草	草	n,名詞,固定物,樹木	OTH	5	nmod
-5	子	子	n,名詞,人,関係	OTH	2	obj
-6	。	。	s,記号,句点,*	O	2	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	妙	妙	v,動詞,描写,態度	O	0	root
-4	彈	彈	v,動詞,行為,動作	O	5	amod
-5	箏	箏	n,名詞,*,*	O	3	obj
-6	，	，	s,記号,読点,*	O	3	punct
-
-1	芳	芳	n,名詞,描写,形質	O	2	nmod
-2	子	子	n,名詞,人,関係	O	5	nsubj
-3	悉	悉	v,副詞,範囲,総括	O	4	advmod
-4	得	得	v,助動詞,可能,*	O	5	aux
-5	指	指	v,動詞,行為,動作	O	0	root
-6	法	法	n,名詞,制度,儀礼	O	5	obj
-7	。	。	s,記号,句点,*	O	5	punct
-8	【	【	s,記号,括弧開,*	O	10	det
-9	大	大	v,動詞,描写,量	OTH	10	amod
-10	鏡	鏡	n,名詞,可搬,道具	OTH	5	obj
-11	、	、	s,記号,読点,*	O	5	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	3	nmod
-3	物	物	n,名詞,可搬,道具	OTH	4	nsubj
-4	語	語	v,動詞,行為,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	三	三	n,数詞,数字,*	O	3	nummod
-3	年	年	n,名詞,時,*	O	_	_
-4	，	，	s,記号,読点,*	O	5	advmod
-5	敘	敘	v,動詞,行為,設置	O	0	root
-6	正	正	v,動詞,描写,形質	O	_	_
-7	五	五	n,数詞,数字,*	O	9	nummod
-8	位	位	n,名詞,制度,場	O	7	clf
-9	下	下	n,名詞,固定物,関係	O	5	conj
-10	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	九	九	n,数詞,数字,*	O	8	nummod
-8	曆	曆	n,名詞,天象,天文	O	4	conj
-9	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	後	後	n,名詞,時,*	O	_	_
-3	進	進	v,動詞,行為,移動	O	0	root
-4	從	從	v,動詞,行為,動作	O	3	parataxis
-5	四	四	n,数詞,数字,*	O	6	nummod
-6	位	位	n,名詞,制度,場	O	4	obj
-7	下	下	n,名詞,固定物,関係	O	4	obj
-8	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	det
-2	帝	帝	n,名詞,人,役割	O	4	nsubj
-3	甚	甚	v,動詞,描写,形質	O	4	advmod
-4	寵	寵	v,動詞,行為,態度	O	11	nsubj
-5	之	之	n,代名詞,人称,止格	O	4	obj
-6	，	，	s,記号,読点,*	O	11	advmod
-7	為	爲	v,動詞,存在,存在	O	11	cop
-8	皇	皇	v,動詞,描写,態度	PER	9	amod
-9	后	后	n,名詞,人,役割	PER	11	nsubj
-10	所	所	p,助詞,接続,体言化	O	11	mark
-11	妒	妒	v,動詞,行為,態度	O	0	root
-12	媢	媢	v,動詞,行為,態度	O	11	parataxis
-13	。	。	s,記号,句点,*	O	11	punct
-
-1	末	末	n,名詞,固定物,関係	O	3	nmod
-2	年	年	n,名詞,時,*	O	_	_
-3	寵	寵	v,動詞,行為,態度	O	5	nsubj
-4	稍	稍	v,副詞,時相,変化	O	5	advmod
-5	衰	衰	v,動詞,描写,境遇	O	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-7	【	【	s,記号,括弧開,*	O	9	cc
-8	大	大	v,動詞,描写,量	OTH	9	amod
-9	鏡	鏡	n,名詞,可搬,道具	OTH	5	obj
-10	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	康	康	v,動詞,描写,態度	O	4	nsubj
-3	保	保	v,動詞,行為,交流	O	_	_
-4	四	四	n,数詞,数字,*	O	7	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	七	七	n,数詞,数字,*	O	4	conj
-7	月	月	n,名詞,時,*	O	_	_
-8	，	，	s,記号,読点,*	O	9	advmod
-9	卒	卒	v,動詞,変化,生物	O	0	root
-10	。	。	s,記号,句点,*	O	9	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	6	nmod
-6	山	山	n,名詞,固定物,地形	OTH	4	obj
-7	槐	槐	n,名詞,固定物,樹木	OTH	6	conj
-8	記	記	p,助詞,句末,*	OTH	_	_
-
-1	治	治	v,動詞,行為,動作	O	2	nsubj
-2	承	承	v,動詞,行為,伝達	O	0	root
-3	二	二	n,数詞,数字,*	O	4	nummod
-4	年	年	n,名詞,時,*	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	宣	宣	v,動詞,行為,動作	O	7	amod
-4	耀	耀	v,動詞,行為,動作	O	_	_
-5	殿	殿	n,名詞,固定物,関係	O	6	nmod
-6	女	女	n,名詞,人,人	O	7	nsubj
-7	御	御	v,動詞,行為,交流	O	2	conj
-8	。	。	s,記号,句点,*	O	2	punct
-9	【	【	s,記号,括弧開,*	O	2	punct
-10	大	大	v,動詞,描写,量	OTH	11	amod
-11	鏡	鏡	n,名詞,可搬,道具	OTH	2	obj
-12	、	、	s,記号,読点,*	O	2	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	4	nsubj
-3	物	物	n,名詞,可搬,道具	OTH	4	nmod
-4	語	語	n,名詞,可搬,伝達	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	枕	枕	v,動詞,行為,動作	OTH	0	root
-2	草	草	n,名詞,固定物,樹木	OTH	1	obj
-3	子	子	n,名詞,人,関係	OTH	2	conj
-4	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	更	更	v,動詞,行為,動作	O	0	root
-3	衣	衣	n,名詞,可搬,道具	O	2	obj
-
-1	源	源	v,動詞,描写,態度	O	4	conj
-2	計	計	n,名詞,可搬,伝達	O	1	obj
-3	子	子	n,名詞,人,関係	O	2	conj
-4	，	，	s,記号,読点,*	O	6	advmod
-5	中	中	n,名詞,固定物,関係	O	_	_
-6	納	納	v,動詞,行為,動作	O	0	root
-7	言	言	n,名詞,可搬,伝達	O	6	obj
-
-1	庶	庶	v,動詞,描写,量	O	2	advmod
-2	明	明	v,動詞,描写,形質	O	0	root
-3	女	女	n,名詞,人,人	O	2	obj
-4	也	也	p,助詞,句末,*	O	_	_
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	歷	歷	v,動詞,行為,役割	OTH	0	root
-3	代	代	n,名詞,固定物,地名	OTH	4	nmod
-4	皇	皇	n,名詞,人,役割	OTH	5	nsubj
-5	紀	紀	v,動詞,行為,動作	OTH	2	ccomp
-6	、	、	s,記号,読点,*	O	2	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	nsubj
-8	胤	胤	n,名詞,主体,国名	OTH	10	nmod
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	4	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	頗	頗	v,副詞,程度,極度	O	3	advmod
-3	有	有	v,動詞,存在,存在	O	0	root
-4	才	才	n,名詞,可搬,成果物	O	5	nsubj
-5	識	識	v,動詞,行為,動作	O	3	ccomp
-6	。	。	s,記号,句点,*	O	3	punct
-
-1	一	一	n,数詞,数字,*	O	2	nummod
-2	日	日	n,名詞,時,*	O	_	_
-3	，	，	s,記号,読点,*	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	5	nsubj
-5	作	作	v,動詞,行為,生産	O	0	root
-6	歌	歌	n,名詞,可搬,伝達	O	5	obj
-7	曰	曰	v,動詞,行為,伝達	O	5	parataxis
-8	：	：	s,記号,一般,*	O	7	obj
-
-1	「	「	s,記号,括弧開,*	O	2	advmod
-2	逢	逢	v,動詞,行為,交流	O	0	root
-3	坂	坂	n,名詞,*,*	O	2	obj
-4	も	も	s,文字,*,*	O	3	conj
-
-1	阿	阿	n,名詞,人,姓氏	O	3	nsubj
-2	布	布	n,名詞,人,名	O	1	flat
-3	佐	佐	v,動詞,行為,交流	O	12	csubj
-4	加	加	v,動詞,行為,得失	O	3	parataxis
-5	茂	茂	v,動詞,描写,形質	O	4	obj
-6	，	，	s,記号,読点,*	O	7	cc
-7	果	果	v,動詞,行為,動作	O	12	conj
-8	ては	ては	s,文字,*,*	O	9	nmod
-9	波	波	n,名詞,可搬,成果物	O	7	flat
-10	底	底	n,名詞,可搬,道具	O	11	nmod
-11	波	波	n,名詞,可搬,成果物	O	7	conj
-12	往	往	v,動詞,行為,移動	O	0	root
-13	來	來	v,動詞,行為,移動	O	14	amod
-14	の	の	s,文字,*,*	O	12	conj
-
-1	由	由	v,前置詞,源泉,*	O	2	case
-2	岐	岐	n,名詞,固定物,地名	O	_	_
-3	岐	岐	n,名詞,固定物,地名	O	2	conj
-4	能	能	v,助動詞,可能,*	O	12	aux
-5	，	，	s,記号,読点,*	O	12	advmod
-6	關	關	n,名詞,固定物,建造物	O	7	nmod
-7	もゐず	もゐず	s,文字,*,*	O	10	nmod
-8	世	世	n,名詞,時,*	O	10	nmod
-9	基	基	n,名詞,固定物,建造物	O	10	nmod
-10	母	母	n,名詞,人,関係	O	12	nsubj
-11	為	爲	v,動詞,存在,存在	O	12	mark
-12	受	受	v,動詞,行為,得失	O	0	root
-13	，	，	s,記号,読点,*	O	12	obj
-
-1	尋	尋	v,動詞,行為,動作	O	0	root
-2	ねて	ねて	s,文字,*,*	O	3	nsubj
-3	訪	訪	v,動詞,行為,交流	O	1	ccomp
-4	ひ	ひ	s,文字,*,*	O	3	obj
-5	來	來	v,動詞,行為,移動	O	3	parataxis
-
-1	多	多	v,動詞,描写,量	O	0	root
-2	豆	豆	n,名詞,可搬,糧食	O	3	nmod
-3	禰	禰	n,名詞,固定物,建造物	O	1	obj
-
-1	氐	氐	n,名詞,天象,天文	O	3	nsubj
-2	斗	斗	n,名詞,天象,天文	O	1	conj
-3	比	比	v,動詞,行為,動作	O	0	root
-4	古	古	n,名詞,時,*	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	來	來	v,動詞,行為,移動	O	2	amod
-2	なば	なば	s,文字,*,*	O	3	nsubj
-3	歸	歸	v,動詞,行為,移動	O	0	root
-4	さじ	さじ	s,文字,*,*	O	3	obj
-5	岐	岐	n,名詞,固定物,地名	O	4	conj
-6	奈	奈	v,動詞,行為,分類	O	3	parataxis
-7	波	波	n,名詞,可搬,成果物	O	6	obj
-
-1	加	加	v,動詞,行為,得失	O	0	root
-2	陪	陪	v,動詞,行為,交流	O	1	obj
-3	佐	佐	v,動詞,行為,交流	O	4	amod
-4	餌	餌	n,名詞,可搬,糧食	O	1	parataxis
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	」	」	s,記号,括弧閉,*	O	4	nmod
-2	蓋	蓋	p,助詞,句頭,*	O	4	discourse
-3	隱	隱	v,動詞,行為,動作	O	4	amod
-4	語	語	n,名詞,可搬,伝達	O	0	root
-5	也	也	p,助詞,句末,*	O	_	_
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	示	示	v,動詞,行為,動作	O	0	root
-2	諸	諸	n,名詞,数量,*	O	1	iobj
-3	官	官	n,名詞,人,役割	O	4	nmod
-4	人	人	n,名詞,人,人	O	1	obj
-5	以	以	v,動詞,行為,動作	O	6	advmod
-6	試	試	v,動詞,行為,動作	O	1	parataxis
-7	之	之	n,代名詞,人称,止格	O	6	obj
-8	。	。	s,記号,句点,*	O	1	punct
-
-1	皆	皆	v,副詞,範囲,総括	O	4	advmod
-2	不	不	v,副詞,否定,無界	O	3	advmod
-3	能	能	v,助動詞,可能,*	O	4	aux
-4	解	解	v,動詞,行為,動作	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	n,名詞,可搬,伝達	OTHpart	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	十	十	n,数詞,数字,*	OTHpart	2	nummod
-2	訓	訓	v,動詞,行為,交流	OTHpart	3	nsubj
-3	抄	抄	n,名詞,*,*	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	或	或	v,副詞,判断,推定	O	4	advmod
-3	以	以	v,動詞,行為,動作	O	4	advmod
-4	為	爲	v,動詞,行為,生産	O	0	root
-5	被	被	v,助動詞,受動,*	O	6	aux
-6	召	召	v,動詞,行為,交流	O	4	obj
-
-1	，	，	s,記号,読点,*	O	3	advmod
-2	至	至	v,動詞,行為,移動	O	3	advmod
-3	有	有	v,動詞,存在,存在	O	0	root
-4	盛	盛	v,動詞,描写,形質	O	5	advmod
-5	飾	飾	v,動詞,行為,動作	O	3	obj
-6	而	而	p,助詞,接続,並列	O	7	cc
-7	進	進	v,動詞,行為,移動	O	3	conj
-8	者	者	p,助詞,提示,*	O	7	obj
-9	。	。	s,記号,句点,*	O	3	punct
-10	【	【	s,記号,括弧開,*	O	14	cc
-11	榮	榮	v,動詞,描写,形質	OTH	12	amod
-12	華	華	n,名詞,固定物,樹木	OTH	14	nsubj
-13	物	物	n,名詞,可搬,道具	OTH	14	nsubj
-14	語	語	v,動詞,行為,伝達	OTH	3	obj
-15	。	。	s,記号,句点,*	O	3	punct
-16	】	】	s,記号,括弧閉,*	O	18	cc
-17	獨	獨	v,動詞,描写,境遇	O	18	advmod
-18	計	計	n,名詞,可搬,伝達	O	3	obj
-
-1	子	子	n,代名詞,人称,他	O	2	det
-2	曉	曉	n,名詞,天象,気象	O	4	nsubj
-3	其	其	n,代名詞,人称,起格	O	4	det
-4	意	意	v,動詞,行為,動作	O	0	root
-5	，	，	s,記号,読点,*	O	4	punct
-
-1	獻	獻	v,動詞,行為,伝達	O	0	root
-2	薰	薰	n,名詞,固定物,樹木	O	3	nmod
-3	衣	衣	n,名詞,可搬,道具	O	1	obj
-4	香	香	n,名詞,描写,形質	O	3	flat
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	嘉	嘉	v,動詞,描写,態度	O	0	root
-3	其	其	n,代名詞,人称,起格	O	4	nsubj
-4	敏	敏	v,動詞,描写,態度	O	2	ccomp
-5	慧	慧	n,名詞,描写,形質	O	_	_
-6	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	n,名詞,可搬,伝達	OTHpart	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	十	十	n,数詞,数字,*	OTH	2	nummod
-2	訓	訓	v,動詞,行為,交流	OTH	5	nsubj
-3	抄	抄	n,名詞,*,*	OTH	2	conj
-4	。	。	s,記号,句点,*	O	2	punct
-5	○	○	s,記号,一般,*	O	0	root
-
-1	浦	浦	n,名詞,固定物,地形	O	2	nmod
-2	木	木	n,名詞,固定物,樹木	O	3	nsubj
-3	按	按	v,動詞,行為,動作	O	0	root
-4	，	，	s,記号,読点,*	O	3	punct
-
-1	是	是	n,代名詞,指示,*	O	2	det
-2	歌	歌	n,名詞,可搬,伝達	O	3	acl
-3	者	者	p,助詞,提示,*	O	5	nsubj
-4	，	，	s,記号,読点,*	O	5	advmod
-5	取	取	v,動詞,行為,得失	O	0	root
-6	各	各	v,副詞,範囲,限定	O	7	advmod
-7	段	段	n,名詞,可搬,道具	O	8	nmod
-8	首	首	n,名詞,不可譲,身体	O	9	nmod
-9	尾	尾	n,名詞,不可譲,身体	O	11	nmod
-10	之	之	p,助詞,接続,属格	O	9	case
-11	字	字	n,名詞,不可譲,属性	O	5	obj
-12	，	，	s,記号,読点,*	O	5	punct
-
-1	是	是	n,代名詞,指示,*	O	2	obj
-2	為	爲	v,動詞,行為,生産	O	3	case
-3	「	「	s,記号,括弧開,*	O	4	advmod
-4	合	合	v,動詞,行為,設置	O	0	root
-5	あはせ	あはせ	s,文字,*,*	O	7	nmod
-6	薰	薰	n,名詞,固定物,樹木	O	5	conj
-7	物	物	n,名詞,可搬,道具	O	4	obj
-8	少	少	v,動詞,描写,量	O	4	parataxis
-9	たきものすこし	たきものすこし	s,文字,*,*	O	8	conj
-10	。	。	s,記号,句点,*	O	4	punct
-
-1	」	」	s,記号,括弧閉,*	O	5	advmod
-2	】	】	s,記号,括弧閉,*	O	5	advmod
-3	計	計	n,名詞,可搬,伝達	O	5	nsubj
-4	子	子	n,名詞,人,関係	O	3	conj
-5	勸	勸	v,動詞,行為,交流	O	0	root
-6	帝	帝	n,名詞,人,役割	O	5	obj
-7	，	，	s,記号,読点,*	O	5	punct
-
-1	令	令	v,動詞,行為,使役	O	6	advmod
-2	源	源	v,動詞,描写,態度	O	_	_
-3	順	順	v,動詞,行為,交流	O	_	_
-4	等	等	n,名詞,数量,*	O	2	conj
-5	訓	訓	v,動詞,行為,交流	O	6	nsubj
-6	解	解	v,動詞,行為,動作	O	0	root
-7	萬	萬	n,数詞,数字,*	OTH	8	nummod
-8	葉	葉	n,名詞,固定物,樹木	OTH	6	obj
-9	集	集	v,動詞,行為,動作	OTH	_	_
-10	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	3	case
-2	十	十	n,数詞,数字,*	OTH	3	nummod
-3	訓	訓	v,動詞,行為,交流	OTH	0	root
-4	抄	抄	n,名詞,*,*	OTH	3	conj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	生	生	v,動詞,変化,生物	O	0	root
-3	理	理	n,名詞,可搬,伝達	O	2	obj
-
-1	子	子	n,名詞,人,関係	O	0	root
-2	內	內	n,名詞,固定物,関係	O	4	nmod
-3	親	親	v,動詞,行為,態度	O	4	amod
-4	王	王	n,名詞,人,役割	O	1	conj
-5	、	、	s,記号,読点,*	O	1	punct
-6	盛	盛	v,動詞,描写,形質	O	7	amod
-7	子	子	n,名詞,人,関係	O	1	conj
-8	內	內	n,名詞,固定物,関係	O	10	nmod
-9	親	親	v,動詞,行為,態度	O	10	amod
-10	王	王	n,名詞,人,役割	O	1	conj
-11	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	13	acl
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	、	、	s,記号,読点,*	O	11	nmod
-8	榮	榮	v,動詞,描写,形質	OTH	9	amod
-9	華	華	n,名詞,固定物,樹木	OTH	11	nsubj
-10	物	物	n,名詞,可搬,道具	OTH	11	nsubj
-11	語	語	v,動詞,行為,伝達	OTH	5	parataxis
-12	。	。	s,記号,句点,*	O	5	punct
-13	】	】	s,記号,括弧閉,*	O	14	flat
-14	稱	稱	v,動詞,行為,動作	O	0	root
-15	廣	廣	v,動詞,描写,量	O	14	obj
-16	幡	幡	v,動詞,描写,形質	O	_	_
-
-1	御	御	v,動詞,行為,交流	O	2	advmod
-2	息	息	v,動詞,行為,動作	O	5	acl
-3	所	所	n,名詞,制度,場	O	2	obj
-4	。	。	s,記号,句点,*	O	2	punct
-5	【	【	s,記号,括弧開,*	O	12	conj
-6	榮	榮	v,動詞,描写,形質	OTH	7	amod
-7	華	華	n,名詞,固定物,樹木	OTH	12	conj
-8	物	物	n,名詞,可搬,道具	OTH	9	nmod
-9	語	語	n,名詞,可搬,伝達	OTH	7	conj
-10	、	、	s,記号,読点,*	O	12	nmod
-11	十	十	n,数詞,数字,*	OTH	12	nummod
-12	訓	訓	v,動詞,行為,交流	OTH	0	root
-13	抄	抄	n,名詞,*,*	OTH	12	conj
-14	、	、	s,記号,読点,*	O	12	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-3	系	系	n,名詞,*,*	OTH	4	nmod
-4	圖	圖	n,名詞,可搬,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	○	○	s,記号,一般,*	O	2	nsubj
-2	按	按	v,動詞,行為,動作	O	6	csubj
-3	寶	寶	n,名詞,可搬,道具	OTH	4	nmod
-4	物	物	n,名詞,可搬,道具	OTH	2	obj
-5	集	集	v,動詞,行為,動作	OTH	6	amod
-6	云	云	v,動詞,行為,伝達	O	0	root
-7	，	，	s,記号,読点,*	O	10	advmod
-8	後	後	n,名詞,時,*	O	_	_
-9	出	出	v,動詞,行為,移動	O	10	advcl
-10	嫁	嫁	v,動詞,行為,儀礼	O	6	obj
-11	左	左	n,名詞,固定物,関係	PER	10	obj
-12	大	大	v,動詞,描写,量	PER	13	amod
-13	臣	臣	n,名詞,人,役割	PER	16	nmod
-14	藤	藤	n,名詞,*,*	PER	15	nmod
-15	原	原	n,名詞,人,姓氏	PER	13	flat
-16	顯	顯	n,名詞,人,名	PER	17	flat
-17	光	光	n,名詞,人,名	PER	10	parataxis
-18	。	。	s,記号,句点,*	O	10	punct
-
-1	據	據	v,動詞,行為,姿勢	O	0	root
-2	一	一	n,数詞,数字,*	OTH	3	nummod
-3	代	代	n,名詞,時,*	OTH	1	obj
-4	要	要	v,動詞,行為,動作	OTH	5	advmod
-5	記	記	v,動詞,行為,動作	OTH	1	parataxis
-6	、	、	s,記号,読点,*	O	1	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	10	amod
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	7	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	amod
-8	胤	胤	n,名詞,主体,国名	OTH	7	conj
-9	系	系	n,名詞,*,*	OTH	7	conj
-10	圖	圖	n,名詞,可搬,伝達	OTH	11	conj
-11	，	，	s,記号,読点,*	O	12	advmod
-12	嫁	嫁	v,動詞,行為,儀礼	O	15	acl
-13	顯	顯	n,名詞,人,姓氏	O	12	obj
-14	光	光	n,名詞,人,名	O	13	flat
-15	者	者	p,助詞,提示,*	O	17	nsubj
-16	盛	盛	v,動詞,描写,形質	O	17	amod
-17	子	子	n,名詞,人,関係	O	0	root
-18	也	也	p,助詞,句末,*	O	_	_
-19	。	。	s,記号,句点,*	O	17	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	更	更	v,動詞,行為,動作	O	0	root
-3	衣	衣	n,名詞,可搬,道具	O	2	obj
-4	藤	藤	n,名詞,*,*	O	3	conj
-
-1	原	原	n,名詞,人,姓氏	O	3	nmod
-2	祐	祐	n,名詞,人,名	O	1	flat
-3	姬	姬	n,名詞,人,役割	O	6	nsubj
-4	，	，	s,記号,読点,*	O	6	advmod
-5	大	大	v,動詞,描写,量	PER	6	advmod
-6	納	納	v,動詞,行為,動作	PER	0	root
-7	言	言	v,動詞,行為,伝達	PER	_	_
-8	元方	元方	n,名詞,人,名	O	9	nmod
-9	女	女	n,名詞,人,関係	O	6	obj
-10	也	也	p,助詞,句末,*	O	_	_
-11	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	5	advmod
-2	一	一	n,数詞,数字,*	OTH	3	nummod
-3	代	代	n,名詞,時,*	OTH	_	_
-4	要	要	v,動詞,行為,動作	OTH	5	advmod
-5	記	記	v,動詞,行為,動作	OTH	0	root
-6	、	、	s,記号,読点,*	O	5	punct
-
-1	歷	歷	v,動詞,行為,役割	OTH	0	root
-2	代	代	n,名詞,固定物,地名	OTH	3	nmod
-3	皇	皇	n,名詞,人,役割	OTH	4	nsubj
-4	紀	紀	v,動詞,行為,動作	OTH	1	ccomp
-5	、	、	s,記号,読点,*	O	1	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-3	系	系	n,名詞,*,*	OTH	4	nmod
-4	圖	圖	n,名詞,可搬,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	○	○	s,記号,一般,*	O	3	nmod
-2	按	按	v,動詞,行為,動作	O	3	amod
-3	皇	皇	n,名詞,人,役割	OTH	5	nmod
-4	胤	胤	n,名詞,人,名	OTH	3	flat
-5	紹	紹	n,名詞,人,名	OTH	10	nmod
-6	運	運	v,動詞,行為,移動	OTH	8	amod
-7	錄	錄	v,動詞,行為,動作	OTH	_	_
-8	，	，	s,記号,読点,*	O	10	nmod
-9	祐	祐	n,名詞,人,名	O	10	nmod
-10	姬	姬	n,名詞,人,役割	O	11	nsubj
-11	作	作	v,動詞,行為,生産	O	0	root
-12	元	元	n,名詞,描写,形質	O	13	nmod
-13	子	子	n,名詞,人,関係	O	11	obj
-14	。	。	s,記号,句点,*	O	16	cc
-15	】	】	s,記号,括弧閉,*	O	16	advmod
-16	為	爲	v,動詞,存在,存在	O	11	conj
-17	更	更	v,動詞,行為,動作	O	16	ccomp
-18	衣	衣	n,名詞,可搬,道具	O	17	obj
-19	。	。	s,記号,句点,*	O	16	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	nsubj
-8	胤	胤	n,名詞,主体,国名	OTH	9	nmod
-9	紹	紹	n,名詞,人,名	OTH	7	flat
-10	運	運	v,動詞,行為,移動	OTH	4	conj
-11	錄	錄	v,動詞,行為,動作	OTH	_	_
-12	。	。	s,記号,句点,*	O	4	punct
-
-1	○	○	s,記号,一般,*	O	0	root
-
-1	按	按	v,動詞,行為,動作	O	0	root
-2	榮	榮	v,動詞,描写,形質	OTH	3	amod
-3	華	華	n,名詞,固定物,樹木	OTH	1	obj
-4	物	物	n,名詞,可搬,道具	OTH	5	nmod
-5	語	語	n,名詞,可搬,伝達	OTH	3	conj
-6	，	，	s,記号,読点,*	O	1	punct
-
-1	或	或	n,代名詞,人称,起格	O	2	nsubj
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	女	女	n,名詞,人,人	O	4	nsubj
-4	御	御	v,動詞,行為,交流	O	2	ccomp
-5	，	，	s,記号,読点,*	O	2	punct
-
-1	或	或	n,代名詞,人称,起格	O	2	nsubj
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	御	御	v,動詞,行為,交流	O	2	obj
-4	息	息	v,動詞,行為,動作	O	2	parataxis
-5	所	所	n,名詞,制度,場	O	4	obj
-6	。	。	s,記号,句点,*	O	2	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	生	生	v,動詞,変化,生物	O	0	root
-3	廣平	廣平	n,名詞,固定物,地名	O	2	obj
-
-1	親	親	v,動詞,行為,態度	O	0	root
-2	王	王	n,名詞,人,役割	O	1	obj
-3	、	、	s,記号,読点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	0	root
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	、	、	s,記号,読点,*	O	5	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	3	nmod
-3	物	物	n,名詞,可搬,道具	OTH	4	nsubj
-4	語	語	v,動詞,行為,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	緝	緝	v,動詞,行為,動作	O	0	root
-3	子	子	n,名詞,人,関係	O	2	iobj
-4	內	內	n,名詞,固定物,関係	O	6	nmod
-5	親	親	v,動詞,行為,態度	O	6	amod
-6	王	王	n,名詞,人,役割	O	2	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-3	胤	胤	n,名詞,主体,国名	OTH	4	nmod
-4	紹	紹	n,名詞,人,名	OTH	2	flat
-5	運	運	v,動詞,行為,移動	OTH	0	root
-6	錄	錄	v,動詞,行為,動作	OTH	5	parataxis
-7	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	時	時	n,名詞,時,*	O	_	_
-3	帝	帝	n,名詞,人,役割	O	5	nsubj
-4	未	未	v,副詞,否定,有界	O	5	advmod
-5	有	有	v,動詞,存在,存在	O	0	root
-6	嗣	嗣	v,動詞,行為,役割	O	7	amod
-7	，	，	s,記号,読点,*	O	5	obj
-
-1	及	及	v,動詞,行為,移動	O	0	root
-2	廣平	廣平	n,名詞,固定物,地名	O	1	obj
-
-1	親	親	v,動詞,行為,態度	O	2	nmod
-2	王	王	n,名詞,人,役割	O	4	nmod
-3	生	生	v,動詞,変化,生物	O	2	flat
-4	，	，	s,記号,読点,*	O	5	flat
-5	祐	祐	n,名詞,人,名	O	6	nsubj
-6	姬	姬	n,名詞,人,役割	O	0	root
-7	及	及	v,前置詞,関係,*	O	8	cc
-8	元方	元方	n,名詞,人,名	O	10	nsubj
-9	密	密	v,動詞,描写,形質	O	10	advmod
-10	喜	喜	v,動詞,行為,動作	O	6	ccomp
-11	，	，	s,記号,読点,*	O	6	punct
-
-1	以	以	v,動詞,行為,動作	O	2	advmod
-2	謂	謂	v,動詞,行為,伝達	O	0	root
-3	其	其	n,代名詞,人称,起格	O	5	nsubj
-4	為	爲	v,動詞,存在,存在	O	5	cop
-5	儲	儲	n,名詞,可搬,成果物	O	2	ccomp
-6	貳	貳	v,動詞,行為,動作	O	_	_
-7	。	。	s,記号,句点,*	O	2	punct
-8	既	既	v,副詞,時相,完了	O	13	advmod
-9	而	而	p,助詞,接続,並列	O	13	advmod
-10	冷	冷	n,名詞,*,*	O	11	nmod
-11	泉	泉	n,名詞,固定物,地形	O	13	nsubj
-12	帝	帝	n,名詞,人,役割	O	13	nsubj
-13	生	生	v,動詞,変化,生物	O	2	ccomp
-14	，	，	s,記号,読点,*	O	2	punct
-
-1	尋	尋	n,名詞,人,名	O	4	nsubj
-2	為	爲	v,動詞,存在,存在	O	4	cop
-3	東	東	n,名詞,固定物,関係	O	4	nmod
-4	宮	宮	n,名詞,固定物,建造物	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	父	父	n,名詞,人,関係	O	4	nsubj
-2	子	子	n,名詞,人,関係	O	1	flat
-3	大	大	v,動詞,描写,量	O	4	advmod
-4	失	失	v,動詞,行為,得失	O	0	root
-5	望	望	v,動詞,行為,動作	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	元方	元方	n,名詞,人,名	O	5	nsubj
-2	遂	遂	v,副詞,時相,終局	O	5	advmod
-3	以	以	v,動詞,行為,動作	O	5	advcl
-4	憂	憂	n,名詞,描写,態度	O	3	obj
-5	死	死	v,動詞,変化,生物	O	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	nsubj
-2	世	世	n,名詞,時,*	O	_	_
-3	謂	謂	v,動詞,行為,伝達	O	0	root
-4	冷	冷	n,名詞,*,*	O	5	nmod
-5	泉	泉	n,名詞,固定物,地形	O	6	nmod
-6	帝	帝	n,名詞,人,役割	O	7	nsubj
-7	得	得	v,動詞,行為,得失	O	3	ccomp
-8	狂	狂	v,動詞,描写,態度	O	7	obj
-9	疾	疾	v,動詞,行為,態度	O	_	_
-10	、	、	s,記号,読点,*	O	3	punct
-
-1	華山	華山	n,名詞,固定物,地名	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	出	出	v,動詞,行為,移動	O	0	root
-4	家	家	n,名詞,主体,集団	O	3	obj
-5	、	、	s,記号,読点,*	O	3	punct
-
-1	三	三	n,数詞,数字,*	O	2	nummod
-2	條	條	n,名詞,可搬,伝達	O	3	nmod
-3	帝	帝	n,名詞,人,役割	O	4	nsubj
-4	失	失	v,動詞,行為,得失	O	0	root
-5	明	明	n,名詞,描写,形質	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	皆	皆	v,副詞,範囲,総括	O	6	advmod
-2	元方	元方	n,名詞,人,名	O	3	nmod
-3	祟	祟	n,名詞,*,*	O	6	nsubj
-4	之	之	p,助詞,接続,属格	O	3	case
-5	所	所	p,助詞,接続,体言化	O	6	mark
-6	為	爲	v,動詞,行為,生産	O	0	root
-7	也	也	p,助詞,句末,*	O	_	_
-8	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	5	nmod
-2	神	神	n,名詞,人,役割	OTH	3	nmod
-3	皇	皇	v,動詞,描写,態度	OTH	5	nsubj
-4	正	正	v,動詞,描写,形質	OTH	5	amod
-5	統	統	n,名詞,不可譲,属性	OTH	0	root
-6	記	記	p,助詞,句末,*	OTH	_	_
-7	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	及	及	v,前置詞,関係,*	O	0	root
-3	帝	帝	n,名詞,人,役割	O	2	obj
-
-1	崩	崩	v,動詞,変化,制度	O	0	root
-2	，	，	s,記号,読点,*	O	4	cc
-3	為	爲	v,動詞,存在,存在	O	4	cop
-4	尼	尼	v,動詞,行為,動作	O	1	conj
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	更	更	v,動詞,行為,動作	O	0	root
-3	衣	衣	n,名詞,可搬,道具	O	2	iobj
-4	藤	藤	n,名詞,*,*	PER	5	nmod
-5	原	原	n,名詞,人,姓氏	PER	3	flat
-6	正	正	n,名詞,人,名	PER	7	nmod
-7	妃	妃	n,名詞,人,関係	PER	2	obj
-8	，	，	s,記号,読点,*	O	2	punct
-
-1	左	左	n,名詞,固定物,関係	O	3	nmod
-2	大	大	v,動詞,描写,量	O	3	amod
-3	臣	臣	n,名詞,人,役割	O	4	nsubj
-4	在	在	v,動詞,存在,存在	O	0	root
-5	衡	衡	v,動詞,描写,形質	O	6	advmod
-6	女	女	n,名詞,人,人	O	4	obj
-7	也	也	p,助詞,句末,*	O	_	_
-8	。	。	s,記号,句点,*	O	4	punct
-9	【	【	s,記号,括弧開,*	O	13	cc
-10	一	一	n,数詞,数字,*	OTH	11	nummod
-11	代	代	n,名詞,時,*	OTH	_	_
-12	要	要	v,動詞,行為,動作	OTH	13	advmod
-13	記	記	v,動詞,行為,動作	OTH	4	conj
-14	、	、	s,記号,読点,*	O	4	punct
-
-1	歷	歷	v,動詞,行為,役割	OTH	0	root
-2	代	代	n,名詞,固定物,地名	OTH	3	nmod
-3	皇	皇	n,名詞,人,役割	OTH	4	nsubj
-4	紀	紀	v,動詞,行為,動作	OTH	1	ccomp
-5	、	、	s,記号,読点,*	O	1	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	nsubj
-8	胤	胤	n,名詞,主体,国名	OTH	10	nmod
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	4	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	授	授	v,動詞,行為,得失	O	0	root
-3	正	正	v,動詞,描写,形質	O	2	iobj
-4	五	五	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	2	obj
-6	下	下	n,名詞,固定物,関係	O	2	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	生	生	n,名詞,行為,*	O	3	obl
-3	致	致	v,動詞,行為,動作	O	0	root
-4	平	平	v,動詞,描写,形質	O	3	ccomp
-5	親	親	v,動詞,行為,態度	O	6	amod
-6	王	王	n,名詞,人,役割	O	4	obj
-7	、	、	s,記号,読点,*	O	3	punct
-
-1	昭	昭	v,動詞,描写,形質	O	3	nsubj
-2	平	平	v,動詞,描写,形質	O	_	_
-3	親	親	v,動詞,行為,態度	O	0	root
-4	王	王	n,名詞,人,役割	O	3	obj
-5	、	、	s,記号,読点,*	O	3	punct
-6	保	保	v,動詞,行為,交流	O	7	amod
-7	子	子	n,名詞,人,関係	O	3	conj
-8	內	內	n,名詞,固定物,関係	O	10	nmod
-9	親	親	v,動詞,行為,態度	O	10	amod
-10	王	王	n,名詞,人,役割	O	7	conj
-11	。	。	s,記号,句点,*	O	7	punct
-12	【	【	s,記号,括弧開,*	O	16	cc
-13	一	一	n,数詞,数字,*	OTH	14	nummod
-14	代	代	n,名詞,時,*	OTH	_	_
-15	要	要	v,動詞,行為,動作	OTH	16	advmod
-16	記	記	v,動詞,行為,動作	OTH	3	conj
-17	、	、	s,記号,読点,*	O	3	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	amod
-8	胤	胤	n,名詞,主体,国名	OTH	10	nsubj
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	4	obj
-11	、	、	s,記号,読点,*	O	4	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	3	nmod
-3	物	物	n,名詞,可搬,道具	OTH	4	nsubj
-4	語	語	v,動詞,行為,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	正	正	v,動詞,描写,形質	O	0	root
-3	妃	妃	n,名詞,人,関係	O	2	obj
-
-1	素	素	v,動詞,描写,形質	O	2	advmod
-2	無	無	v,動詞,存在,存在	O	11	csubj
-3	殊	殊	v,動詞,描写,形質	O	4	advmod
-4	寵	寵	v,動詞,行為,態度	O	2	obj
-5	，	，	s,記号,読点,*	O	11	advmod
-6	然	然	p,接尾辞,*,*	O	5	fixed
-7	以	以	v,動詞,行為,動作	O	11	advcl
-8	多	多	v,動詞,描写,量	O	9	amod
-9	子	子	n,名詞,人,人	O	7	obj
-10	恩	恩	n,名詞,可搬,成果物	O	11	nsubj
-11	遇	遇	v,動詞,行為,交流	O	0	root
-12	，	，	s,記号,読点,*	O	14	cc
-13	始	始	v,動詞,行為,動作	O	14	advmod
-14	終	終	v,動詞,変化,生物	O	11	obj
-15	不	不	v,副詞,否定,無界	O	16	advmod
-16	衰	衰	v,動詞,描写,境遇	O	11	parataxis
-17	。	。	s,記号,句点,*	O	11	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	康	康	v,動詞,描写,態度	O	4	nsubj
-3	保	保	v,動詞,行為,交流	O	_	_
-4	四	四	n,数詞,数字,*	O	7	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	七	七	n,数詞,数字,*	O	4	conj
-7	月	月	n,名詞,時,*	O	_	_
-8	，	，	s,記号,読点,*	O	9	advmod
-9	卒	卒	v,動詞,変化,生物	O	0	root
-10	。	。	s,記号,句点,*	O	9	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	稱	稱	v,動詞,行為,動作	O	0	root
-3	按	按	v,動詞,行為,動作	O	2	parataxis
-4	察	察	v,動詞,行為,伝達	O	3	advmod
-5	御	御	v,動詞,行為,交流	O	_	_
-6	息	息	v,動詞,行為,動作	O	3	ccomp
-7	所	所	n,名詞,制度,場	O	6	obj
-8	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	amod
-2	尚	尙	v,動詞,行為,態度	O	7	amod
-3	侍	侍	v,動詞,行為,設置	O	7	amod
-4	藤	藤	n,名詞,*,*	PER	5	nmod
-5	原	原	n,名詞,人,姓氏	PER	3	flat
-6	登	登	n,名詞,人,名	PER	3	flat
-7	子	子	n,名詞,人,関係	PER	10	nmod
-8	，	，	s,記号,読点,*	O	10	nmod
-9	皇	皇	v,動詞,描写,態度	PER	10	amod
-10	后	后	n,名詞,人,役割	PER	13	nsubj
-11	同	同	v,動詞,描写,形質	O	12	amod
-12	母	母	n,名詞,人,関係	O	10	conj
-13	妹	妹	n,名詞,人,関係	O	0	root
-14	也	也	p,助詞,句末,*	O	_	_
-15	。	。	s,記号,句点,*	O	13	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	尊	尊	v,動詞,行為,態度	OTH	4	nsubj
-3	卑	卑	v,動詞,描写,境遇	OTH	_	_
-4	分	分	v,動詞,行為,設置	OTH	0	root
-5	脈	脈	n,名詞,不可譲,身体	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	4	advmod
-4	記	記	v,動詞,行為,動作	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-6	大	大	v,動詞,描写,量	OTH	7	amod
-7	鏡	鏡	n,名詞,可搬,道具	OTH	4	obj
-8	裏	裡	n,名詞,固定物,関係	OTH	9	nmod
-9	書	書	n,名詞,主体,書物	OTH	7	conj
-10	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	advmod
-2	初	初	n,名詞,時,*	O	_	_
-3	為	爲	v,動詞,存在,存在	O	5	cop
-4	帝	帝	n,名詞,人,役割	O	5	nmod
-5	兄	兄	n,名詞,人,関係	O	6	obl
-6	重	重	v,動詞,描写,量	O	0	root
-7	明	明	v,動詞,描写,形質	O	6	parataxis
-8	親	親	v,動詞,行為,態度	O	7	obj
-
-1	王	王	n,名詞,人,役割	O	2	nsubj
-2	繼	繼	v,動詞,行為,得失	O	0	root
-3	室	室	n,名詞,固定物,建造物	O	2	obj
-4	，	，	s,記号,読点,*	O	2	punct
-
-1	以	以	v,動詞,行為,動作	O	5	advcl
-2	皇	皇	v,動詞,描写,態度	PER	3	amod
-3	后	后	n,名詞,時,*	PER	4	nmod
-4	故	故	n,名詞,時,*	O	1	obj
-5	，	，	s,記号,読点,*	O	0	root
-
-1	出	出	v,動詞,行為,移動	O	2	advmod
-2	入	入	v,動詞,行為,移動	O	0	root
-3	宮	宮	n,名詞,固定物,建造物	O	4	nmod
-4	中	中	n,名詞,固定物,関係	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-6	帝	帝	n,名詞,人,役割	O	2	obj
-7	見	見	v,動詞,行為,動作	O	2	parataxis
-8	悅	悅	v,動詞,行為,態度	O	7	ccomp
-9	之	之	n,代名詞,人称,止格	O	8	obj
-10	，	，	s,記号,読点,*	O	8	punct
-
-1	請	請	v,動詞,行為,交流	O	0	root
-2	后	后	n,名詞,人,役割	O	3	nsubj
-3	私	私	v,動詞,描写,態度	O	1	ccomp
-4	焉	焉	n,代名詞,指示,*	O	3	obl
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	后	后	n,名詞,時,*	O	_	_
-2	初	初	n,名詞,時,*	O	_	_
-3	為	爲	v,動詞,存在,存在	O	4	cop
-4	掩	掩	v,動詞,行為,動作	O	0	root
-
-1	匿	匿	v,動詞,行為,動作	O	0	root
-2	。	。	s,記号,句点,*	O	1	punct
-3	【	【	s,記号,括弧開,*	O	5	cc
-4	榮	榮	v,動詞,描写,形質	OTH	5	amod
-5	華	華	n,名詞,固定物,樹木	OTH	1	obj
-6	物	物	n,名詞,可搬,道具	OTH	7	nmod
-7	語	語	n,名詞,可搬,伝達	OTH	1	parataxis
-8	、	、	s,記号,読点,*	O	1	punct
-9	大	大	v,動詞,描写,量	OTH	10	amod
-10	鏡	鏡	n,名詞,可搬,道具	OTH	1	obj
-11	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	後	後	n,名詞,時,*	O	3	nmod
-3	帝	帝	n,名詞,人,役割	O	5	nsubj
-4	數	數	v,動詞,描写,量	O	5	advmod
-5	召	召	v,動詞,行為,交流	O	0	root
-6	入	入	v,動詞,行為,移動	O	5	parataxis
-7	宮	宮	n,名詞,固定物,建造物	O	8	nmod
-8	中	中	n,名詞,固定物,関係	O	6	obj
-9	，	，	s,記号,読点,*	O	10	nmod
-10	后	后	n,名詞,人,役割	O	5	obj
-11	稍	稍	v,副詞,時相,変化	O	13	advmod
-12	不	不	v,副詞,否定,無界	O	13	advmod
-13	懌	懌	v,動詞,描写,態度	O	5	parataxis
-14	。	。	s,記号,句点,*	O	5	punct
-
-1	及	及	v,動詞,行為,移動	O	0	root
-2	親	親	v,動詞,行為,態度	O	3	amod
-3	王	王	n,名詞,人,役割	O	4	nsubj
-4	薨	薨	v,動詞,変化,生物	O	1	ccomp
-5	，	，	s,記号,読点,*	O	1	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nmod
-2	心	心	n,名詞,不可譲,身体	O	5	nsubj
-3	喜	喜	v,動詞,行為,動作	O	5	advmod
-4	欲	欲	v,助動詞,願望,*	O	5	aux
-5	納	納	v,動詞,行為,動作	O	0	root
-6	之	之	n,代名詞,人称,止格	O	5	obj
-7	，	，	s,記号,読点,*	O	9	advmod
-8	然	然	p,接尾辞,*,*	O	7	fixed
-9	憚	憚	v,動詞,行為,態度	O	5	conj
-10	后	后	n,名詞,人,役割	O	9	obj
-11	不	不	v,副詞,否定,無界	O	12	advmod
-12	果	果	v,動詞,行為,動作	O	9	ccomp
-13	。	。	s,記号,句点,*	O	9	punct
-
-1	后	后	n,名詞,人,役割	O	2	nsubj
-2	崩	崩	v,動詞,変化,制度	O	0	root
-
-1	僅	僅	v,副詞,範囲,限定	O	2	advmod
-2	踰	踰	v,動詞,行為,移動	O	0	root
-3	月	月	n,名詞,時,*	O	2	obj
-4	，	，	s,記号,読点,*	O	2	punct
-
-1	帝	帝	n,名詞,人,役割	O	3	nsubj
-2	數	數	v,動詞,描写,量	O	3	advmod
-3	通	通	v,動詞,行為,移動	O	0	root
-4	書	書	n,名詞,主体,書物	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	登	登	v,動詞,行為,移動	O	3	advcl
-2	子	子	n,名詞,人,関係	O	1	obj
-3	憚	憚	v,動詞,行為,態度	O	0	root
-4	物	物	n,名詞,可搬,道具	O	5	nmod
-5	議	議	v,動詞,行為,交流	O	3	obj
-6	，	，	s,記号,読点,*	O	3	punct
-
-1	不	不	v,副詞,否定,無界	O	2	advmod
-2	肯	肯	v,助動詞,願望,*	O	3	aux
-3	應	應	v,動詞,行為,交流	O	0	root
-4	命	命	n,名詞,可搬,伝達	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	敕	敕	v,動詞,行為,伝達	O	0	root
-3	伊	伊	n,名詞,人,姓氏	O	2	obj
-4	尹	尹	n,名詞,人,名	O	3	flat
-5	等	等	n,名詞,数量,*	O	3	conj
-6	促	促	v,動詞,行為,態度	O	2	parataxis
-7	之	之	n,代名詞,人称,止格	O	6	obj
-8	，	，	s,記号,読点,*	O	2	punct
-
-1	命	命	v,動詞,行為,伝達	O	5	nsubj
-2	內	內	n,名詞,固定物,関係	O	4	nmod
-3	藏	藏	v,動詞,行為,設置	O	4	amod
-4	司	司	n,名詞,人,役割	O	1	conj
-5	給	給	v,動詞,行為,交流	O	0	root
-6	其	其	n,代名詞,人称,起格	O	7	det
-7	資	資	v,動詞,行為,動作	O	5	obj
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	遂	遂	v,副詞,時相,終局	O	2	advmod
-2	召	召	v,動詞,行為,交流	O	0	root
-3	居	居	v,動詞,行為,動作	O	7	amod
-4	登	登	v,動詞,行為,移動	O	_	_
-5	華	華	n,名詞,固定物,地名	O	6	nmod
-6	殿	殿	n,名詞,固定物,関係	O	3	obj
-7	，	，	s,記号,読点,*	O	2	obj
-
-1	專	專	v,動詞,行為,動作	O	0	root
-2	寵	寵	v,動詞,行為,態度	O	1	obj
-3	幸	幸	v,動詞,描写,境遇	O	1	parataxis
-4	。	。	s,記号,句点,*	O	1	punct
-
-1	妃	妃	n,名詞,人,関係	O	3	nsubj
-2	嬪	嬪	n,名詞,人,関係	O	1	conj
-3	希	希	v,動詞,描写,量	O	0	root
-4	復	復	v,副詞,頻度,重複	O	5	advmod
-5	進	進	v,動詞,行為,移動	O	3	parataxis
-6	御	御	v,動詞,行為,交流	O	_	_
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	后	后	n,名詞,人,役割	O	7	nmod
-2	及	及	v,前置詞,関係,*	O	4	cc
-3	親	親	n,名詞,人,関係	O	4	nmod
-4	王	王	n,名詞,人,役割	O	1	conj
-5	之	之	p,助詞,接続,属格	O	1	case
-6	侍	侍	v,動詞,行為,設置	O	7	amod
-7	女	女	n,代名詞,人称,起格	O	9	nsubj
-8	皆	皆	v,副詞,範囲,総括	O	9	advmod
-9	怨	怨	v,動詞,行為,態度	O	0	root
-10	忿	忿	v,動詞,行為,態度	O	_	_
-11	，	，	s,記号,読点,*	O	9	punct
-
-1	謂	謂	v,動詞,行為,伝達	O	0	root
-2	：	：	s,記号,一般,*	O	1	obj
-
-1	「	「	s,記号,括弧開,*	O	2	nmod
-2	后	后	n,名詞,人,役割	O	3	nsubj
-3	崩	崩	v,動詞,変化,制度	O	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	親	親	v,動詞,行為,態度	O	2	amod
-2	王	王	n,名詞,人,役割	O	3	nsubj
-3	薨	薨	v,動詞,変化,生物	O	0	root
-4	，	，	s,記号,読点,*	O	3	punct
-
-1	其	其	n,代名詞,人称,起格	O	2	det
-2	咒	咒	v,動詞,行為,動作	O	6	nsubj
-3	詛	詛	v,動詞,行為,動作	O	_	_
-4	之	之	p,助詞,接続,属格	O	2	case
-5	所	所	p,助詞,接続,体言化	O	6	mark
-6	致	致	v,動詞,行為,動作	O	0	root
-7	也	也	p,助詞,句末,*	O	_	_
-8	。	。	s,記号,句点,*	O	6	punct
-
-1	」	」	s,記号,括弧閉,*	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	4	nsubj
-3	常	常	v,副詞,時相,恒常	O	4	advmod
-4	歡	歡	v,動詞,行為,態度	O	0	root
-5	狎	狎	v,動詞,行為,態度	O	4	parataxis
-6	，	，	s,記号,読点,*	O	5	punct
-
-1	至	至	v,動詞,行為,移動	O	4	advcl
-2	晝	晝	n,名詞,時,*	O	1	obj
-3	不	不	v,副詞,否定,無界	O	4	advmod
-4	出	出	v,動詞,行為,移動	O	0	root
-5	臥	臥	v,動詞,行為,姿勢	O	6	amod
-6	內	內	n,名詞,固定物,関係	O	4	obj
-7	。	。	s,記号,句点,*	O	4	punct
-
-1	帝	帝	n,名詞,人,役割	O	4	nsubj
-2	為	爲	v,動詞,存在,存在	O	4	cop
-3	治	治	v,動詞,行為,動作	O	4	amod
-4	休	休	v,動詞,描写,態度	O	0	root
-5	明	明	n,名詞,描写,形質	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	至	至	v,動詞,行為,移動	O	6	advcl
-2	是	是	n,代名詞,指示,*	O	1	obj
-3	政	政	n,名詞,制度,儀礼	O	4	nmod
-4	事	事	n,名詞,可搬,成果物	O	6	nsubj
-5	頗	頗	v,副詞,程度,極度	O	6	advmod
-6	廢	廢	v,動詞,変化,制度	O	0	root
-7	，	，	s,記号,読点,*	O	6	punct
-
-1	中	中	n,名詞,固定物,関係	O	3	nsubj
-2	外	外	n,名詞,固定物,関係	O	1	flat
-3	惜	惜	v,動詞,行為,態度	O	0	root
-4	之	之	n,代名詞,人称,止格	O	3	obj
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	藤	藤	n,名詞,*,*	O	2	nmod
-2	原	原	n,名詞,固定物,関係	O	4	nsubj
-3	實	實	v,副詞,程度,極度	O	4	advmod
-4	賴	賴	v,動詞,描写,態度	O	0	root
-5	嘆	嘆	v,動詞,行為,態度	O	4	obj
-6	曰	曰	v,動詞,行為,伝達	O	4	parataxis
-7	：	：	s,記号,一般,*	O	6	obj
-
-1	「	「	s,記号,括弧開,*	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	3	nmod
-3	德	德	n,名詞,描写,態度	O	5	nsubj
-4	足	足	v,助動詞,可能,*	O	5	aux
-5	垂	垂	v,動詞,行為,動作	O	0	root
-6	後	後	n,名詞,時,*	O	7	nmod
-7	世	世	n,名詞,時,*	O	5	obj
-8	，	，	s,記号,読点,*	O	5	obj
-9	而	而	p,助詞,接続,並列	O	12	cc
-10	以	以	v,動詞,行為,動作	O	12	advcl
-11	是	是	n,代名詞,指示,*	O	10	obj
-12	壞	壞	v,動詞,変化,性質	O	5	conj
-13	之	之	n,代名詞,人称,止格	O	12	obj
-14	。	。	s,記号,句点,*	O	5	punct
-
-1	惜	惜	v,動詞,行為,態度	O	0	root
-2	哉	哉	p,助詞,句末,*	O	_	_
-3	！	！	s,記号,一般,*	O	5	nmod
-4	」	」	s,記号,括弧閉,*	O	5	nmod
-5	帝	帝	n,名詞,人,役割	O	7	nsubj
-6	欲	欲	v,助動詞,願望,*	O	7	aux
-7	立	立	v,動詞,行為,姿勢	O	1	ccomp
-
-1	登	登	v,動詞,行為,移動	O	9	csubj
-2	子	子	n,名詞,人,関係	O	1	obj
-3	為	爲	v,動詞,存在,存在	O	4	cop
-4	后	后	n,名詞,人,役割	O	1	parataxis
-5	，	，	s,記号,読点,*	O	9	advmod
-6	然	然	p,接尾辞,*,*	O	5	fixed
-7	以	以	v,動詞,行為,動作	O	9	advmod
-8	前	前	n,名詞,時,*	O	_	_
-9	有	有	v,動詞,存在,存在	O	11	amod
-10	子	子	n,名詞,人,関係	O	9	obj
-11	，	，	s,記号,読点,*	O	0	root
-
-1	不	不	v,副詞,否定,無界	O	2	advmod
-2	得	得	v,助動詞,可能,*	O	4	aux
-3	策	策	v,動詞,行為,動作	O	4	advmod
-4	立	立	v,動詞,行為,姿勢	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	圓	圓	v,動詞,描写,量	O	3	advmod
-3	融	融	v,動詞,行為,動作	O	0	root
-4	帝	帝	n,名詞,人,役割	O	3	obj
-5	受	受	v,動詞,行為,得失	O	3	parataxis
-6	禪	禪	n,名詞,制度,儀礼	O	5	obj
-7	，	，	s,記号,読点,*	O	3	punct
-
-1	敘	敘	v,動詞,行為,設置	O	2	advmod
-2	從	從	v,動詞,行為,動作	O	0	root
-3	四	四	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	2	obj
-5	上	上	n,名詞,固定物,関係	O	2	parataxis
-6	，	，	s,記号,読点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	○	○	s,記号,一般,*	O	0	root
-
-1	日	日	n,名詞,時,*	O	_	_
-2	本	本	v,動詞,行為,動作	O	3	advmod
-3	紀	紀	v,動詞,行為,動作	O	5	amod
-4	略	略	n,名詞,可搬,伝達	O	3	obj
-5	，	，	s,記号,読点,*	O	6	conj
-6	作	作	v,動詞,行為,生産	O	9	nsubj
-7	從	從	v,前置詞,経由,*	O	8	case
-8	五	五	n,数詞,数字,*	O	9	nummod
-9	位	位	n,名詞,制度,場	O	0	root
-10	上	上	n,名詞,固定物,関係	O	9	conj
-11	。	。	s,記号,句点,*	O	9	punct
-
-1	今	今	n,名詞,時,*	O	_	_
-2	從	從	v,動詞,行為,動作	O	6	acl
-3	大	大	v,動詞,描写,量	OTH	4	amod
-4	鏡	鏡	n,名詞,可搬,道具	OTH	2	obj
-5	裏	裡	n,名詞,固定物,関係	OTH	6	nmod
-6	書	書	n,名詞,主体,書物	OTH	10	obj
-7	、	、	s,記号,読点,*	O	10	cc
-8	一	一	n,数詞,数字,*	OTH	9	nummod
-9	代	代	n,名詞,時,*	OTH	_	_
-10	要	要	v,動詞,行為,動作	OTH	0	root
-11	記	記	p,助詞,句末,*	OTH	_	_
-12	。	。	s,記号,句点,*	O	10	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	nsubj
-2	為	爲	v,動詞,存在,存在	O	4	cop
-3	尚	尙	v,動詞,行為,態度	O	4	advmod
-4	侍	侍	v,動詞,行為,設置	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-
-1	○	○	s,記号,一般,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	obj
-4	、	、	s,記号,読点,*	O	1	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	4	nmod
-3	物	物	n,名詞,可搬,道具	OTH	4	nmod
-4	語	語	n,名詞,可搬,伝達	OTH	5	nsubj
-5	云	云	v,動詞,行為,伝達	O	0	root
-6	，	，	s,記号,読点,*	O	5	punct
-
-1	村	村	n,名詞,制度,場	O	3	nmod
-2	上	上	n,名詞,固定物,関係	O	3	nmod
-3	帝	帝	n,名詞,人,役割	O	4	nsubj
-4	在	在	v,動詞,存在,存在	O	0	root
-5	日	日	n,名詞,天象,天文	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	為	爲	v,動詞,存在,存在	O	3	cop
-2	尚	尙	v,動詞,行為,態度	O	3	advmod
-3	侍	侍	v,動詞,行為,設置	O	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	今	今	n,名詞,時,*	O	3	nmod
-2	從	從	v,動詞,行為,動作	O	3	amod
-3	日	日	n,名詞,時,*	OTH	_	_
-4	本	本	v,動詞,行為,動作	OTH	0	root
-5	紀	紀	v,動詞,行為,動作	OTH	4	amod
-6	略	略	n,名詞,可搬,伝達	OTH	5	obj
-7	、	、	s,記号,読点,*	O	4	punct
-8	大	大	v,動詞,描写,量	OTH	9	amod
-9	鏡	鏡	n,名詞,可搬,道具	OTH	11	nmod
-10	裏	裡	n,名詞,固定物,関係	OTH	11	nmod
-11	書	書	n,名詞,主体,書物	OTH	4	obj
-12	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	0	root
-2	天	天	n,名詞,制度,場	O	3	nmod
-3	祿	祿	n,名詞,可搬,成果物	O	1	obj
-
-1	元	元	n,名詞,描写,形質	O	2	nmod
-2	年	年	n,名詞,時,*	O	_	_
-3	，	，	s,記号,読点,*	O	5	advmod
-4	敘	敘	v,動詞,行為,設置	O	5	advmod
-5	從	從	v,動詞,行為,動作	O	0	root
-6	三	三	n,数詞,数字,*	O	7	nummod
-7	位	位	n,名詞,制度,場	O	5	obj
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	天	天	n,名詞,制度,場	O	2	nsubj
-2	延	延	v,動詞,行為,動作	O	0	root
-3	元	元	n,名詞,描写,形質	O	4	nmod
-4	年	年	n,名詞,時,*	O	2	obj
-5	，	，	s,記号,読点,*	O	6	advmod
-6	進	進	v,動詞,行為,移動	O	2	parataxis
-7	從	從	v,動詞,行為,動作	O	_	_
-8	二	二	n,数詞,数字,*	O	9	nummod
-9	位	位	n,名詞,制度,場	O	6	obj
-10	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	nmod
-4	裏	裡	n,名詞,固定物,関係	OTH	5	nmod
-5	書	書	n,名詞,主体,書物	OTH	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	三	三	n,数詞,数字,*	O	3	nummod
-3	年	年	n,名詞,時,*	O	_	_
-4	，	，	s,記号,読点,*	O	5	advmod
-5	薨	薨	v,動詞,変化,生物	O	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	大	大	v,動詞,描写,量	OTH	8	amod
-8	鏡	鏡	n,名詞,可搬,道具	OTH	4	obj
-9	裏	裡	n,名詞,固定物,関係	OTH	10	nmod
-10	書	書	n,名詞,主体,書物	OTH	8	conj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	稱	稱	v,動詞,行為,動作	O	4	advmod
-3	貞	貞	v,動詞,描写,態度	O	_	_
-4	觀	觀	v,動詞,行為,動作	O	0	root
-5	殿	殿	n,名詞,固定物,関係	O	4	obj
-6	尚	尙	v,動詞,行為,態度	O	7	advmod
-7	侍	侍	v,動詞,行為,設置	O	4	parataxis
-8	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	5	advmod
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	5	nsubj
-4	。	。	s,記号,句点,*	O	3	punct
-5	○	○	s,記号,一般,*	O	0	root
-
-1	按	按	v,動詞,行為,動作	O	8	csubj
-2	榮	榮	v,動詞,描写,形質	OTH	3	amod
-3	華	華	n,名詞,固定物,樹木	OTH	4	nmod
-4	物	物	n,名詞,可搬,道具	OTH	1	obj
-5	語	語	v,動詞,行為,伝達	OTH	1	parataxis
-6	系	系	n,名詞,*,*	OTH	7	nmod
-7	圖	圖	n,名詞,可搬,伝達	OTH	5	conj
-8	云	云	v,動詞,行為,伝達	O	0	root
-9	，	，	s,記号,読点,*	O	8	obj
-
-1	稱	稱	v,動詞,行為,動作	O	0	root
-2	登	登	v,動詞,行為,移動	O	4	amod
-3	華	華	n,名詞,固定物,地名	O	4	nmod
-4	殿	殿	n,名詞,固定物,関係	O	1	obj
-5	尚	尙	v,動詞,行為,態度	O	6	advmod
-6	侍	侍	v,動詞,行為,設置	O	1	parataxis
-7	。	。	s,記号,句点,*	O	1	punct
-
-1	未	未	v,副詞,否定,有界	O	2	advmod
-2	知	知	v,動詞,行為,動作	O	6	acl
-3	孰	孰	n,代名詞,疑問,*	O	4	nsubj
-4	是	是	n,代名詞,指示,*	O	2	ccomp
-5	。	。	s,記号,句点,*	O	4	punct
-6	】	】	s,記号,括弧閉,*	O	10	nmod
-7	【	【	s,記号,括弧開,*	O	10	advmod
-8	冷	冷	n,名詞,*,*	O	10	nsubj
-9	泉	泉	n,名詞,人,姓氏	O	8	flat
-10	天皇	天皇	n,名詞,人,名	O	0	root
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	冷	冷	n,名詞,*,*	O	3	nmod
-3	泉	泉	n,名詞,固定物,地形	O	7	nmod
-4	皇	皇	v,動詞,描写,態度	PER	5	amod
-5	后	后	n,名詞,人,役割	PER	3	conj
-6	，	，	s,記号,読点,*	O	7	advmod
-7	諱	諱	v,動詞,行為,態度	O	0	root
-8	昌	昌	v,動詞,描写,量	O	9	amod
-9	子	子	n,名詞,人,役割	O	7	obj
-10	。	。	s,記号,句点,*	O	7	punct
-11	朱	朱	n,名詞,描写,形質	O	12	nmod
-12	雀	雀	n,名詞,主体,動物	O	7	conj
-13	帝	帝	n,名詞,人,役割	O	14	nmod
-14	女	女	n,名詞,人,関係	O	7	conj
-15	也	也	p,助詞,句末,*	O	_	_
-16	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	7	acl
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	16	case
-8	天	天	n,名詞,制度,場	O	9	compound
-9	曆	曆	n,名詞,天象,天文	O	16	nsubj
-10	四	四	n,数詞,数字,*	O	11	nummod
-11	年	年	n,名詞,時,*	O	_	_
-12	，	，	s,記号,読点,*	O	16	advmod
-13	為	爲	v,動詞,存在,存在	O	16	cop
-14	內	內	n,名詞,固定物,関係	O	16	nmod
-15	親	親	v,動詞,行為,態度	O	16	amod
-16	王	王	n,名詞,人,役割	O	0	root
-17	。	。	s,記号,句点,*	O	16	punct
-
-1	時	時	n,名詞,時,*	O	2	nmod
-2	年	年	n,名詞,時,*	O	3	nsubj
-3	一	一	n,数詞,数字,*	O	5	nummod
-4	歲	歲	n,名詞,時,*	O	3	clf
-5	。	。	s,記号,句点,*	O	8	conj
-6	【	【	s,記号,括弧開,*	O	8	advmod
-7	類	類	n,名詞,描写,形質	OTH	8	nsubj
-8	聚	聚	v,動詞,行為,動作	OTH	0	root
-9	符	符	n,名詞,可搬,道具	OTH	8	obj
-10	宣	宣	v,動詞,行為,動作	OTH	8	parataxis
-11	抄	抄	n,名詞,*,*	OTH	10	obj
-12	。	。	s,記号,句点,*	O	8	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	應	應	v,動詞,行為,交流	O	6	amod
-3	和	和	v,動詞,描写,形質	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	2	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	笄	笄	v,動詞,行為,動作	O	0	root
-2	於	於	v,前置詞,基盤,*	O	3	case
-3	承	承	v,動詞,行為,伝達	O	1	obl
-4	香	香	n,名詞,描写,形質	O	5	nmod
-5	殿	殿	n,名詞,固定物,関係	O	3	obj
-6	，	，	s,記号,読点,*	O	1	punct
-
-1	授	授	v,動詞,行為,得失	O	0	root
-2	三	三	n,数詞,数字,*	O	3	nummod
-3	品	品	n,名詞,固定物,関係	O	1	obj
-4	。	。	s,記号,句点,*	O	1	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nsubj
-2	親	親	v,動詞,行為,態度	O	4	amod
-3	書	書	n,名詞,主体,書物	O	4	nmod
-4	位	位	n,名詞,制度,場	O	5	obj
-5	記	記	v,動詞,行為,動作	O	0	root
-6	賜	賜	v,動詞,行為,交流	O	5	parataxis
-7	之	之	n,代名詞,人称,止格	O	6	obj
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	7	acl
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	11	nsubj
-8	初	初	n,名詞,時,*	O	_	_
-9	后	后	n,名詞,時,*	O	_	_
-10	幼	幼	v,動詞,描写,形質	O	11	nsubj
-11	失	失	v,動詞,行為,得失	O	0	root
-12	恃	恃	v,動詞,行為,交流	O	11	obj
-13	，	，	s,記号,読点,*	O	15	nmod
-14	朱	朱	n,名詞,描写,形質	O	15	nmod
-15	雀	雀	n,名詞,主体,動物	O	11	obj
-
-1	帝	帝	n,名詞,人,役割	O	4	nsubj
-2	唯	唯	v,副詞,範囲,限定	O	4	advmod
-3	一	一	n,数詞,数字,*	O	4	nummod
-4	女	女	n,名詞,人,関係	O	0	root
-5	，	，	s,記号,読点,*	O	4	punct
-
-1	鍾	鍾	n,名詞,人,姓氏	O	4	nsubj
-2	愛	愛	n,名詞,人,名	O	1	flat
-3	最	最	v,副詞,程度,極度	O	4	advmod
-4	甚	甚	v,動詞,描写,形質	O	0	root
-5	，	，	s,記号,読点,*	O	7	advmod
-6	每	每	v,動詞,描写,形質	O	7	advmod
-7	御	御	v,動詞,行為,交流	O	4	ccomp
-8	其	其	n,代名詞,人称,起格	O	10	nsubj
-9	為	爲	v,動詞,存在,存在	O	10	cop
-10	后	后	n,名詞,人,役割	O	7	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	皇	皇	v,動詞,描写,態度	PER	2	amod
-2	女	女	n,代名詞,人称,起格	PER	4	nsubj
-3	冊	冊	n,名詞,*,*	O	4	obl
-4	立	立	v,動詞,行為,姿勢	O	0	root
-5	，	，	s,記号,読点,*	O	4	punct
-
-1	近	近	v,動詞,描写,形質	O	0	root
-2	古	古	n,名詞,時,*	O	1	obj
-3	無	無	v,動詞,存在,存在	O	1	parataxis
-4	例	例	n,名詞,制度,儀礼	O	3	obj
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	OTHpart	2	nmod
-2	物	物	n,名詞,可搬,道具	OTHpart	3	nsubj
-3	語	語	v,動詞,行為,伝達	OTHpart	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	然	然	p,接尾辞,*,*	O	1	fixed
-3	以	以	v,動詞,行為,動作	O	4	advmod
-4	無	無	v,動詞,存在,存在	O	0	root
-5	皇	皇	v,動詞,描写,態度	PER	6	amod
-6	子	子	n,名詞,人,関係	PER	4	obj
-7	，	，	s,記号,読点,*	O	12	cc
-8	欲	欲	v,助動詞,願望,*	O	12	aux
-9	皇	皇	v,動詞,描写,態度	PER	10	amod
-10	女	女	n,名詞,人,人	PER	12	nsubj
-11	遺	遺	v,動詞,行為,得失	O	12	amod
-12	種	種	n,名詞,固定物,樹木	O	4	conj
-13	。	。	s,記号,句点,*	O	4	punct
-
-1	臨	臨	v,動詞,行為,動作	O	0	root
-2	崩	崩	v,動詞,変化,制度	O	1	obj
-3	，	，	s,記号,読点,*	O	1	punct
-
-1	作	作	v,動詞,行為,生産	O	0	root
-2	歌	歌	n,名詞,可搬,伝達	O	1	obj
-3	寓	寓	v,動詞,行為,動作	O	1	parataxis
-4	意	意	v,動詞,行為,動作	O	_	_
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	3	advmod
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	村	村	n,名詞,制度,場	O	0	root
-3	上	上	n,名詞,固定物,関係	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	2	obj
-5	知	知	v,動詞,行為,動作	O	2	parataxis
-6	之	之	n,代名詞,人称,止格	O	5	obj
-7	。	。	s,記号,句点,*	O	2	punct
-8	及	及	v,前置詞,関係,*	O	11	cc
-9	東	東	n,名詞,固定物,関係	O	10	nmod
-10	宮	宮	n,名詞,固定物,建造物	O	11	nsubj
-11	加	加	v,動詞,行為,得失	O	2	conj
-12	元	元	n,名詞,描写,形質	O	13	nmod
-13	服	服	n,名詞,可搬,道具	O	11	obj
-14	，	，	s,記号,読点,*	O	2	punct
-
-1	群	群	n,名詞,描写,形質	O	2	nmod
-2	貴	貴	n,名詞,描写,態度	O	4	nsubj
-3	皆	皆	v,副詞,範囲,総括	O	4	advmod
-4	冀	冀	v,動詞,行為,態度	O	0	root
-5	納	納	v,動詞,行為,動作	O	4	ccomp
-6	女	女	n,代名詞,人称,起格	O	5	obj
-7	。	。	s,記号,句点,*	O	4	punct
-
-1	村	村	n,名詞,制度,場	O	3	nmod
-2	上	上	n,名詞,固定物,関係	O	3	nmod
-3	帝	帝	n,名詞,人,役割	O	5	nsubj
-4	特	特	v,動詞,行為,動作	O	5	amod
-5	敕	敕	n,名詞,可搬,伝達	O	6	nsubj
-6	為	爲	v,動詞,存在,存在	O	0	root
-7	納	納	v,動詞,行為,動作	O	6	ccomp
-8	之	之	n,代名詞,人称,止格	O	7	obj
-9	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	O	2	nmod
-2	物	物	n,名詞,可搬,道具	O	3	nsubj
-3	語	語	v,動詞,行為,伝達	O	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	及	及	v,前置詞,関係,*	O	4	advmod
-3	帝	帝	n,名詞,人,役割	O	4	nsubj
-4	登	登	v,動詞,行為,移動	O	0	root
-5	祚	祚	n,名詞,制度,儀礼	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	立	立	v,動詞,行為,姿勢	O	0	root
-2	為	爲	v,動詞,存在,存在	O	4	cop
-3	皇	皇	v,動詞,描写,態度	O	4	amod
-4	后	后	n,名詞,人,役割	O	1	parataxis
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	扶	扶	v,動詞,行為,動作	O	4	parataxis
-8	桑	桑	n,名詞,固定物,樹木	O	7	obj
-9	略	略	n,名詞,可搬,伝達	O	10	nmod
-10	記	記	v,動詞,行為,動作	O	8	conj
-11	、	、	s,記号,読点,*	O	4	punct
-12	榮	榮	v,動詞,描写,形質	O	13	amod
-13	華	華	n,名詞,固定物,樹木	O	15	obj
-14	物	物	n,名詞,可搬,道具	O	15	nmod
-15	語	語	v,動詞,行為,伝達	O	4	parataxis
-16	。	。	s,記号,句点,*	O	15	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	有	有	v,動詞,存在,存在	O	0	root
-4	心	心	n,名詞,不可譲,身体	O	3	obj
-5	疾	疾	n,名詞,不可譲,疾病	O	4	conj
-6	，	，	s,記号,読点,*	O	3	punct
-
-1	后	后	n,名詞,人,役割	O	3	nsubj
-2	多	多	v,動詞,描写,量	O	3	advmod
-3	出	出	v,動詞,行為,移動	O	0	root
-4	居	居	v,動詞,行為,動作	O	3	parataxis
-5	別	別	v,動詞,行為,交流	O	6	amod
-6	宮	宮	n,名詞,固定物,建造物	O	4	obj
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	O	2	nmod
-2	物	物	n,名詞,可搬,道具	O	3	nsubj
-3	語	語	v,動詞,行為,伝達	O	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	天	天	n,名詞,制度,場	O	3	nsubj
-3	延	延	v,動詞,行為,動作	O	0	root
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	3	obj
-6	，	，	s,記号,読点,*	O	10	amod
-7	為	爲	v,動詞,存在,存在	O	10	cop
-8	皇	皇	v,動詞,描写,態度	O	10	amod
-9	太	太	v,動詞,描写,量	O	10	amod
-10	后	后	n,名詞,人,役割	O	3	obj
-11	。	。	s,記号,句点,*	O	10	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	扶	扶	v,動詞,行為,動作	O	4	parataxis
-8	桑	桑	n,名詞,固定物,樹木	O	7	obj
-9	略	略	n,名詞,可搬,伝達	O	10	nmod
-10	記	記	v,動詞,行為,動作	O	8	conj
-11	、	、	s,記号,読点,*	O	4	punct
-12	榮	榮	v,動詞,描写,形質	O	13	amod
-13	華	華	n,名詞,固定物,樹木	O	15	obj
-14	物	物	n,名詞,可搬,道具	O	15	nmod
-15	語	語	v,動詞,行為,伝達	O	4	parataxis
-16	。	。	s,記号,句点,*	O	15	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	advmod
-2	寬	寬	v,動詞,描写,形質	O	6	amod
-3	和	和	v,動詞,描写,形質	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	2	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	后	后	n,名詞,人,役割	O	2	nmod
-2	創	創	v,動詞,行為,設置	O	0	root
-3	觀	觀	v,動詞,行為,動作	O	4	amod
-4	音	音	n,名詞,可搬,伝達	O	5	nmod
-5	院	院	n,名詞,可搬,伝達	O	2	obj
-6	于	于	v,前置詞,基盤,*	O	8	case
-7	比	比	v,動詞,行為,動作	O	_	_
-8	叡	叡	n,名詞,人,名	O	9	compound
-9	山	山	n,名詞,固定物,地形	O	_	_
-10	，	，	s,記号,読点,*	O	2	punct
-
-1	自	自	n,代名詞,人称,他	O	2	nsubj
-2	往	往	v,動詞,行為,移動	O	0	root
-3	供	供	v,動詞,行為,交流	O	2	parataxis
-4	養	養	v,動詞,行為,動作	O	_	_
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	扶	扶	v,動詞,行為,動作	O	0	root
-2	桑	桑	n,名詞,固定物,樹木	O	3	nmod
-3	略	略	n,名詞,可搬,伝達	O	1	obj
-4	記	記	p,助詞,句末,*	O	_	_
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	○	○	s,記号,一般,*	O	2	nsubj
-2	比	比	v,動詞,行為,動作	O	0	root
-3	叡	叡	n,名詞,人,名	O	2	iobj
-4	山	山	n,名詞,固定物,地形	O	2	obj
-5	據	據	v,動詞,行為,姿勢	O	2	flat
-6	略	略	n,名詞,可搬,伝達	O	7	nmod
-7	記	記	p,助詞,句末,*	O	5	conj
-8	。	。	s,記号,句点,*	O	2	punct
-
-1	】	】	s,記号,括弧閉,*	O	9	nmod
-2	二	二	n,数詞,数字,*	O	4	nummod
-3	年	年	n,名詞,時,*	O	2	clf
-4	，	，	s,記号,読点,*	O	9	amod
-5	為	爲	v,動詞,存在,存在	O	7	cop
-6	太	太	v,動詞,描写,量	O	7	amod
-7	皇	皇	n,名詞,人,役割	O	9	nmod
-8	太	太	v,動詞,描写,量	O	9	amod
-9	后	后	n,名詞,人,役割	O	0	root
-10	。	。	s,記号,句点,*	O	9	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	O	2	nummod
-2	代	代	n,名詞,時,*	O	_	_
-3	要	要	v,動詞,行為,動作	O	4	advmod
-4	記	記	p,助詞,句末,*	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	長	長	v,動詞,描写,量	O	3	advmod
-3	保	保	v,動詞,行為,交流	O	0	root
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	3	obj
-
-1	十二	十二	n,数詞,数,*	O	2	nummod
-2	月	月	n,名詞,時,*	O	3	clf
-3	，	，	s,記号,読点,*	O	0	root
-
-1	崩	崩	v,動詞,変化,制度	O	0	root
-2	于	于	v,前置詞,基盤,*	O	3	case
-3	權	權	v,動詞,行為,動作	O	1	obl
-4	大	大	v,動詞,描写,量	O	5	advmod
-5	進	進	v,動詞,行為,移動	O	1	parataxis
-
-1	橘	橘	n,名詞,固定物,樹木	O	2	nmod
-2	道	道	n,名詞,制度,儀礼	O	3	nsubj
-3	貞	貞	v,動詞,描写,態度	O	0	root
-4	三	三	n,数詞,数字,*	O	5	nummod
-5	條	條	n,名詞,可搬,伝達	O	3	obj
-6	家	家	n,名詞,固定物,建造物	O	5	flat
-7	，	，	s,記号,読点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-7	】	】	s,記号,括弧閉,*	O	9	cc
-8	年	年	n,名詞,時,*	O	9	nsubj
-9	五十	五十	n,数詞,数,*	O	4	obj
-10	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	4	nmod
-2	小	小	v,動詞,描写,量	O	4	advmod
-3	右	右	n,名詞,固定物,関係	O	_	_
-4	記	記	v,動詞,行為,動作	O	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-6	扶	扶	v,動詞,行為,動作	O	4	ccomp
-7	桑	桑	n,名詞,固定物,樹木	O	6	obj
-8	略	略	n,名詞,可搬,伝達	O	9	advmod
-9	記	記	v,動詞,行為,動作	O	7	conj
-10	、	、	s,記号,読点,*	O	14	cc
-11	一	一	n,数詞,数字,*	O	12	nummod
-12	代	代	n,名詞,時,*	O	_	_
-13	要	要	v,動詞,行為,動作	O	14	advmod
-14	記	記	v,動詞,行為,動作	O	4	conj
-15	、	、	s,記号,読点,*	O	4	punct
-
-1	帝	帝	n,名詞,人,役割	O	2	nmod
-2	王	王	n,名詞,人,役割	O	5	nmod
-3	編	編	v,動詞,行為,動作	O	5	nmod
-4	年	年	n,名詞,時,*	O	_	_
-5	記	記	v,動詞,行為,動作	O	7	conj
-6	。	。	s,記号,句点,*	O	5	punct
-7	○	○	s,記号,一般,*	O	8	conj
-8	按	按	v,動詞,行為,動作	O	9	nmod
-9	日	日	n,名詞,時,*	O	_	_
-10	本	本	v,動詞,行為,動作	O	0	root
-11	紀	紀	v,動詞,行為,動作	O	12	amod
-12	略	略	n,名詞,可搬,伝達	O	10	obj
-
-1	作	作	v,動詞,行為,生産	O	6	acl
-2	五十五	五十五	n,数詞,数,*	O	1	obj
-3	，	，	s,記号,読点,*	O	4	advmod
-4	誤	誤	v,動詞,行為,態度	O	1	parataxis
-5	。	。	s,記号,句点,*	O	1	punct
-6	】	】	s,記号,括弧閉,*	O	7	nsubj
-7	稱	稱	v,動詞,行為,動作	O	0	root
-8	三	三	n,数詞,数字,*	O	9	nummod
-9	條	條	n,名詞,可搬,伝達	O	11	nmod
-10	太	太	v,動詞,描写,量	O	11	amod
-11	皇	皇	n,名詞,人,役割	O	13	nmod
-12	大	大	v,動詞,描写,量	O	13	amod
-13	后	后	n,名詞,人,役割	O	7	obj
-14	，	，	s,記号,読点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	O	2	nmod
-2	物	物	n,名詞,可搬,道具	O	3	nsubj
-3	語	語	v,動詞,行為,伝達	O	0	root
-4	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	又	又	v,副詞,頻度,重複	O	3	advmod
-3	稱	稱	v,動詞,行為,動作	O	0	root
-4	觀	觀	v,動詞,行為,動作	O	5	amod
-5	音	音	n,名詞,可搬,伝達	O	6	nmod
-6	院	院	n,名詞,可搬,伝達	O	3	iobj
-7	太	太	v,動詞,描写,量	O	8	amod
-8	后	后	n,名詞,人,役割	O	3	obj
-9	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	2	nmod
-2	中	中	n,名詞,固定物,関係	O	4	nsubj
-3	右	右	n,名詞,固定物,関係	O	_	_
-4	記	記	v,動詞,行為,動作	O	0	root
-
-1	大	大	v,動詞,描写,量	O	2	advmod
-2	治	治	v,動詞,行為,動作	O	4	nsubj
-3	二	二	n,数詞,数字,*	O	4	nummod
-4	年	年	n,名詞,時,*	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	親	親	v,動詞,行為,態度	O	3	advmod
-3	書	書	n,名詞,主体,書物	O	6	obj
-4	遺	遺	v,動詞,行為,得失	O	5	amod
-5	令	令	n,名詞,可搬,伝達	O	3	conj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	條	條	n,名詞,可搬,伝達	O	2	nmod
-2	具	具	v,副詞,範囲,共同	O	3	nsubj
-3	後	後	v,動詞,行為,移動	O	5	acl
-4	事	事	n,名詞,可搬,成果物	O	3	obj
-5	，	，	s,記号,読点,*	O	7	mark
-6	一	一	n,数詞,数字,*	O	7	advmod
-7	從	從	v,動詞,行為,動作	O	0	root
-8	儉	儉	v,動詞,行為,態度	O	7	obj
-9	薄	薄	v,動詞,描写,量	O	_	_
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	葬	葬	v,動詞,行為,儀礼	O	7	acl
-2	于	于	v,前置詞,基盤,*	O	5	case
-3	觀	觀	v,動詞,行為,動作	O	5	nmod
-4	音	音	n,名詞,可搬,伝達	O	5	nmod
-5	院	院	n,名詞,可搬,伝達	O	1	obl
-6	。	。	s,記号,句点,*	O	1	punct
-7	【	【	s,記号,括弧開,*	O	10	conj
-8	小	小	v,動詞,描写,量	O	10	advmod
-9	右	右	n,名詞,固定物,関係	O	_	_
-10	記	記	v,動詞,行為,動作	O	0	root
-11	、	、	s,記号,読点,*	O	10	punct
-
-1	日	日	n,名詞,時,*	O	_	_
-2	本	本	v,動詞,行為,動作	O	3	advmod
-3	紀	紀	v,動詞,行為,動作	O	0	root
-4	略	略	n,名詞,可搬,伝達	O	3	obj
-5	、	、	s,記号,読点,*	O	3	punct
-
-1	扶	扶	v,動詞,行為,動作	O	0	root
-2	桑	桑	n,名詞,固定物,樹木	O	3	nmod
-3	略	略	n,名詞,可搬,伝達	O	1	obj
-4	記	記	p,助詞,句末,*	O	_	_
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	nmod
-2	藤	藤	n,名詞,*,*	O	3	nmod
-3	原	原	n,名詞,固定物,関係	O	5	nmod
-4	皇	皇	n,名詞,人,役割	O	5	amod
-5	后	后	n,名詞,人,役割	O	7	flat
-6	，	，	s,記号,読点,*	O	7	advmod
-7	諱	諱	v,動詞,行為,態度	O	8	nsubj
-8	懷	懷	v,動詞,行為,態度	O	0	root
-9	子	子	n,名詞,人,関係	O	8	obj
-10	。	。	s,記号,句点,*	O	8	punct
-
-1	太	太	v,動詞,描写,量	O	2	amod
-2	政	政	n,名詞,制度,儀礼	O	5	nmod
-3	大	大	v,動詞,描写,量	O	4	amod
-4	臣	臣	n,名詞,人,役割	O	2	conj
-5	伊	伊	n,名詞,人,姓氏	O	7	nsubj
-6	尹	尹	n,名詞,人,名	O	5	flat
-7	女	女	n,名詞,人,関係	O	0	root
-8	也	也	p,助詞,句末,*	O	_	_
-9	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	O	0	root
-
-1	華	華	n,名詞,固定物,樹木	O	2	nmod
-2	物	物	n,名詞,可搬,道具	O	3	nsubj
-3	語	語	n,名詞,可搬,伝達	O	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	大	大	v,動詞,描写,量	O	2	amod
-2	鏡	鏡	n,名詞,可搬,道具	O	0	root
-3	、	、	s,記号,読点,*	O	2	punct
-
-1	皇	皇	v,動詞,描写,態度	O	4	nsubj
-2	胤	胤	n,名詞,主体,国名	O	3	nmod
-3	紹	紹	n,名詞,人,名	O	1	flat
-4	運	運	v,動詞,行為,移動	O	0	root
-5	錄	錄	v,動詞,行為,動作	O	_	_
-6	、	、	s,記号,読点,*	O	9	nmod
-7	一	一	n,数詞,数字,*	O	8	nummod
-8	代	代	n,名詞,時,*	O	_	_
-9	要	要	v,動詞,行為,動作	O	4	obj
-10	記	記	p,助詞,句末,*	O	_	_
-11	。	。	s,記号,句点,*	O	9	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	advmod
-2	安	安	v,動詞,行為,態度	O	6	amod
-3	和	和	v,動詞,描写,形質	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	2	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	入	入	v,動詞,行為,移動	O	0	root
-2	內	內	n,名詞,固定物,関係	O	1	parataxis
-3	。	。	s,記号,句点,*	O	1	punct
-4	【	【	s,記号,括弧開,*	O	1	mark
-5	榮	榮	v,動詞,描写,形質	O	6	amod
-6	華	華	n,名詞,固定物,樹木	O	7	nmod
-7	物	物	n,名詞,可搬,道具	O	1	obj
-8	語	語	v,動詞,行為,伝達	O	1	parataxis
-9	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	康	康	v,動詞,描写,態度	O	4	nsubj
-3	保	保	v,動詞,行為,交流	O	_	_
-4	四	四	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,前置詞,源泉,*	O	2	case
-2	女	女	n,名詞,人,関係	O	3	obl
-3	御	御	v,動詞,行為,交流	O	4	nsubj
-4	，	，	s,記号,読点,*	O	0	root
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	大	大	v,動詞,描写,量	O	2	amod
-2	鏡	鏡	n,名詞,可搬,道具	O	4	nmod
-3	裏	裡	n,名詞,固定物,関係	O	4	nmod
-4	書	書	n,名詞,主体,書物	O	5	flat
-5	】	】	s,記号,括弧閉,*	O	6	nsubj
-6	授	授	v,動詞,行為,得失	O	0	root
-7	從	從	v,動詞,行為,動作	O	10	case
-8	四	四	n,数詞,数字,*	O	10	nummod
-9	位	位	n,名詞,制度,場	O	8	clf
-10	下	下	n,名詞,固定物,関係	O	_	_
-11	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	O	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	O	1	nmod
-4	裏	裡	n,名詞,固定物,関係	O	5	nmod
-5	書	書	n,名詞,主体,書物	O	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	天	天	n,名詞,制度,場	O	3	nsubj
-3	延	延	v,動詞,行為,動作	O	0	root
-
-1	二	二	n,数詞,数字,*	O	2	nummod
-2	年	年	n,名詞,時,*	O	3	clf
-3	，	，	s,記号,読点,*	O	0	root
-
-1	進	進	v,動詞,行為,移動	O	2	advmod
-2	從	從	v,動詞,行為,動作	O	0	root
-3	二	二	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	11	csubj
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-7	大	大	v,動詞,描写,量	O	8	amod
-8	鏡	鏡	n,名詞,可搬,道具	O	4	obj
-9	裏	裡	n,名詞,固定物,関係	O	10	nmod
-10	書	書	n,名詞,主体,書物	O	8	conj
-11	。	。	s,記号,句点,*	O	12	conj
-12	】	】	s,記号,括弧閉,*	O	0	root
-13	三	三	n,数詞,数字,*	O	14	nummod
-14	年	年	n,名詞,時,*	O	_	_
-15	四	四	n,数詞,数字,*	O	16	nummod
-16	月	月	n,名詞,時,*	O	14	conj
-17	，	，	s,記号,読点,*	O	12	punct
-
-1	薨	薨	v,動詞,変化,生物	O	6	acl
-2	，	，	s,記号,読点,*	O	4	cc
-3	年	年	n,名詞,時,*	O	4	nsubj
-4	三十一	三十一	n,数詞,数,*	O	1	conj
-5	。	。	s,記号,句点,*	O	1	punct
-6	【	【	s,記号,括弧開,*	O	0	root
-
-1	○	○	s,記号,一般,*	O	2	amod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	作	作	v,動詞,行為,生産	O	4	parataxis
-7	三十	三十	n,数詞,数,*	O	6	obj
-8	。	。	s,記号,句点,*	O	4	punct
-
-1	今	今	n,名詞,時,*	O	_	_
-2	從	從	v,動詞,行為,動作	O	6	acl
-3	大	大	v,動詞,描写,量	O	4	amod
-4	鏡	鏡	n,名詞,可搬,道具	O	2	obj
-5	裏	裡	n,名詞,固定物,関係	O	6	nmod
-6	書	書	n,名詞,主体,書物	O	0	root
-7	、	、	s,記号,読点,*	O	6	punct
-
-1	歷	歷	v,動詞,行為,役割	O	0	root
-2	代	代	n,名詞,固定物,地名	O	3	nmod
-3	皇	皇	n,名詞,人,役割	O	1	obj
-4	記	記	p,助詞,句末,*	O	1	conj
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	生	生	v,動詞,変化,生物	O	0	root
-3	華山	華山	n,名詞,固定物,地名	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	2	obj
-5	、	、	s,記号,読点,*	O	2	punct
-
-1	宗	宗	n,名詞,人,関係	O	2	nmod
-2	子	子	n,名詞,人,関係	O	3	nsubj
-3	內	內	n,名詞,固定物,関係	O	0	root
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	3	obj
-6	、	、	s,記号,読点,*	O	3	punct
-
-1	尊	尊	v,動詞,行為,態度	O	0	root
-2	子	子	n,名詞,人,関係	O	1	obj
-3	內	內	n,名詞,固定物,関係	O	5	nmod
-4	親	親	v,動詞,行為,態度	O	5	amod
-5	王	王	n,名詞,人,役割	O	1	conj
-6	。	。	s,記号,句点,*	O	1	punct
-7	【	【	s,記号,括弧開,*	O	8	cc
-8	榮	榮	v,動詞,描写,形質	O	1	conj
-
-1	華	華	n,名詞,固定物,樹木	O	2	nmod
-2	物	物	n,名詞,可搬,道具	O	3	nsubj
-3	語	語	n,名詞,可搬,伝達	O	0	root
-4	、	、	s,記号,読点,*	O	3	punct
-
-1	皇	皇	v,動詞,描写,態度	O	4	nsubj
-2	胤	胤	n,名詞,主体,国名	O	3	nmod
-3	紹	紹	n,名詞,人,名	O	1	flat
-4	運	運	v,動詞,行為,移動	O	0	root
-5	錄	錄	v,動詞,行為,動作	O	4	parataxis
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	4	advmod
-2	華山	華山	n,名詞,固定物,地名	O	3	nmod
-3	帝	帝	n,名詞,人,役割	O	4	nsubj
-4	立	立	v,動詞,行為,姿勢	O	0	root
-
-1	，	，	s,記号,読点,*	O	4	advmod
-2	追	追	v,動詞,行為,移動	O	4	advmod
-3	尊	尊	v,動詞,行為,態度	O	_	_
-4	曰	曰	v,動詞,行為,伝達	O	0	root
-5	皇	皇	v,動詞,描写,態度	O	7	amod
-6	太	太	v,動詞,描写,量	O	7	amod
-7	后	后	n,名詞,人,役割	O	4	obj
-8	，	，	s,記号,読点,*	O	4	punct
-
-1	國	國	n,名詞,主体,集団	O	2	nsubj
-2	忌	忌	v,動詞,行為,態度	O	0	root
-3	山	山	n,名詞,固定物,地形	O	2	obj
-4	陵	陵	n,名詞,固定物,地形	O	3	flat
-5	，	，	s,記号,読点,*	O	2	punct
-
-1	一	一	n,数詞,数字,*	O	2	advmod
-2	遵	遵	v,動詞,行為,動作	O	0	root
-3	舊	舊	v,動詞,描写,形質	O	4	amod
-4	典	典	n,名詞,制度,儀礼	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	、	、	s,記号,読点,*	O	9	nmod
-7	中	中	n,名詞,固定物,関係	O	_	_
-8	右	右	n,名詞,固定物,関係	O	_	_
-9	記	記	v,動詞,行為,動作	O	4	conj
-
-1	嘉	嘉	n,名詞,人,名	O	2	advmod
-2	承	承	v,動詞,行為,伝達	O	6	acl
-3	二	二	n,数詞,数字,*	O	4	nummod
-4	年	年	n,名詞,時,*	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-6	】	】	s,記号,括弧閉,*	O	9	nsubj
-7	初	初	n,名詞,時,*	O	_	_
-8	后	后	n,名詞,時,*	O	_	_
-9	薨	薨	v,動詞,変化,生物	O	0	root
-10	，	，	s,記号,読点,*	O	_	_
-
-1	華山	華山	n,名詞,固定物,地名	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	尚	尙	v,動詞,行為,態度	O	0	root
-4	幼	幼	n,名詞,人,関係	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	后	后	n,名詞,人,役割	O	2	nmod
-2	母	母	n,名詞,人,関係	O	8	nmod
-3	惠	惠	n,名詞,人,その他の人名	O	4	nmod
-4	子	子	n,名詞,人,関係	O	2	conj
-5	女	女	n,名詞,人,関係	O	4	flat
-6	王	王	n,名詞,人,役割	O	2	conj
-7	鞠	鞠	n,名詞,可搬,道具	O	6	flat
-8	育	育	v,動詞,変化,生物	O	0	root
-9	甚	甚	v,動詞,描写,形質	O	10	advmod
-10	至	至	v,動詞,行為,移動	O	8	parataxis
-11	。	。	s,記号,句点,*	O	8	punct
-
-1	及	及	v,動詞,行為,移動	O	2	advmod
-2	即	即	v,動詞,行為,動作	O	5	acl
-3	位	位	n,名詞,制度,場	O	2	obj
-4	，	，	s,記号,読点,*	O	5	nmod
-5	敕	敕	n,名詞,可搬,伝達	O	6	nsubj
-6	曰	曰	v,動詞,行為,伝達	O	0	root
-7	：	：	s,記号,一般,*	O	6	obj
-
-1	「	「	s,記号,括弧開,*	O	4	advmod
-2	漢	漢	n,名詞,主体,国名	O	3	nmod
-3	武	武	n,名詞,制度,儀礼	O	4	nsubj
-4	即	即	v,動詞,行為,動作	O	0	root
-5	位	位	n,名詞,制度,場	O	4	obj
-6	，	，	s,記号,読点,*	O	4	punct
-
-1	臧	臧	v,動詞,描写,態度	O	2	nmod
-2	兒	兒	n,名詞,人,人	O	3	nsubj
-3	遇	遇	v,動詞,行為,交流	O	0	root
-4	封	封	v,動詞,行為,役割	O	3	obj
-5	，	，	s,記号,読点,*	O	3	punct
-
-1	眇	眇	v,動詞,描写,量	O	2	amod
-2	代	代	n,名詞,時,*	O	5	nmod
-3	之	之	p,助詞,接続,属格	O	2	case
-4	恒	恆	v,動詞,描写,形質	O	5	amod
-5	規	規	n,名詞,可搬,道具	O	6	conj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	前	前	n,名詞,固定物,関係	O	2	nmod
-2	史	史	n,名詞,人,役割	O	4	nmod
-3	之	之	p,助詞,接続,属格	O	2	case
-4	令	令	n,名詞,可搬,伝達	O	5	nsubj
-5	典	典	n,名詞,制度,儀礼	O	0	root
-6	也	也	p,助詞,句末,*	O	_	_
-7	。	。	s,記号,句点,*	O	5	punct
-
-1	朕	朕	n,代名詞,人称,他	O	4	det
-2	外	外	n,名詞,固定物,関係	O	3	nmod
-3	祖	祖	n,名詞,人,関係	O	4	nmod
-4	母	母	n,名詞,人,関係	O	5	nmod
-5	王	王	n,名詞,人,姓氏	O	10	nsubj
-6	氏	氏	n,名詞,不可譲,属性	O	5	flat
-7	，	，	s,記号,読点,*	O	10	advmod
-8	禮	禮	n,名詞,制度,儀礼	O	10	nsubj
-9	法	法	n,名詞,制度,儀礼	O	8	conj
-10	在	在	v,動詞,存在,存在	O	0	root
-11	心	心	n,名詞,不可譲,身体	O	10	obj
-12	，	，	s,記号,読点,*	O	10	punct
-
-1	閨	閨	n,名詞,固定物,建造物	O	3	nsubj
-2	闈	闈	n,名詞,固定物,建造物	O	1	conj
-3	垂	垂	v,動詞,行為,動作	O	0	root
-4	範	範	v,動詞,行為,動作	O	3	parataxis
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	朕	朕	n,代名詞,人称,他	O	2	nsubj
-2	當	當	v,動詞,行為,動作	O	0	root
-3	幼	幼	v,動詞,描写,形質	O	4	amod
-4	日	日	n,名詞,時,*	O	2	obj
-5	，	，	s,記号,読点,*	O	2	punct
-
-1	早	早	v,動詞,描写,形質	O	2	nmod
-2	喪	喪	n,名詞,制度,儀礼	O	4	nsubj
-3	先	先	n,名詞,固定物,関係	O	4	nmod
-4	妣	妣	n,名詞,人,関係	O	5	obj
-5	，	，	s,記号,読点,*	O	0	root
-
-1	祖	祖	n,名詞,人,関係	O	2	nmod
-2	母	母	n,名詞,人,関係	O	3	nsubj
-3	視	視	v,動詞,行為,動作	O	6	csubj
-4	朕	朕	n,代名詞,人称,他	O	3	obj
-5	亦	亦	v,副詞,頻度,重複	O	6	advmod
-6	猶	猶	v,動詞,行為,分類	O	0	root
-7	子	子	n,名詞,人,関係	O	6	obj
-8	，	，	s,記号,読点,*	O	6	punct
-
-1	朕	朕	n,代名詞,人称,他	O	2	nsubj
-2	報	報	v,動詞,行為,交流	O	6	csubj
-3	祖	祖	n,名詞,人,関係	O	4	nmod
-4	母	母	n,名詞,人,関係	O	2	obj
-5	未	未	v,副詞,否定,有界	O	6	advmod
-6	如	如	v,動詞,行為,分類	O	0	root
-7	親	親	v,動詞,行為,態度	O	6	obj
-8	。	。	s,記号,句点,*	O	6	punct
-
-1	其	其	n,代名詞,人称,起格	O	2	nsubj
-2	授	授	v,動詞,行為,得失	O	0	root
-3	邑	邑	n,名詞,固定物,地形	O	4	nmod
-4	土	土	n,名詞,固定物,地形	O	6	nmod
-5	三百	三百	n,数詞,数,*	O	6	nummod
-6	戶	戶	n,名詞,固定物,建造物	O	2	conj
-7	，	，	s,記号,読点,*	O	2	punct
-
-1	并	并	v,動詞,行為,動作	O	0	root
-2	年	年	n,名詞,時,*	O	3	nmod
-3	爵	爵	n,名詞,制度,儀礼	O	1	obj
-
-1	內	內	n,名詞,固定物,関係	O	3	nmod
-2	外	外	n,名詞,固定物,関係	O	1	conj
-3	官	官	n,名詞,人,役割	O	5	nsubj
-4	三	三	n,数詞,数字,*	O	5	advmod
-5	分	分	v,動詞,行為,設置	O	7	conj
-6	等	等	n,名詞,数量,*	O	5	conj
-7	，	，	s,記号,読点,*	O	8	advmod
-8	聊	聊	v,副詞,程度,軽度	O	0	root
-9	為	爲	v,動詞,存在,存在	O	10	case
-10	湯	湯	n,名詞,人,名	O	12	obl
-11	沐	沐	v,動詞,行為,動作	O	_	_
-12	之	之	n,代名詞,人称,止格	O	8	iobj
-13	資	資	v,動詞,行為,動作	O	8	obj
-14	，	，	s,記号,読点,*	O	8	punct
-
-1	兼	兼	v,動詞,行為,動作	O	4	advmod
-2	與	與	v,前置詞,関係,*	O	3	cc
-3	役	役	n,名詞,制度,儀礼	O	1	conj
-4	從	從	v,動詞,行為,動作	O	8	acl
-5	之	之	n,代名詞,人称,止格	O	4	iobj
-6	輩	輩	n,代名詞,人称,起格	O	4	obj
-7	。	。	s,記号,句点,*	O	4	punct
-8	」	」	s,記号,括弧閉,*	O	9	conj
-9	【	【	s,記号,括弧開,*	O	10	nsubj
-10	本	本	v,動詞,行為,動作	O	0	root
-11	朝	朝	n,名詞,制度,場	O	10	obj
-12	文	文	n,名詞,可搬,伝達	O	10	conj
-13	粹	粹	v,動詞,描写,形質	O	_	_
-14	。	。	s,記号,句点,*	O	10	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	nmod
-2	藤	藤	n,名詞,*,*	O	3	nmod
-3	原	原	n,名詞,固定物,関係	O	5	nmod
-4	皇	皇	n,名詞,人,役割	O	5	amod
-5	后	后	n,名詞,人,役割	O	6	nmod
-6	，	，	s,記号,読点,*	O	0	root
-
-1	諱	諱	v,動詞,行為,態度	PER	0	root
-2	超	超	v,動詞,行為,移動	PER	3	nmod
-3	子	子	n,名詞,人,関係	PER	1	obj
-4	。	。	s,記号,句点,*	O	1	punct
-
-1	關	關	n,名詞,固定物,建造物	O	3	nsubj
-2	白	白	n,名詞,描写,形質	O	1	conj
-3	兼	兼	v,動詞,行為,動作	O	0	root
-4	家	家	n,名詞,主体,集団	O	5	nmod
-5	女	女	n,名詞,人,人	O	3	obj
-6	也	也	p,助詞,句末,*	O	_	_
-7	。	。	s,記号,句点,*	O	3	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	obj
-4	、	、	s,記号,読点,*	O	1	punct
-
-1	榮	榮	v,動詞,描写,形質	OTH	2	amod
-2	華	華	n,名詞,固定物,樹木	OTH	4	nsubj
-3	物	物	n,名詞,可搬,道具	OTH	4	nmod
-4	語	語	n,名詞,可搬,伝達	OTH	0	root
-5	、	、	s,記号,読点,*	O	4	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	9	nmod
-7	一	一	n,数詞,数字,*	OTH	8	nummod
-8	代	代	n,名詞,時,*	OTH	_	_
-9	要	要	v,動詞,行為,動作	OTH	4	obj
-10	記	記	p,助詞,句末,*	OTH	_	_
-11	。	。	s,記号,句点,*	O	9	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	安	安	v,動詞,行為,態度	O	5	acl
-3	和	和	v,動詞,描写,形質	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	_	_
-6	，	，	s,記号,読点,*	O	7	advmod
-7	入	入	v,動詞,行為,移動	O	9	acl
-8	內	內	n,名詞,固定物,関係	O	9	nmod
-9	，	，	s,記号,読点,*	O	13	nsubj
-10	為	爲	v,動詞,存在,存在	O	13	cop
-11	御	御	v,動詞,行為,交流	O	13	amod
-12	匣	匣	n,名詞,可搬,道具	O	13	nmod
-13	殿	殿	n,名詞,固定物,関係	O	0	root
-14	。	。	s,記号,句点,*	O	13	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	○	○	s,記号,一般,*	O	0	root
-
-1	按	按	v,動詞,行為,動作	O	0	root
-2	榮	榮	v,動詞,描写,形質	OTH	3	amod
-3	華	華	n,名詞,固定物,樹木	OTH	1	obj
-4	物	物	n,名詞,可搬,道具	OTH	5	nmod
-5	語	語	n,名詞,可搬,伝達	OTH	3	conj
-6	，	，	s,記号,読点,*	O	1	punct
-
-1	以	以	v,動詞,行為,動作	O	2	advmod
-2	入	入	v,動詞,行為,移動	O	9	acl
-3	內	內	n,名詞,固定物,関係	O	2	obj
-4	為	爲	v,動詞,存在,存在	O	5	case
-5	帝	帝	n,名詞,人,役割	O	6	obl
-6	讓	讓	v,動詞,行為,動作	O	8	acl
-7	位	位	n,名詞,制度,場	O	6	obj
-8	後	後	n,名詞,固定物,関係	O	9	nmod
-9	事	事	n,名詞,可搬,成果物	O	10	obj
-10	，	，	s,記号,読点,*	O	11	advmod
-11	誤	誤	v,動詞,行為,態度	O	0	root
-12	矣	矣	p,助詞,句末,*	O	_	_
-13	。	。	s,記号,句点,*	O	11	punct
-
-1	】	】	s,記号,括弧閉,*	O	7	advmod
-2	與	與	v,前置詞,関係,*	O	3	case
-3	姑	姑	n,名詞,人,関係	O	7	obl
-4	怤	怤	n,名詞,*,*	O	5	nmod
-5	子	子	n,名詞,人,関係	O	3	conj
-6	同	同	v,動詞,描写,形質	O	7	advmod
-7	為	爲	v,動詞,存在,存在	O	0	root
-8	女	女	n,名詞,人,関係	O	9	nsubj
-9	御	御	v,動詞,行為,交流	O	7	ccomp
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	授	授	v,動詞,行為,得失	O	0	root
-3	從	從	v,動詞,行為,動作	O	2	iobj
-4	四	四	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	3	obj
-6	下	下	n,名詞,固定物,関係	O	2	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	nmod
-4	裏	裡	n,名詞,固定物,関係	OTH	5	nmod
-5	書	書	n,名詞,主体,書物	OTH	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	○	○	s,記号,一般,*	O	2	amod
-2	日	日	n,名詞,時,*	O	_	_
-3	本	本	v,動詞,行為,動作	O	4	advmod
-4	紀	紀	v,動詞,行為,動作	O	0	root
-5	略	略	n,名詞,可搬,伝達	O	4	obj
-6	作	作	v,動詞,行為,生産	O	4	parataxis
-7	從	從	v,前置詞,経由,*	O	8	case
-8	四	四	n,数詞,数字,*	O	9	nummod
-9	位	位	n,名詞,制度,場	O	6	obj
-10	上	上	n,名詞,固定物,関係	O	6	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	nsubj
-2	時	時	n,名詞,時,*	O	_	_
-3	兼	兼	v,動詞,行為,動作	O	0	root
-
-1	家	家	n,名詞,固定物,建造物	O	2	nsubj
-2	藏	藏	n,名詞,固定物,建造物	O	5	nmod
-3	人	人	n,名詞,人,人	O	4	nmod
-4	頭	頭	n,名詞,不可譲,身体	O	2	obj
-5	，	，	s,記号,読点,*	O	0	root
-
-1	父	父	n,名詞,人,関係	O	4	nsubj
-2	未	未	v,副詞,否定,有界	O	4	advmod
-3	為	爲	v,動詞,存在,存在	O	4	cop
-4	公	公	n,名詞,人,役割	O	0	root
-5	卿	卿	n,名詞,人,役割	O	4	conj
-6	，	，	s,記号,読点,*	O	11	advmod
-7	而	而	p,助詞,接続,並列	O	11	advmod
-8	女	女	n,名詞,人,人	O	11	nsubj
-9	為	爲	v,動詞,存在,存在	O	10	case
-10	女	女	n,名詞,人,関係	O	11	obl
-11	御	御	v,動詞,行為,交流	O	4	conj
-12	，	，	s,記号,読点,*	O	4	punct
-
-1	自	自	v,前置詞,経由,*	O	2	case
-2	此	此	n,代名詞,指示,*	O	3	obl
-3	始	始	v,動詞,行為,動作	O	12	advmod
-4	。	。	s,記号,句点,*	O	3	punct
-5	【	【	s,記号,括弧開,*	O	9	cc
-6	一	一	n,数詞,数字,*	OTH	7	nummod
-7	代	代	n,名詞,時,*	OTH	_	_
-8	要	要	v,動詞,行為,動作	OTH	9	advmod
-9	記	記	p,助詞,句末,*	OTH	3	conj
-10	。	。	s,記号,句点,*	O	3	punct
-11	】	】	s,記号,括弧閉,*	O	_	_
-12	生	生	v,動詞,変化,生物	O	0	root
-13	三	三	n,数詞,数字,*	O	15	nummod
-14	條	條	n,名詞,可搬,伝達	O	15	nmod
-15	帝	帝	n,名詞,人,役割	O	12	obj
-16	、	、	s,記号,読点,*	O	12	punct
-
-1	為	爲	v,動詞,存在,存在	O	2	cop
-2	尊	尊	v,動詞,行為,態度	O	0	root
-3	親	親	v,動詞,行為,態度	O	2	parataxis
-4	王	王	n,名詞,人,役割	O	3	obj
-5	、	、	s,記号,読点,*	O	2	punct
-
-1	敦	敦	n,名詞,人,名	O	2	nmod
-2	道	道	v,動詞,行為,伝達	O	0	root
-3	親	親	v,動詞,行為,態度	O	4	amod
-4	王	王	n,名詞,人,役割	O	2	conj
-5	、	、	s,記号,読点,*	O	2	punct
-6	光	光	n,名詞,人,名	O	7	nmod
-7	子	子	n,名詞,人,関係	O	2	nmod
-8	內	內	n,名詞,固定物,関係	O	10	nmod
-9	親	親	v,動詞,行為,態度	O	10	amod
-10	王	王	n,名詞,人,役割	O	7	conj
-11	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	皇	皇	v,動詞,描写,態度	OTH	4	nsubj
-2	胤	胤	n,名詞,主体,国名	OTH	3	nmod
-3	紹	紹	n,名詞,人,名	OTH	1	flat
-4	運	運	v,動詞,行為,移動	OTH	0	root
-5	錄	錄	v,動詞,行為,動作	OTH	_	_
-6	、	、	s,記号,読点,*	O	10	nmod
-7	皇	皇	v,動詞,描写,態度	OTH	10	nsubj
-8	胤	胤	n,名詞,主体,国名	OTH	10	nmod
-9	系	系	n,名詞,*,*	OTH	10	nmod
-10	圖	圖	n,名詞,可搬,伝達	OTH	4	obj
-11	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	12	advmod
-2	天	天	n,名詞,制度,場	O	3	nmod
-3	元	元	n,名詞,描写,形質	O	6	nsubj
-4	五	五	n,数詞,数字,*	O	6	nummod
-5	年	年	n,名詞,時,*	O	4	clf
-6	正	正	n,名詞,時,*	O	10	nmod
-7	月	月	n,名詞,時,*	O	6	obj
-8	，	，	s,記号,読点,*	O	10	nmod
-9	諸	諸	n,名詞,数量,*	O	10	nmod
-10	兄	兄	n,名詞,人,関係	O	12	nsubj
-11	弟	弟	n,名詞,人,関係	O	10	flat
-12	來	來	v,動詞,行為,移動	O	0	root
-13	會	會	v,動詞,行為,交流	O	_	_
-14	守	守	v,動詞,行為,動作	O	12	conj
-15	庚申	庚申	n,数詞,干支,*	O	14	conj
-16	，	，	s,記号,読点,*	O	18	cc
-17	女	女	n,名詞,人,人	O	18	nsubj
-18	御	御	v,動詞,行為,交流	O	12	conj
-
-1	憑	憑	v,動詞,描写,量	O	0	root
-2	几	几	n,名詞,可搬,道具	O	1	obj
-3	而	而	p,助詞,接続,並列	O	4	cc
-4	睡	睡	v,動詞,行為,動作	O	1	conj
-5	，	，	s,記号,読点,*	O	1	punct
-
-1	達	達	v,動詞,行為,動作	O	4	csubj
-2	旦	旦	n,名詞,天象,気象	O	1	obj
-3	不	不	v,副詞,否定,無界	O	4	advmod
-4	寤	寤	v,動詞,行為,動作	O	7	advmod
-5	，	，	s,記号,読点,*	O	7	advmod
-6	就	就	v,動詞,行為,移動	O	7	advmod
-7	見	見	v,動詞,行為,動作	O	9	advcl
-8	則	則	v,副詞,時相,緊接	O	9	advmod
-9	逝	逝	v,動詞,変化,生物	O	0	root
-10	。	。	s,記号,句点,*	O	9	punct
-
-1	【	【	s,記号,括弧開,*	O	2	advmod
-2	榮	榮	v,動詞,描写,形質	OTHpart	0	root
-3	華	華	n,名詞,固定物,樹木	OTHpart	4	nmod
-4	物	物	n,名詞,可搬,道具	OTHpart	2	obj
-
-1	語	語	v,動詞,行為,伝達	OTHpart	0	root
-2	。	。	s,記号,句点,*	O	1	punct
-3	】	】	s,記号,括弧閉,*	O	1	case
-4	自	自	v,前置詞,経由,*	O	5	case
-5	此	此	n,代名詞,指示,*	O	1	obl
-6	，	，	s,記号,読点,*	O	1	obj
-
-1	其	其	n,代名詞,人称,起格	O	2	det
-2	族	族	n,名詞,人,関係	O	4	nsubj
-3	不	不	v,副詞,否定,無界	O	4	advmod
-4	令	令	v,動詞,行為,使役	O	0	root
-5	女子	女子	n,名詞,人,関係	O	4	obj
-6	守	守	v,動詞,行為,動作	O	4	xcomp
-7	庚申	庚申	n,数詞,干支,*	O	6	obj
-8	。	。	s,記号,句点,*	O	4	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	古	古	n,名詞,時,*	OTH	3	nmod
-3	事	事	n,名詞,可搬,成果物	OTH	4	obl
-4	談	談	v,動詞,行為,伝達	OTH	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	5	advmod
-2	三	三	n,数詞,数字,*	O	3	nummod
-3	條	條	n,名詞,可搬,伝達	O	4	nmod
-4	帝	帝	n,名詞,人,役割	O	5	nsubj
-5	即	即	v,動詞,行為,動作	O	0	root
-6	位	位	n,名詞,制度,場	O	5	obj
-7	，	，	s,記号,読点,*	O	5	punct
-
-1	追	追	v,動詞,行為,移動	O	6	advmod
-2	尊	尊	v,動詞,行為,態度	O	_	_
-3	為	爲	v,動詞,存在,存在	O	6	cop
-4	皇	皇	v,動詞,描写,態度	OTH	6	amod
-5	太	太	v,動詞,描写,量	OTH	6	amod
-6	后	后	n,名詞,人,役割	OTH	7	conj
-7	，	，	s,記号,読点,*	O	8	nmod
-8	【	【	s,記号,括弧開,*	O	10	advmod
-9	日	日	n,名詞,時,*	OTH	_	_
-10	本	本	v,動詞,行為,動作	OTH	0	root
-11	紀	紀	v,動詞,行為,動作	OTH	12	amod
-12	略	略	n,名詞,可搬,伝達	OTH	10	obj
-13	、	、	s,記号,読点,*	O	10	punct
-
-1	中	中	n,名詞,固定物,関係	OTH	_	_
-2	右	右	n,名詞,固定物,関係	OTH	_	_
-3	記	記	v,動詞,行為,動作	OTH	0	root
-4	嘉	嘉	n,名詞,人,名	O	5	nmod
-5	承	承	v,動詞,行為,伝達	O	3	parataxis
-6	二	二	n,数詞,数字,*	O	7	nummod
-7	年	年	n,名詞,時,*	O	5	obj
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	詔	詔	v,動詞,行為,伝達	O	0	root
-3	曰	曰	v,動詞,行為,伝達	O	2	parataxis
-4	：	：	s,記号,一般,*	O	3	obj
-
-1	「	「	s,記号,括弧開,*	O	4	advmod
-2	至	至	n,名詞,描写,形質	O	3	nmod
-3	德	德	n,名詞,描写,態度	O	4	nsubj
-4	要	要	v,動詞,行為,動作	O	0	root
-
-1	道	道	n,名詞,制度,儀礼	O	3	nsubj
-2	之	之	p,助詞,接続,属格	O	1	case
-3	訓	訓	v,動詞,行為,交流	O	4	ccomp
-4	，	，	s,記号,読点,*	O	0	root
-
-1	孝	孝	v,動詞,行為,態度	O	2	advmod
-2	行	行	v,動詞,行為,動作	O	0	root
-3	長	長	n,名詞,人,関係	O	4	nsubj
-4	存	存	v,動詞,存在,存在	O	2	parataxis
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	三	三	n,数詞,数字,*	O	2	advmod
-2	傳	傳	v,動詞,行為,伝達	O	6	acl
-3	一	一	n,数詞,数字,*	O	4	nummod
-4	旨	旨	v,動詞,描写,形質	O	2	obj
-5	之	之	p,助詞,接続,属格	O	2	mark
-6	文	文	n,名詞,可搬,伝達	O	7	obj
-7	，	，	s,記号,読点,*	O	0	root
-
-1	母	母	n,名詞,人,関係	O	4	nsubj
-2	儀	儀	n,名詞,人,関係	O	1	flat
-3	是	是	n,代名詞,指示,*	O	4	expl
-4	貴	貴	v,動詞,描写,態度	O	0	root
-5	。	。	s,記号,句点,*	O	4	punct
-
-1	誠	誠	v,動詞,描写,態度	O	2	advmod
-2	知	知	v,動詞,行為,動作	O	0	root
-3	，	，	s,記号,読点,*	O	2	punct
-
-1	仁	仁	n,名詞,描写,態度	O	4	nmod
-2	義	義	n,名詞,描写,態度	O	1	conj
-3	之	之	p,助詞,接続,属格	O	1	case
-4	基	基	n,名詞,固定物,建造物	O	7	nsubj
-5	，	，	s,記号,読点,*	O	7	advmod
-6	莫	莫	v,副詞,否定,禁止	O	7	advmod
-7	大	大	v,動詞,描写,量	O	0	root
-8	於	於	v,前置詞,基盤,*	O	9	case
-9	孝	孝	n,名詞,描写,態度	O	7	obl
-10	。	。	s,記号,句点,*	O	7	punct
-
-1	嗚	嗚	p,感嘆詞,*,*	O	3	discourse
-2	呼	呼	p,感嘆詞,*,*	O	3	discourse
-3	哀	哀	v,動詞,描写,態度	O	0	root
-4	哉	哉	p,助詞,句末,*	O	_	_
-5	！	！	s,記号,一般,*	O	9	nmod
-6	朕	朕	n,代名詞,人称,他	O	5	conj
-7	之	之	p,助詞,接続,属格	O	5	case
-8	先	先	n,名詞,固定物,関係	O	9	nmod
-9	妣	妣	n,名詞,人,関係	O	3	conj
-10	，	，	s,記号,読点,*	O	3	punct
-
-1	當	當	v,動詞,行為,動作	O	14	acl
-2	少	少	v,動詞,描写,量	O	3	amod
-3	日	日	n,名詞,時,*	O	1	obj
-4	而	而	p,助詞,接続,並列	O	5	cc
-5	乖	乖	v,動詞,行為,交流	O	1	conj
-6	恩	恩	n,名詞,可搬,成果物	O	5	obj
-7	愛	愛	n,名詞,行為,*	O	6	conj
-8	。	。	s,記号,句点,*	O	1	punct
-9	耳	耳	n,名詞,不可譲,身体	O	14	nmod
-10	悲	悲	v,動詞,行為,態度	O	9	conj
-11	故	故	v,副詞,判断,確定	O	9	conj
-12	老	老	v,動詞,変化,生物	O	9	conj
-13	之	之	p,助詞,接続,属格	O	9	case
-14	言	言	n,名詞,可搬,伝達	O	15	obj
-15	，	，	s,記号,読点,*	O	0	root
-
-1	臨	臨	v,動詞,行為,動作	O	9	acl
-2	長	長	v,動詞,描写,量	O	3	amod
-3	年	年	n,名詞,時,*	O	1	obj
-4	而	而	p,助詞,接続,並列	O	5	cc
-5	知	知	v,動詞,行為,動作	O	1	conj
-6	哀	哀	v,動詞,描写,態度	O	5	obj
-7	傷	傷	v,動詞,行為,動作	O	_	_
-8	，	，	s,記号,読点,*	O	9	nmod
-9	心	心	n,名詞,不可譲,身体	O	10	nsubj
-10	切	切	v,動詞,行為,動作	O	14	advcl
-11	疇	疇	n,名詞,固定物,地形	O	10	obj
-12	昔	昔	n,名詞,時,*	O	_	_
-13	之	之	p,助詞,接続,属格	O	12	case
-14	思	思	v,動詞,行為,動作	O	0	root
-15	。	。	s,記号,句点,*	O	14	punct
-
-1	歲	歲	n,名詞,時,*	O	_	_
-2	月	月	n,名詞,時,*	O	1	conj
-3	雖	雖	v,副詞,判断,逆接	O	6	advmod
-4	舊	舊	v,動詞,描写,形質	O	6	advmod
-5	，	，	s,記号,読点,*	O	6	advmod
-6	戀	戀	v,動詞,行為,態度	O	0	root
-7	慕	慕	v,動詞,行為,態度	O	_	_
-8	如	如	v,動詞,行為,分類	O	6	parataxis
-9	新	新	v,動詞,描写,形質	O	8	obj
-10	。	。	s,記号,句点,*	O	6	punct
-
-1	嘗	嘗	v,副詞,時相,過去	O	2	advmod
-2	無	無	v,動詞,存在,存在	O	0	root
-3	助	助	v,動詞,行為,交流	O	2	iobj
-4	天	天	n,名詞,制度,場	LOC	5	compound
-5	下	下	n,名詞,固定物,関係	LOC	2	obj
-6	於	於	v,前置詞,基盤,*	O	7	case
-7	內	內	n,名詞,固定物,関係	O	_	_
-8	詔	詔	v,動詞,行為,伝達	O	10	acl
-9	之	之	n,代名詞,人称,止格	O	8	mark
-10	日	日	n,名詞,時,*	O	2	obj
-
-1	‧	‧	n,記号,一般,*	O	3	advmod
-2	今	今	n,名詞,時,*	O	_	_
-3	變	變	v,動詞,変化,性質	O	0	root
-4	墳	墳	n,名詞,固定物,地形	O	3	obj
-5	松	松	n,名詞,固定物,樹木	O	4	flat
-6	於	於	v,前置詞,基盤,*	O	10	case
-7	椒	椒	n,名詞,可搬,糧食	O	8	nmod
-8	房	房	n,名詞,固定物,建造物	O	10	nmod
-9	之	之	p,助詞,接続,属格	O	8	case
-10	風	風	n,名詞,描写,態度	O	3	obl
-11	。	。	s,記号,句点,*	O	3	punct
-
-1	其	其	n,代名詞,人称,起格	O	2	nsubj
-2	以	以	v,動詞,行為,動作	O	11	acl
-3	所	所	p,助詞,接続,体言化	O	4	case
-4	生	生	v,動詞,変化,生物	O	5	acl
-5	藤	藤	n,名詞,*,*	O	2	obj
-6	原	原	n,名詞,人,姓氏	O	5	conj
-7	氏	氏	n,名詞,不可譲,属性	O	6	flat
-8	為	爲	v,動詞,存在,存在	O	11	cop
-9	皇	皇	v,動詞,描写,態度	PER	11	amod
-10	太	太	v,動詞,描写,量	PER	11	amod
-11	后	后	n,名詞,人,役割	PER	0	root
-12	。	。	s,記号,句点,*	O	11	punct
-
-1	國	國	n,名詞,主体,集団	O	2	nsubj
-2	忌	忌	v,動詞,行為,態度	O	0	root
-3	、	、	s,記号,読点,*	O	2	punct
-
-1	山	山	n,名詞,固定物,地形	O	3	obj
-2	陵	陵	n,名詞,固定物,地形	O	1	flat
-3	，	，	s,記号,読点,*	O	0	root
-
-1	一	一	n,数詞,数字,*	O	2	nsubj
-2	如	如	v,動詞,行為,分類	O	0	root
-3	舊	舊	v,動詞,描写,形質	O	4	amod
-4	典	典	n,名詞,制度,儀礼	O	2	obj
-5	。	。	s,記号,句点,*	O	2	punct
-
-1	」	」	s,記号,括弧閉,*	O	5	advmod
-2	【	【	s,記号,括弧開,*	O	5	advmod
-3	小	小	v,動詞,描写,量	OTH	5	advmod
-4	右	右	n,名詞,固定物,関係	OTH	_	_
-5	記	記	v,動詞,行為,動作	OTH	0	root
-6	。	。	s,記号,句点,*	O	5	punct
-
-1	】	】	s,記号,括弧閉,*	O	3	advmod
-2	女	女	n,名詞,人,人	O	3	nsubj
-3	御	御	v,動詞,行為,交流	O	0	root
-4	藤	藤	n,名詞,*,*	PER	5	nmod
-5	原	原	n,名詞,固定物,関係	PER	7	nmod
-6	怤	怤	n,名詞,*,*	PER	7	nmod
-7	子	子	n,名詞,人,関係	PER	3	obj
-8	，	，	s,記号,読点,*	O	3	punct
-
-1	右	右	n,名詞,固定物,関係	O	3	nmod
-2	大	大	v,動詞,描写,量	O	3	amod
-3	臣	臣	n,名詞,人,役割	O	4	nmod
-4	師	師	n,名詞,人,役割	O	5	nsubj
-5	輔	輔	v,動詞,行為,交流	O	0	root
-6	女	女	n,名詞,人,人	O	5	obj
-7	也	也	p,助詞,句末,*	O	_	_
-8	。	。	s,記号,句点,*	O	5	punct
-
-1	【	【	s,記号,括弧開,*	O	8	advmod
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	_	_
-4	、	、	s,記号,読点,*	O	8	advmod
-5	一	一	n,数詞,数字,*	OTH	6	nummod
-6	代	代	n,名詞,時,*	OTH	_	_
-7	要	要	v,動詞,行為,動作	OTH	8	advmod
-8	記	記	v,動詞,行為,動作	OTH	0	root
-9	、	、	s,記号,読点,*	O	13	advmod
-10	歷	歷	v,動詞,行為,役割	OTH	13	advmod
-11	代	代	n,名詞,固定物,地名	OTH	12	nmod
-12	皇	皇	n,名詞,人,役割	OTH	13	obj
-13	紀	紀	v,動詞,行為,動作	OTH	8	conj
-14	。	。	s,記号,句点,*	O	13	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	amod
-2	村	村	n,名詞,制度,場	O	5	nmod
-3	上	上	n,名詞,固定物,関係	O	5	nmod
-4	皇	皇	n,名詞,人,役割	PER	5	amod
-5	后	后	n,名詞,人,役割	PER	6	nsubj
-6	同	同	v,動詞,描写,形質	O	0	root
-7	母	母	n,名詞,人,関係	O	6	obj
-8	妹	妹	n,名詞,人,関係	O	7	flat
-9	也	也	p,助詞,句末,*	O	_	_
-10	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	0	root
-2	大	大	v,動詞,描写,量	OTH	3	amod
-3	鏡	鏡	n,名詞,可搬,道具	OTH	1	nmod
-4	裏	裡	n,名詞,固定物,関係	OTH	5	nmod
-5	書	書	n,名詞,主体,書物	OTH	3	conj
-6	。	。	s,記号,句点,*	O	1	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	nmod
-2	帝	帝	n,名詞,人,役割	O	3	nsubj
-3	在	在	v,動詞,存在,存在	O	0	root
-4	東	東	n,名詞,固定物,関係	O	5	nmod
-5	宮	宮	n,名詞,固定物,建造物	O	3	obj
-6	，	，	s,記号,読点,*	O	3	punct
-
-1	納	納	v,動詞,行為,動作	O	0	root
-2	為	爲	v,動詞,行為,生産	O	1	obj
-
-1	御	御	v,動詞,行為,交流	O	2	advmod
-2	息	息	v,動詞,行為,動作	O	4	ccomp
-3	所	所	n,名詞,制度,場	O	2	obj
-4	，	，	s,記号,読点,*	O	5	advmod
-5	【	【	s,記号,括弧開,*	O	11	nsubj
-6	大	大	v,動詞,描写,量	OTH	7	amod
-7	鏡	鏡	n,名詞,可搬,道具	OTH	5	obj
-8	、	、	s,記号,読点,*	O	11	advmod
-9	尊	尊	v,動詞,行為,態度	OTH	11	nsubj
-10	卑	卑	v,動詞,描写,境遇	OTH	_	_
-11	分	分	v,動詞,行為,設置	OTH	0	root
-12	脈	脈	n,名詞,不可譲,身体	OTH	11	obj
-13	。	。	s,記号,句点,*	O	11	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	授	授	v,動詞,行為,得失	O	0	root
-3	從	從	v,動詞,行為,動作	O	2	iobj
-4	四	四	n,数詞,数字,*	O	5	nummod
-5	位	位	n,名詞,制度,場	O	3	obj
-6	下	下	n,名詞,固定物,関係	O	2	obj
-7	。	。	s,記号,句点,*	O	2	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	advmod
-2	安	安	v,動詞,行為,態度	O	6	amod
-3	和	和	v,動詞,描写,形質	O	_	_
-4	元	元	n,名詞,描写,形質	O	5	nmod
-5	年	年	n,名詞,時,*	O	2	obj
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,前置詞,源泉,*	O	2	case
-2	女	女	n,名詞,人,関係	O	3	obl
-3	御	御	v,動詞,行為,交流	O	4	nsubj
-4	，	，	s,記号,読点,*	O	0	root
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	2	advmod
-2	進	進	v,動詞,行為,移動	O	6	csubj
-3	正	正	v,動詞,描写,形質	O	_	_
-4	四	四	n,数詞,数字,*	O	6	nummod
-5	位	位	n,名詞,制度,場	O	4	clf
-6	下	下	n,名詞,固定物,関係	O	0	root
-7	。	。	s,記号,句点,*	O	6	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	。	。	s,記号,句点,*	O	4	punct
-
-1	】	】	s,記号,括弧閉,*	O	6	advmod
-2	天	天	n,名詞,制度,場	O	3	compound
-3	元	元	n,名詞,描写,形質	O	6	nmod
-4	五	五	n,数詞,数字,*	O	5	nummod
-5	年	年	n,名詞,時,*	O	6	clf
-6	，	，	s,記号,読点,*	O	0	root
-
-1	為	爲	v,動詞,存在,存在	O	3	cop
-2	尚	尙	v,動詞,行為,態度	O	3	amod
-3	侍	侍	v,動詞,行為,設置	O	4	obj
-4	，	，	s,記号,読点,*	O	0	root
-
-1	陞	陞	v,動詞,行為,動作	O	0	root
-2	從	從	v,動詞,行為,動作	O	_	_
-3	三	三	n,数詞,数字,*	O	4	nummod
-4	位	位	n,名詞,制度,場	O	1	obj
-5	。	。	s,記号,句点,*	O	1	punct
-
-1	【	【	s,記号,括弧開,*	O	4	advmod
-2	日	日	n,名詞,時,*	OTH	_	_
-3	本	本	v,動詞,行為,動作	OTH	4	advmod
-4	紀	紀	v,動詞,行為,動作	OTH	0	root
-5	略	略	n,名詞,可搬,伝達	OTH	4	obj
-6	、	、	s,記号,読点,*	O	4	punct
-
-1	一	一	n,数詞,数字,*	OTH	2	nummod
-2	代	代	n,名詞,時,*	OTH	_	_
-3	要	要	v,動詞,行為,動作	OTH	0	root
-4	記	記	p,助詞,句末,*	OTH	_	_
-5	。	。	s,記号,句点,*	O	3	punct
-
-1	】	】	s,記号,括弧閉,*	O	0	root
-2	寬	寬	v,動詞,描写,形質	O	1	obj
-3	和	和	v,動詞,描写,形質	O	_	_
-
-1	中	中	n,名詞,固定物,関係	O	2	nmod
-2	，	，	s,記号,読点,*	O	4	advmod
-3	至	至	v,動詞,行為,移動	O	4	advmod
-4	正	正	v,動詞,描写,形質	O	0	root
-5	三	三	n,数詞,数字,*	O	6	nummod
-6	位	位	n,名詞,制度,場	O	4	obj
-7	。	。	s,記号,句点,*	O	4	punct
-8	永	永	v,動詞,描写,量	O	11	amod
-9	祚	祚	n,名詞,制度,儀礼	O	11	nmod
-10	元	元	n,名詞,描写,形質	O	11	nmod
-11	年	年	n,名詞,時,*	O	4	obj
-12	，	，	s,記号,読点,*	O	4	punct
-
-1	為	爲	v,動詞,存在,存在	O	2	cop
-2	尼	尼	v,動詞,行為,動作	O	3	csubj
-3	。	。	s,記号,句点,*	O	7	advmod
-4	【	【	s,記号,括弧開,*	O	7	advmod
-5	一	一	n,数詞,数字,*	OTH	6	nummod
-6	代	代	n,名詞,時,*	OTH	_	_
-7	要	要	v,動詞,行為,動作	OTH	0	root
-8	記	記	p,助詞,句末,*	OTH	_	_
-9	。	。	s,記号,句点,*	O	7	punct
-
-1	】	】	s,記号,括弧閉,*	O	0	root
+【 O
+朱 O
+雀 O
+天 B-PER
+皇 I-PER
+】 O
+朱 O
+雀 O
+女 O
+御 O
+熙 O
+子 O
+女 B-PER
+王 I-PER
+， O
+
+文 O
+獻 O
+太 B-PER
+子 I-PER
+女 O
+也 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+中 B-OTH
+右 I-OTH
+記 I-OTH
+大 O
+治 O
+五 O
+年 O
+。 O
+
+】 O
+投 O
+正 O
+四 O
+位 O
+下 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+承 O
+平 O
+七 O
+年 O
+， O
+
+為 O
+女 O
+御 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+天 O
+曆 O
+四 O
+年 O
+， O
+生 O
+昌 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+
+中 B-OTH
+右 I-OTH
+記 I-OTH
+大 O
+治 O
+五 O
+年 O
+。 O
+
+天 O
+曆 O
+四 O
+年 O
+據 O
+類 B-OTH
+聚 I-OTH
+符 I-OTH
+宣 I-OTH
+抄 I-OTH
+。 O
+
+】 O
+敘 O
+從 O
+三 O
+位 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+尋 O
+薨 O
+， O
+
+稱 O
+王 B-PER
+女 I-PER
+御 O
+。 O
+
+【 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+○ O
+
+熙 O
+子 O
+薨 O
+年 O
+不 O
+詳 O
+。 O
+
+按 O
+昌 O
+子 O
+
+內 O
+親 O
+王 O
+長 O
+保 O
+元 O
+年 O
+卒 O
+， O
+
+年 O
+五十 O
+， O
+
+則 O
+以 O
+天 O
+曆 O
+四 O
+年 O
+生 O
+。 O
+
+而 O
+本 O
+書 O
+云 O
+
+昌 O
+子 O
+三 O
+歲 O
+而 O
+熙 O
+子 O
+薨 O
+。 O
+
+據 O
+此 O
+推 O
+之 O
+， O
+
+熙 O
+子 O
+蓋 O
+以 O
+天 O
+曆 O
+六 O
+年 O
+薨 O
+也 O
+。 O
+
+然 O
+他 O
+無 O
+明 O
+文 O
+
+， O
+故 O
+不 O
+取 O
+。 O
+】 O
+女 O
+御 O
+藤 B-PER
+原 I-PER
+慶 I-PER
+子 I-PER
+， O
+
+太 B-PER
+政 I-PER
+大 I-PER
+臣 I-PER
+實 O
+賴 O
+女 O
+也 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+授 O
+正 O
+五 O
+位 O
+下 O
+。 O
+
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+天 O
+慶 O
+
+四 O
+年 O
+， O
+為 O
+女 O
+御 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+天 O
+曆 O
+五 O
+年 O
+十 O
+月 O
+， O
+
+卒 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+李 B-OTH
+部 I-OTH
+王 I-OTH
+記 I-OTH
+。 O
+
+】 O
+【 O
+村 O
+
+上 O
+天 B-PER
+皇 I-PER
+】 O
+村 O
+上 O
+藤 B-PER
+原 I-PER
+皇 I-PER
+后 I-PER
+， O
+諱 O
+安 O
+子 O
+。 O
+
+右 B-PER
+大 I-PER
+臣 I-PER
+師 O
+輔 O
+女 O
+也 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+帝 O
+為 O
+親 O
+王 O
+， O
+
+納 O
+之 O
+。 O
+及 O
+居 O
+儲 O
+宮 O
+， O
+以 O
+皇 O
+太 O
+弟 O
+妃 O
+， O
+
+授 O
+從 O
+五 O
+位 O
+上 O
+。 O
+
+登 O
+祚 O
+， O
+
+為 O
+女 O
+御 O
+， O
+
+授 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+累 O
+遷 O
+從 O
+三 O
+位 O
+。 O
+
+天 O
+曆 O
+四 O
+年 O
+， O
+進 O
+從 O
+二 O
+位 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+引 O
+村 B-OTH
+上 I-OTH
+御 I-OTH
+記 I-OTH
+。 O
+
+】 O
+天 O
+德 O
+元 O
+年 O
+四 O
+月 O
+， O
+
+置 O
+酒 O
+飛 O
+香 O
+舍 O
+， O
+賀 O
+帥 O
+輔 O
+壽 O
+五十 O
+。 O
+
+帝 O
+臨 O
+御 O
+宴 O
+樂 O
+， O
+
+賜 O
+物 O
+有 O
+差 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+二 O
+年 O
+十 O
+月 O
+， O
+
+為 O
+皇 B-PER
+后 I-PER
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+引 O
+村 B-OTH
+上 I-OTH
+御 I-OTH
+記 I-OTH
+。 O
+
+】 O
+四 O
+年 O
+， O
+以 O
+父 O
+喪 O
+‧ O
+出 O
+居 O
+兄 O
+伊 O
+尹 O
+第 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+康 O
+保 O
+元 O
+年 O
+四 O
+月 O
+， O
+產 O
+選 O
+子 O
+於 O
+主 O
+殿 O
+寮 O
+。 O
+
+數 O
+日 O
+崩 O
+， O
+年 O
+三十八 O
+。 O
+
+【 O
+日 B-OTHpart
+
+本 B-OTHpart
+紀 I-OTHpart
+略 I-OTHpart
+、 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+引 O
+村 B-OTH
+上 I-OTH
+御 I-OTH
+記 I-OTH
+。 O
+
+○ O
+按 O
+扶 B-OTHpart
+桑 I-OTHpart
+
+略 B-OTHpart
+記 I-OTHpart
+作 O
+三十五 O
+， O
+誤 O
+。 O
+
+】 O
+葬 O
+愛 O
+宕 O
+郡 O
+東 O
+南 O
+野 O
+， O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+○ O
+
+本 O
+書 O
+一 O
+說 O
+作 O
+神 O
+樂 O
+岡 O
+西 O
+北 O
+。 O
+
+】 O
+稱 O
+中 O
+宇 O
+治 O
+陵 O
+。 O
+
+置 O
+國 O
+忌 O
+齋 O
+於 O
+西 B-LOC
+寺 I-LOC
+， O
+列 O
+荷 O
+前 O
+幣 O
+。 O
+
+【 O
+江 B-OTH
+家 I-OTH
+次 I-OTH
+第 I-OTH
+。 O
+
+】 O
+后 O
+生 O
+冷 O
+泉 O
+帝 O
+、 O
+
+圓 O
+融 O
+帝 O
+、 O
+
+為 O
+平 O
+親 O
+王 O
+、 O
+
+承 O
+子 O
+內 O
+親 O
+
+王 O
+、 O
+輔 O
+子 O
+內 O
+親 O
+王 O
+、 O
+
+資 O
+子 O
+內 O
+親 O
+王 O
+、 O
+
+選 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+、 O
+中 O
+右 O
+記 O
+
+大 O
+治 O
+五 O
+年 O
+。 O
+】 O
+初 O
+后 O
+生 O
+皇 B-PER
+女 I-PER
+， O
+未 O
+有 O
+男 O
+子 O
+。 O
+
+師 O
+輔 O
+祈 O
+鹿 O
+島 O
+神 O
+。 O
+
+未 O
+幾 O
+， O
+
+生 O
+冷 O
+泉 O
+帝 O
+。 O
+【 O
+左 B-OTH
+經 I-OTH
+記 I-OTH
+長 O
+元 O
+七 O
+年 O
+引 O
+九 B-OTH
+條 I-OTH
+殿 I-OTH
+記 I-OTH
+。 O
+
+】 O
+冷 O
+泉 O
+帝 O
+踐 O
+祚 O
+， O
+
+贈 O
+后 O
+母 O
+從 O
+三 O
+位 O
+藤 O
+原 O
+盛 O
+子 O
+正 O
+一 O
+位 O
+， O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+追 O
+尊 O
+后 O
+曰 O
+皇 B-PER
+太 I-PER
+后 I-PER
+。 O
+
+圓 O
+融 O
+帝 O
+受 O
+禪 O
+， O
+
+贈 O
+太 B-PER
+皇 I-PER
+太 I-PER
+后 I-PER
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+后 O
+最 O
+敦 O
+友 O
+弟 O
+， O
+
+能 O
+通 O
+下 O
+情 O
+， O
+妃 O
+嬪 O
+婢 O
+妾 O
+， O
+皆 O
+得 O
+歡 O
+心 O
+。 O
+
+及 O
+崩 O
+， O
+
+中 O
+外 O
+哀 O
+惜 O
+。 O
+帝 O
+屢 O
+問 O
+政 O
+事 O
+， O
+
+后 O
+務 O
+匡 O
+
+救 O
+贊 O
+， O
+
+除 O
+人 O
+所 O
+疾 O
+苦 O
+， O
+
+而 O
+慫 O
+恿 O
+其 O
+所 O
+欲 O
+。 O
+
+帝 O
+亦 O
+憚 O
+之 O
+， O
+
+無 O
+言 O
+不 O
+聽 O
+。 O
+然 O
+性 O
+頗 O
+嫉 O
+妒 O
+， O
+
+時 O
+女 O
+御 O
+藤 B-PER
+原 I-PER
+芳 I-PER
+子 I-PER
+新 O
+獲 O
+寵 O
+， O
+
+居 O
+飛 O
+香 O
+舍 O
+， O
+與 O
+后 O
+所 O
+居 O
+弘 O
+徽 O
+殿 O
+鄰 O
+。 O
+
+后 O
+穴 O
+壁 O
+窺 O
+之 O
+。 O
+
+容 O
+貌 O
+絕 O
+美 O
+。 O
+
+妒 O
+心 O
+彌 O
+熾 O
+， O
+碎 O
+土 O
+器 O
+自 O
+穴 O
+中 O
+擲 O
+之 O
+。 O
+
+帝 O
+適 O
+見 O
+之 O
+， O
+
+大 O
+怒 O
+。 O
+
+以 O
+謂 O
+是 O
+后 O
+兄 O
+弟 O
+教 O
+后 O
+為 O
+之 O
+， O
+因 O
+責 O
+伊 O
+尹 O
+等 O
+還 O
+家 O
+。 O
+
+后 O
+大 O
+怨 O
+怒 O
+， O
+
+請 O
+帝 O
+而 O
+詣 O
+宮 O
+， O
+
+乞 O
+宥 O
+伊 O
+尹 O
+等 O
+。 O
+
+帝 O
+不 O
+許 O
+而 O
+起 O
+。 O
+
+后 O
+牽 O
+衣 O
+留 O
+之 O
+。 O
+
+帝 O
+不 O
+得 O
+已 O
+從 O
+之 O
+。 O
+后 O
+崩 O
+後 O
+， O
+
+芳 O
+子 O
+寵 O
+弛 O
+。 O
+
+帝 O
+念 O
+后 O
+， O
+
+深 O
+悔 O
+遇 O
+之 O
+薄 O
+也 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+女 O
+御 O
+藤 B-PER
+原 I-PER
+述 I-PER
+子 I-PER
+， O
+
+太 B-PER
+政 I-PER
+大 I-PER
+臣 I-PER
+實 O
+賴 O
+第 O
+二 O
+女 O
+也 O
+。 O
+
+【 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+。 O
+○ O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+記 I-OTH
+， O
+為 O
+三 O
+女 O
+。 O
+
+】 O
+帝 O
+在 O
+東 O
+官 O
+， O
+
+納 O
+之 O
+。 O
+及 O
+即 O
+位 O
+， O
+為 O
+女 O
+御 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+天 O
+曆 O
+元 O
+年 O
+， O
+有 O
+身 O
+。 O
+
+患 O
+疱 O
+瘡 O
+， O
+
+墮 O
+胎 O
+， O
+卒 O
+于 O
+東 O
+三 O
+條 O
+第 O
+， O
+
+年 O
+十五 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+】 O
+稱 O
+弘 O
+徽 O
+殿 O
+女 O
+御 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+○ O
+
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+， O
+
+作 O
+四 O
+條 O
+御 O
+息 O
+所 O
+。 O
+】 O
+及 O
+葬 O
+， O
+
+遣 O
+使 O
+贈 O
+從 O
+四 O
+位 O
+上 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+女 O
+御 O
+徽 O
+子 O
+女 O
+王 O
+， O
+
+式 O
+部 O
+卿 O
+重 O
+明 O
+親 O
+王 O
+女 O
+也 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+齋 B-OTH
+宮 I-OTH
+記 I-OTH
+。 O
+
+】 O
+承 O
+平 O
+六 O
+年 O
+， O
+
+為 O
+齋 O
+宮 O
+。 O
+
+天 O
+慶 O
+八 O
+年 O
+， O
+
+遭 O
+母 O
+喪 O
+， O
+
+罷 O
+歸 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+天 O
+曆 O
+元 O
+年 O
+， O
+納 O
+掖 O
+庭 O
+。 O
+
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+三 O
+年 O
+， O
+為 O
+女 O
+御 O
+。 O
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+五 O
+年 O
+， O
+授 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+應 O
+和 O
+二 O
+年 O
+， O
+
+進 O
+從 O
+四 O
+位 O
+上 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+生 O
+規 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+榮 B-OTHpart
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+又 O
+生 O
+一 O
+皇 B-PER
+子 I-PER
+， O
+夭 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+】 O
+寬 O
+和 O
+元 O
+年 O
+， O
+卒 O
+， O
+
+年 O
+五十七 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+稱 O
+齋 O
+宮 O
+女 O
+御 O
+， O
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+又 O
+稱 O
+承 O
+香 O
+殿 O
+女 O
+御 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+女 O
+王 O
+最 O
+善 O
+和 O
+歌 O
+， O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+嘗 O
+居 O
+長 O
+岡 O
+別 O
+墅 O
+， O
+
+帝 O
+賜 O
+歌 O
+慰 O
+問 O
+， O
+
+女 O
+王 O
+奉 O
+和 O
+。 O
+
+時 O
+人 O
+謂 O
+： O
+
+「 O
+有 O
+欲 O
+居 O
+坤 O
+位 O
+之 O
+意 O
+。 O
+」 O
+女 O
+王 O
+恥 O
+之 O
+， O
+
+乃 O
+削 O
+其 O
+稿 O
+。 O
+
+【 O
+十 B-OTH
+訓 I-OTH
+抄 I-OTH
+。 O
+
+】 O
+女 O
+御 O
+莊子 O
+女 O
+王 O
+， O
+
+中 O
+務 O
+卿 O
+代 O
+明 O
+
+親 O
+王 B-PER
+女 I-PER
+也 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+紀 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+授 O
+從 O
+四 O
+位 O
+上 O
+。 O
+
+天 O
+曆 O
+四 O
+年 O
+。 O
+為 O
+女 O
+御 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+生 O
+具 O
+平 O
+親 O
+王 O
+、 O
+
+樂 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+榮 B-OTHpart
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+】 O
+及 O
+帝 O
+崩 O
+， O
+
+為 O
+尼 O
+。 O
+寬 O
+弘 O
+五 O
+年 O
+七 O
+月 O
+， O
+卒 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTHpart
+代 I-OTHpart
+要 I-OTHpart
+
+記 B-OTHpart
+。 O
+】 O
+年 O
+七十八 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+稱 O
+麗 O
+景 O
+殿 O
+女 O
+御 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+女 O
+御 O
+藤 B-PER
+原 I-PER
+芳 I-PER
+子 I-PER
+， O
+左 O
+大 O
+臣 O
+師 O
+尹 O
+女 O
+也 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+。 O
+
+】 O
+天 O
+德 O
+二 O
+年 O
+， O
+為 O
+女 O
+御 O
+。 O
+
+生 O
+昌 O
+平 O
+
+親 O
+王 O
+、 O
+
+永 O
+平 O
+親 O
+王 O
+。 O
+【 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+容 O
+貌 O
+絕 O
+艷 O
+， O
+
+髮 O
+鬒 O
+而 O
+長 O
+‧ O
+
+上 O
+車 O
+
+其 O
+未 O
+尚 O
+委 O
+柱 O
+下 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+初 O
+在 O
+家 O
+學 O
+
+琴 O
+書 O
+， O
+諳 O
+誦 O
+
+古 B-OTH
+今 I-OTH
+集 I-OTH
+。 O
+
+帝 O
+親 O
+試 O
+之 O
+。 O
+
+以 O
+棊 O
+子 O
+為 O
+籌 O
+， O
+
+終 O
+篇 O
+無 O
+一 O
+錯 O
+誤 O
+。 O
+
+帝 O
+大 O
+異 O
+之 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+， O
+
+參 O
+取 O
+枕 B-OTH
+草 I-OTH
+子 I-OTH
+。 O
+
+】 O
+帝 O
+妙 O
+彈 O
+箏 O
+， O
+
+芳 O
+子 O
+悉 O
+得 O
+指 O
+法 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+
+】 O
+三 O
+年 O
+， O
+敘 O
+正 O
+五 O
+位 O
+下 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+九 O
+曆 O
+。 O
+
+】 O
+後 O
+進 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+帝 O
+甚 O
+寵 O
+之 O
+， O
+為 O
+皇 B-PER
+后 I-PER
+所 O
+妒 O
+媢 O
+。 O
+
+末 O
+年 O
+寵 O
+稍 O
+衰 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+康 O
+保 O
+四 O
+年 O
+七 O
+月 O
+， O
+卒 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+山 B-OTH
+槐 I-OTH
+記 I-OTH
+
+治 O
+承 O
+二 O
+年 O
+。 O
+
+】 O
+稱 O
+宣 O
+耀 O
+殿 O
+女 O
+御 O
+。 O
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+、 O
+
+枕 B-OTH
+草 I-OTH
+子 I-OTH
+。 O
+
+】 O
+更 O
+衣 O
+
+源 O
+計 O
+子 O
+， O
+中 O
+納 O
+言 O
+
+庶 O
+明 O
+女 O
+也 O
+。 O
+
+【 O
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+紀 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+】 O
+頗 O
+有 O
+才 O
+識 O
+。 O
+
+一 O
+日 O
+， O
+帝 O
+作 O
+歌 O
+曰 O
+： O
+
+「 O
+逢 O
+坂 O
+も O
+
+阿 O
+布 O
+佐 O
+加 O
+茂 O
+， O
+果 O
+ては O
+波 O
+底 O
+波 O
+往 O
+來 O
+の O
+
+由 O
+岐 O
+岐 O
+能 O
+， O
+關 O
+もゐず O
+世 O
+基 O
+母 O
+為 O
+受 O
+， O
+
+尋 O
+ねて O
+訪 O
+ひ O
+來 O
+
+多 O
+豆 O
+禰 O
+
+氐 O
+斗 O
+比 O
+古 O
+， O
+
+來 O
+なば O
+歸 O
+さじ O
+岐 O
+奈 O
+波 O
+
+加 O
+陪 O
+佐 O
+餌 O
+。 O
+
+」 O
+蓋 O
+隱 O
+語 O
+也 O
+， O
+
+示 O
+諸 O
+官 O
+人 O
+以 O
+試 O
+之 O
+。 O
+
+皆 O
+不 O
+能 O
+解 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+、 O
+
+十 B-OTHpart
+訓 I-OTHpart
+抄 I-OTHpart
+。 O
+
+】 O
+或 O
+以 O
+為 O
+被 O
+召 O
+
+， O
+至 O
+有 O
+盛 O
+飾 O
+而 O
+進 O
+者 O
+。 O
+【 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+】 O
+獨 O
+計 O
+
+子 O
+曉 O
+其 O
+意 O
+， O
+
+獻 O
+薰 O
+衣 O
+香 O
+。 O
+
+帝 O
+嘉 O
+其 O
+敏 O
+慧 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+、 O
+
+十 B-OTH
+訓 I-OTH
+抄 I-OTH
+。 O
+○ O
+
+浦 O
+木 O
+按 O
+， O
+
+是 O
+歌 O
+者 O
+， O
+取 O
+各 O
+段 O
+首 O
+尾 O
+之 O
+字 O
+， O
+
+是 O
+為 O
+「 O
+合 O
+あはせ O
+薰 O
+物 O
+少 O
+たきものすこし O
+。 O
+
+」 O
+】 O
+計 O
+子 O
+勸 O
+帝 O
+， O
+
+令 O
+源 O
+順 O
+等 O
+訓 O
+解 O
+萬 B-OTH
+葉 I-OTH
+集 I-OTH
+。 O
+
+【 O
+十 B-OTH
+訓 I-OTH
+抄 I-OTH
+。 O
+
+】 O
+生 O
+理 O
+
+子 O
+內 O
+親 O
+王 O
+、 O
+盛 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+】 O
+稱 O
+廣 O
+幡 O
+
+御 O
+息 O
+所 O
+。 O
+【 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+、 O
+十 B-OTH
+訓 I-OTH
+抄 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+○ O
+按 O
+寶 B-OTH
+物 I-OTH
+集 I-OTH
+云 O
+， O
+後 O
+出 O
+嫁 O
+左 B-PER
+大 I-PER
+臣 I-PER
+藤 B-PER
+原 I-PER
+顯 I-PER
+光 I-PER
+。 O
+
+據 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+， O
+嫁 O
+顯 O
+光 O
+者 O
+盛 O
+子 O
+也 O
+。 O
+
+】 O
+更 O
+衣 O
+藤 O
+
+原 O
+祐 O
+姬 O
+， O
+大 B-PER
+納 I-PER
+言 I-PER
+元方 O
+女 O
+也 O
+。 O
+
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+紀 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+○ O
+按 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+， O
+祐 O
+姬 O
+作 O
+元 O
+子 O
+。 O
+】 O
+為 O
+更 O
+衣 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+。 O
+
+○ O
+
+按 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+， O
+
+或 O
+稱 O
+女 O
+御 O
+， O
+
+或 O
+稱 O
+御 O
+息 O
+所 O
+。 O
+
+】 O
+生 O
+廣平 O
+
+親 O
+王 O
+、 O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+
+】 O
+緝 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+時 O
+帝 O
+未 O
+有 O
+嗣 O
+， O
+
+及 O
+廣平 O
+
+親 O
+王 O
+生 O
+， O
+祐 O
+姬 O
+及 O
+元方 O
+密 O
+喜 O
+， O
+
+以 O
+謂 O
+其 O
+為 O
+儲 O
+貳 O
+。 O
+既 O
+而 O
+冷 O
+泉 O
+帝 O
+生 O
+， O
+
+尋 O
+為 O
+東 O
+宮 O
+。 O
+
+父 O
+子 O
+大 O
+失 O
+望 O
+， O
+
+元方 O
+遂 O
+以 O
+憂 O
+死 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+世 O
+謂 O
+冷 O
+泉 O
+帝 O
+得 O
+狂 O
+疾 O
+、 O
+
+華山 O
+帝 O
+出 O
+家 O
+、 O
+
+三 O
+條 O
+帝 O
+失 O
+明 O
+， O
+
+皆 O
+元方 O
+祟 O
+之 O
+所 O
+為 O
+也 O
+。 O
+
+【 O
+神 B-OTH
+皇 I-OTH
+正 I-OTH
+統 I-OTH
+記 I-OTH
+。 O
+
+】 O
+及 O
+帝 O
+
+崩 O
+， O
+為 O
+尼 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+更 O
+衣 O
+藤 B-PER
+原 I-PER
+正 I-PER
+妃 I-PER
+， O
+
+左 O
+大 O
+臣 O
+在 O
+衡 O
+女 O
+也 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+紀 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+】 O
+授 O
+正 O
+五 O
+位 O
+下 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+生 O
+致 O
+平 O
+親 O
+王 O
+、 O
+
+昭 O
+平 O
+親 O
+王 O
+、 O
+保 O
+子 O
+內 O
+親 O
+王 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+。 O
+
+】 O
+正 O
+妃 O
+
+素 O
+無 O
+殊 O
+寵 O
+， O
+然 O
+以 O
+多 O
+子 O
+恩 O
+遇 O
+， O
+始 O
+終 O
+不 O
+衰 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+康 O
+保 O
+四 O
+年 O
+七 O
+月 O
+， O
+卒 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+稱 O
+按 O
+察 O
+御 O
+息 O
+所 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+尚 O
+侍 O
+藤 B-PER
+原 I-PER
+登 I-PER
+子 I-PER
+， O
+皇 B-PER
+后 I-PER
+同 O
+母 O
+妹 O
+也 O
+。 O
+
+【 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+初 O
+為 O
+帝 O
+兄 O
+重 O
+明 O
+親 O
+
+王 O
+繼 O
+室 O
+， O
+
+以 O
+皇 B-PER
+后 I-PER
+故 O
+， O
+
+出 O
+入 O
+宮 O
+中 O
+。 O
+帝 O
+見 O
+悅 O
+之 O
+， O
+
+請 O
+后 O
+私 O
+焉 O
+。 O
+
+后 O
+初 O
+為 O
+掩 O
+
+匿 O
+。 O
+【 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+後 O
+帝 O
+數 O
+召 O
+入 O
+宮 O
+中 O
+， O
+后 O
+稍 O
+不 O
+懌 O
+。 O
+
+及 O
+親 O
+王 O
+薨 O
+， O
+
+帝 O
+心 O
+喜 O
+欲 O
+納 O
+之 O
+， O
+然 O
+憚 O
+后 O
+不 O
+果 O
+。 O
+
+后 O
+崩 O
+
+僅 O
+踰 O
+月 O
+， O
+
+帝 O
+數 O
+通 O
+書 O
+。 O
+
+登 O
+子 O
+憚 O
+物 O
+議 O
+， O
+
+不 O
+肯 O
+應 O
+命 O
+。 O
+
+帝 O
+敕 O
+伊 O
+尹 O
+等 O
+促 O
+之 O
+， O
+
+命 O
+內 O
+藏 O
+司 O
+給 O
+其 O
+資 O
+。 O
+
+遂 O
+召 O
+居 O
+登 O
+華 O
+殿 O
+， O
+
+專 O
+寵 O
+幸 O
+。 O
+
+妃 O
+嬪 O
+希 O
+復 O
+進 O
+御 O
+。 O
+
+后 O
+及 O
+親 O
+王 O
+之 O
+侍 O
+女 O
+皆 O
+怨 O
+忿 O
+， O
+
+謂 O
+： O
+
+「 O
+后 O
+崩 O
+、 O
+
+親 O
+王 O
+薨 O
+， O
+
+其 O
+咒 O
+詛 O
+之 O
+所 O
+致 O
+也 O
+。 O
+
+」 O
+帝 O
+常 O
+歡 O
+狎 O
+， O
+
+至 O
+晝 O
+不 O
+出 O
+臥 O
+內 O
+。 O
+
+帝 O
+為 O
+治 O
+休 O
+明 O
+， O
+
+至 O
+是 O
+政 O
+事 O
+頗 O
+廢 O
+， O
+
+中 O
+外 O
+惜 O
+之 O
+。 O
+
+藤 O
+原 O
+實 O
+賴 O
+嘆 O
+曰 O
+： O
+
+「 O
+帝 O
+德 O
+足 O
+垂 O
+後 O
+世 O
+， O
+而 O
+以 O
+是 O
+壞 O
+之 O
+。 O
+
+惜 O
+哉 O
+！ O
+」 O
+帝 O
+欲 O
+立 O
+
+登 O
+子 O
+為 O
+后 O
+， O
+然 O
+以 O
+前 O
+有 O
+子 O
+， O
+
+不 O
+得 O
+策 O
+立 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+圓 O
+融 O
+帝 O
+受 O
+禪 O
+， O
+
+敘 O
+從 O
+四 O
+位 O
+上 O
+， O
+
+【 O
+○ O
+
+日 O
+本 O
+紀 O
+略 O
+， O
+作 O
+從 O
+五 O
+位 O
+上 O
+。 O
+
+今 O
+從 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+為 O
+尚 O
+侍 O
+。 O
+
+【 O
+
+○ O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+云 O
+， O
+
+村 O
+上 O
+帝 O
+在 O
+日 O
+， O
+
+為 O
+尚 O
+侍 O
+。 O
+
+今 O
+從 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+天 O
+祿 O
+
+元 O
+年 O
+， O
+敘 O
+從 O
+三 O
+位 O
+。 O
+
+天 O
+延 O
+元 O
+年 O
+， O
+進 O
+從 O
+二 O
+位 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+三 O
+年 O
+， O
+薨 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+稱 O
+貞 O
+觀 O
+殿 O
+尚 O
+侍 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+○ O
+
+按 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+系 I-OTH
+圖 I-OTH
+云 O
+， O
+
+稱 O
+登 O
+華 O
+殿 O
+尚 O
+侍 O
+。 O
+
+未 O
+知 O
+孰 O
+是 O
+。 O
+】 O
+【 O
+冷 O
+泉 O
+天皇 O
+
+】 O
+冷 O
+泉 O
+皇 B-PER
+后 I-PER
+， O
+諱 O
+昌 O
+子 O
+。 O
+朱 O
+雀 O
+帝 O
+女 O
+也 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+】 O
+天 O
+曆 O
+四 O
+年 O
+， O
+為 O
+內 O
+親 O
+王 O
+。 O
+
+時 O
+年 O
+一 O
+歲 O
+。 O
+【 O
+類 B-OTH
+聚 I-OTH
+符 I-OTH
+宣 I-OTH
+抄 I-OTH
+。 O
+
+】 O
+應 O
+和 O
+元 O
+年 O
+， O
+
+笄 O
+於 O
+承 O
+香 O
+殿 O
+， O
+
+授 O
+三 O
+品 O
+。 O
+
+帝 O
+親 O
+書 O
+位 O
+記 O
+賜 O
+之 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+】 O
+初 O
+后 O
+幼 O
+失 O
+恃 O
+， O
+朱 O
+雀 O
+
+帝 O
+唯 O
+一 O
+女 O
+， O
+
+鍾 O
+愛 O
+最 O
+甚 O
+， O
+每 O
+御 O
+其 O
+為 O
+后 O
+。 O
+
+皇 B-PER
+女 I-PER
+冊 O
+立 O
+， O
+
+近 O
+古 O
+無 O
+例 O
+。 O
+
+【 O
+榮 O
+
+華 B-OTHpart
+物 I-OTHpart
+語 I-OTHpart
+。 O
+
+】 O
+然 O
+以 O
+無 O
+皇 B-PER
+子 I-PER
+， O
+欲 O
+皇 B-PER
+女 I-PER
+遺 O
+種 O
+。 O
+
+臨 O
+崩 O
+， O
+
+作 O
+歌 O
+寓 O
+意 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+
+】 O
+村 O
+上 O
+帝 O
+知 O
+之 O
+。 O
+及 O
+東 O
+宮 O
+加 O
+元 O
+服 O
+， O
+
+群 O
+貴 O
+皆 O
+冀 O
+納 O
+女 O
+。 O
+
+村 O
+上 O
+帝 O
+特 O
+敕 O
+為 O
+納 O
+之 O
+。 O
+
+【 O
+榮 O
+
+華 O
+物 O
+語 O
+。 O
+
+】 O
+及 O
+帝 O
+登 O
+祚 O
+， O
+
+立 O
+為 O
+皇 O
+后 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+扶 O
+桑 O
+略 O
+記 O
+、 O
+榮 O
+華 O
+物 O
+語 O
+。 O
+
+】 O
+帝 O
+有 O
+心 O
+疾 O
+， O
+
+后 O
+多 O
+出 O
+居 O
+別 O
+宮 O
+。 O
+
+【 O
+榮 O
+
+華 O
+物 O
+語 O
+。 O
+
+】 O
+天 O
+延 O
+元 O
+年 O
+， O
+為 O
+皇 O
+太 O
+后 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+扶 O
+桑 O
+略 O
+記 O
+、 O
+榮 O
+華 O
+物 O
+語 O
+。 O
+
+】 O
+寬 O
+和 O
+元 O
+年 O
+， O
+
+后 O
+創 O
+觀 O
+音 O
+院 O
+于 O
+比 O
+叡 O
+山 O
+， O
+
+自 O
+往 O
+供 O
+養 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+
+扶 O
+桑 O
+略 O
+記 O
+。 O
+
+○ O
+比 O
+叡 O
+山 O
+據 O
+略 O
+記 O
+。 O
+
+】 O
+二 O
+年 O
+， O
+為 O
+太 O
+皇 O
+太 O
+后 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+
+一 O
+代 O
+要 O
+記 O
+。 O
+。 O
+
+】 O
+長 O
+保 O
+元 O
+年 O
+
+十二 O
+月 O
+， O
+
+崩 O
+于 O
+權 O
+大 O
+進 O
+
+橘 O
+道 O
+貞 O
+三 O
+條 O
+家 O
+， O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+。 O
+】 O
+年 O
+五十 O
+。 O
+
+【 O
+小 O
+右 O
+記 O
+、 O
+扶 O
+桑 O
+略 O
+記 O
+、 O
+一 O
+代 O
+要 O
+記 O
+、 O
+
+帝 O
+王 O
+編 O
+年 O
+記 O
+。 O
+○ O
+按 O
+日 O
+本 O
+紀 O
+略 O
+
+作 O
+五十五 O
+， O
+誤 O
+。 O
+】 O
+稱 O
+三 O
+條 O
+太 O
+皇 O
+大 O
+后 O
+， O
+
+【 O
+榮 O
+
+華 O
+物 O
+語 O
+。 O
+
+】 O
+又 O
+稱 O
+觀 O
+音 O
+院 O
+太 O
+后 O
+。 O
+
+【 O
+中 O
+右 O
+記 O
+
+大 O
+治 O
+二 O
+年 O
+。 O
+
+】 O
+親 O
+書 O
+遺 O
+令 O
+， O
+
+條 O
+具 O
+後 O
+事 O
+， O
+一 O
+從 O
+儉 O
+薄 O
+。 O
+
+葬 O
+于 O
+觀 O
+音 O
+院 O
+。 O
+【 O
+小 O
+右 O
+記 O
+、 O
+
+日 O
+本 O
+紀 O
+略 O
+、 O
+
+扶 O
+桑 O
+略 O
+記 O
+。 O
+
+】 O
+藤 O
+原 O
+皇 O
+后 O
+， O
+諱 O
+懷 O
+子 O
+。 O
+
+太 O
+政 O
+大 O
+臣 O
+伊 O
+尹 O
+女 O
+也 O
+。 O
+
+【 O
+榮 O
+
+華 O
+物 O
+語 O
+、 O
+
+大 O
+鏡 O
+、 O
+
+皇 O
+胤 O
+紹 O
+運 O
+錄 O
+、 O
+一 O
+代 O
+要 O
+記 O
+。 O
+
+】 O
+安 O
+和 O
+元 O
+年 O
+， O
+
+入 O
+內 O
+。 O
+【 O
+榮 O
+華 O
+物 O
+語 O
+。 O
+
+】 O
+康 O
+保 O
+四 O
+年 O
+， O
+
+為 O
+女 O
+御 O
+， O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+
+大 O
+鏡 O
+裏 O
+書 O
+】 O
+授 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+大 O
+鏡 O
+裏 O
+書 O
+。 O
+
+】 O
+天 O
+延 O
+
+二 O
+年 O
+， O
+
+進 O
+從 O
+二 O
+位 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+大 O
+鏡 O
+裏 O
+書 O
+。 O
+】 O
+三 O
+年 O
+四 O
+月 O
+， O
+
+薨 O
+， O
+年 O
+三十一 O
+。 O
+【 O
+
+○ O
+日 O
+本 O
+紀 O
+略 O
+作 O
+三十 O
+。 O
+
+今 O
+從 O
+大 O
+鏡 O
+裏 O
+書 O
+、 O
+
+歷 O
+代 O
+皇 O
+記 O
+。 O
+
+】 O
+生 O
+華山 O
+帝 O
+、 O
+
+宗 O
+子 O
+內 O
+親 O
+王 O
+、 O
+
+尊 O
+子 O
+內 O
+親 O
+王 O
+。 O
+【 O
+榮 O
+
+華 O
+物 O
+語 O
+、 O
+
+皇 O
+胤 O
+紹 O
+運 O
+錄 O
+。 O
+
+】 O
+華山 O
+帝 O
+立 O
+
+， O
+追 O
+尊 O
+曰 O
+皇 O
+太 O
+后 O
+， O
+
+國 O
+忌 O
+山 O
+陵 O
+， O
+
+一 O
+遵 O
+舊 O
+典 O
+。 O
+
+【 O
+日 O
+本 O
+紀 O
+略 O
+、 O
+中 O
+右 O
+記 O
+
+嘉 O
+承 O
+二 O
+年 O
+。 O
+】 O
+初 O
+后 O
+薨 O
+， O
+
+華山 O
+帝 O
+尚 O
+幼 O
+， O
+
+后 O
+母 O
+惠 O
+子 O
+女 O
+王 O
+鞠 O
+育 O
+甚 O
+至 O
+。 O
+
+及 O
+即 O
+位 O
+， O
+敕 O
+曰 O
+： O
+
+「 O
+漢 O
+武 O
+即 O
+位 O
+， O
+
+臧 O
+兒 O
+遇 O
+封 O
+， O
+
+眇 O
+代 O
+之 O
+恒 O
+規 O
+， O
+
+前 O
+史 O
+之 O
+令 O
+典 O
+也 O
+。 O
+
+朕 O
+外 O
+祖 O
+母 O
+王 O
+氏 O
+， O
+禮 O
+法 O
+在 O
+心 O
+， O
+
+閨 O
+闈 O
+垂 O
+範 O
+。 O
+
+朕 O
+當 O
+幼 O
+日 O
+， O
+
+早 O
+喪 O
+先 O
+妣 O
+， O
+
+祖 O
+母 O
+視 O
+朕 O
+亦 O
+猶 O
+子 O
+， O
+
+朕 O
+報 O
+祖 O
+母 O
+未 O
+如 O
+親 O
+。 O
+
+其 O
+授 O
+邑 O
+土 O
+三百 O
+戶 O
+， O
+
+并 O
+年 O
+爵 O
+
+內 O
+外 O
+官 O
+三 O
+分 O
+等 O
+， O
+聊 O
+為 O
+湯 O
+沐 O
+之 O
+資 O
+， O
+
+兼 O
+與 O
+役 O
+從 O
+之 O
+輩 O
+。 O
+」 O
+【 O
+本 O
+朝 O
+文 O
+粹 O
+。 O
+
+】 O
+藤 O
+原 O
+皇 O
+后 O
+， O
+
+諱 B-PER
+超 I-PER
+子 I-PER
+。 O
+
+關 O
+白 O
+兼 O
+家 O
+女 O
+也 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+安 O
+和 O
+元 O
+年 O
+， O
+入 O
+內 O
+， O
+為 O
+御 O
+匣 O
+殿 O
+。 O
+
+【 O
+○ O
+
+按 O
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
+， O
+
+以 O
+入 O
+內 O
+為 O
+帝 O
+讓 O
+位 O
+後 O
+事 O
+， O
+誤 O
+矣 O
+。 O
+
+】 O
+與 O
+姑 O
+怤 O
+子 O
+同 O
+為 O
+女 O
+御 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+授 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+○ O
+日 O
+本 O
+紀 O
+略 O
+作 O
+從 O
+四 O
+位 O
+上 O
+。 O
+
+】 O
+時 O
+兼 O
+
+家 O
+藏 O
+人 O
+頭 O
+， O
+
+父 O
+未 O
+為 O
+公 O
+卿 O
+， O
+而 O
+女 O
+為 O
+女 O
+御 O
+， O
+
+自 O
+此 O
+始 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+生 O
+三 O
+條 O
+帝 O
+、 O
+
+為 O
+尊 O
+親 O
+王 O
+、 O
+
+敦 O
+道 O
+親 O
+王 O
+、 O
+光 O
+子 O
+內 O
+親 O
+王 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
+、 O
+皇 B-OTH
+胤 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+】 O
+天 O
+元 O
+五 O
+年 O
+正 O
+月 O
+， O
+諸 O
+兄 O
+弟 O
+來 O
+會 O
+守 O
+庚申 O
+， O
+女 O
+御 O
+
+憑 O
+几 O
+而 O
+睡 O
+， O
+
+達 O
+旦 O
+不 O
+寤 O
+， O
+就 O
+見 O
+則 O
+逝 O
+。 O
+
+【 O
+榮 B-OTHpart
+華 I-OTHpart
+物 I-OTHpart
+
+語 B-OTHpart
+。 O
+】 O
+自 O
+此 O
+， O
+
+其 O
+族 O
+不 O
+令 O
+女子 O
+守 O
+庚申 O
+。 O
+
+【 O
+古 B-OTH
+事 I-OTH
+談 I-OTH
+。 O
+
+】 O
+三 O
+條 O
+帝 O
+即 O
+位 O
+， O
+
+追 O
+尊 O
+為 O
+皇 B-OTH
+太 I-OTH
+后 I-OTH
+， O
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+中 B-OTH
+右 I-OTH
+記 I-OTH
+嘉 O
+承 O
+二 O
+年 O
+。 O
+
+】 O
+詔 O
+曰 O
+： O
+
+「 O
+至 O
+德 O
+要 O
+
+道 O
+之 O
+訓 O
+， O
+
+孝 O
+行 O
+長 O
+存 O
+。 O
+
+三 O
+傳 O
+一 O
+旨 O
+之 O
+文 O
+， O
+
+母 O
+儀 O
+是 O
+貴 O
+。 O
+
+誠 O
+知 O
+， O
+
+仁 O
+義 O
+之 O
+基 O
+， O
+莫 O
+大 O
+於 O
+孝 O
+。 O
+
+嗚 O
+呼 O
+哀 O
+哉 O
+！ O
+朕 O
+之 O
+先 O
+妣 O
+， O
+
+當 O
+少 O
+日 O
+而 O
+乖 O
+恩 O
+愛 O
+。 O
+耳 O
+悲 O
+故 O
+老 O
+之 O
+言 O
+， O
+
+臨 O
+長 O
+年 O
+而 O
+知 O
+哀 O
+傷 O
+， O
+心 O
+切 O
+疇 O
+昔 O
+之 O
+思 O
+。 O
+
+歲 O
+月 O
+雖 O
+舊 O
+， O
+戀 O
+慕 O
+如 O
+新 O
+。 O
+
+嘗 O
+無 O
+助 O
+天 B-LOC
+下 I-LOC
+於 O
+內 O
+詔 O
+之 O
+日 O
+
+‧ O
+今 O
+變 O
+墳 O
+松 O
+於 O
+椒 O
+房 O
+之 O
+風 O
+。 O
+
+其 O
+以 O
+所 O
+生 O
+藤 O
+原 O
+氏 O
+為 O
+皇 B-PER
+太 I-PER
+后 I-PER
+。 O
+
+國 O
+忌 O
+、 O
+
+山 O
+陵 O
+， O
+
+一 O
+如 O
+舊 O
+典 O
+。 O
+
+」 O
+【 O
+小 B-OTH
+右 I-OTH
+記 I-OTH
+。 O
+
+】 O
+女 O
+御 O
+藤 B-PER
+原 I-PER
+怤 I-PER
+子 I-PER
+， O
+
+右 O
+大 O
+臣 O
+師 O
+輔 O
+女 O
+也 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+、 O
+歷 B-OTH
+代 I-OTH
+皇 I-OTH
+紀 I-OTH
+。 O
+
+】 O
+村 O
+上 O
+皇 B-PER
+后 I-PER
+同 O
+母 O
+妹 O
+也 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+裏 I-OTH
+書 I-OTH
+。 O
+
+】 O
+帝 O
+在 O
+東 O
+宮 O
+， O
+
+納 O
+為 O
+
+御 O
+息 O
+所 O
+， O
+【 O
+大 B-OTH
+鏡 I-OTH
+、 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+。 O
+
+】 O
+授 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+安 O
+和 O
+元 O
+年 O
+， O
+
+為 O
+女 O
+御 O
+， O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+進 O
+正 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+。 O
+
+】 O
+天 O
+元 O
+五 O
+年 O
+， O
+
+為 O
+尚 O
+侍 O
+， O
+
+陞 O
+從 O
+三 O
+位 O
+。 O
+
+【 O
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
+、 O
+
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
+寬 O
+和 O
+
+中 O
+， O
+至 O
+正 O
+三 O
+位 O
+。 O
+永 O
+祚 O
+元 O
+年 O
+， O
+
+為 O
+尼 O
+。 O
+【 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+
+】 O
 
